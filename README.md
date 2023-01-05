@@ -2,8 +2,8 @@
 
 # Positron LT
 
-| **Navigation:**| [All Parts (BOM)](/Parts) | [Assembly](/Assembly) | [Software](/Software) | 
-| --- | --- | --- | --- |
+| **Navigation:**| [All Parts (BOM)](/Parts) | [Assembly](/Assembly) | [Software](/Software) | [Gallery](/Gallery) | 
+| --- | --- | --- | --- | --- |
 
 <br>
 
