@@ -4,7 +4,7 @@
 You can also find the "bill of materials" (BOM) as a csv [here](./bom.csv).
 
 ## Printed Parts
-| Part Name | STL | STEP | Time | Weight| 
+| Part Name | STL | STEP | Print Time | Weight| 
 | --- | --- | --- | --- | --- |
 | Temp | [STL]() | [STEP]() | ~t | ~g |
 
