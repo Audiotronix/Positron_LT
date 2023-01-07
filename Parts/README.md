@@ -33,7 +33,7 @@
 ``Print time and part weight are a result of slicing the parts in slicer x with quality x for printer x``
 
 ## Mechanical Parts
-| Part Name | STL | STEP | Amount | Single Price | Price |
+| Part Name | Link | Alt Link | Amount | Single Price | Price |
 | --- | --- | --- | --- | --- | --- |
 | [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- | --- |
 | [101619-1](./Mechanical%20Parts/101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- | --- |
