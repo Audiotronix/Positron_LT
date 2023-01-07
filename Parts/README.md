@@ -4,30 +4,30 @@
 **You can also find the "bill of materials" (BOM) as a .CSV [here](./bom.csv).**
 
 ## Printed Parts
-| Part Name | STL | STEP | Print Time | Weight (g)| 
-| --- | --- | --- | --- | --- |
-| BASECOVER_LEFT | [STL](./Printed%20Parts/STL/BASECOVER_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT.step) |  ---  |  ---  |
-| BASEPART_FRONT | [STL](./Printed%20Parts/STL/BASEPART_FRONT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_FRONT.step) |  ---  |  ---  |
-| BASEPART_LEFT | [STL](./Printed%20Parts/STL/BASEPART_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_LEFT.step) |  ---  |  ---  |
-| BASEPART_RIGHT | [STL](./Printed%20Parts/STL/BASEPART_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_RIGHT.step) |  ---  |  ---  |
-| BEDHOLDER_CONNECTOR | [STL](./Printed%20Parts/STL/BEDHOLDER_CONNECTOR.stl) | [STEP](./Printed%20Parts/STEP/BEDHOLDER_CONNECTOR.step) |  ---  |  ---  |
-| BELT-TENSIONER_Z | [STL](./Printed%20Parts/STL/BELT-TENSIONER_Z.stl) | [STEP](./Printed%20Parts/STEP/BELT-TENSIONER_Z.step) |  ---  |  ---  |
-| COVER_ROUND | [STL](./Printed%20Parts/STL/COVER_ROUND.stl) | [STEP](./Printed%20Parts/STEP/COVER_ROUND.step) |  ---  |  ---  |
-| DISTANCE_RIGHT | [STL](./Printed%20Parts/STL/DISTANCE_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/DISTANCE_RIGHT.step) |  ---  |  ---  |
-| END_HOLDER_BLOCK | [STL](./Printed%20Parts/STL/END_HOLDER_BLOCK.stl) | [STEP](./Printed%20Parts/STEP/END_HOLDER_BLOCK.step) |  ---  |  ---  |
-| EXTRUDER_BASEPLATE | [STL](./Printed%20Parts/STL/EXTRUDER_BASEPLATE.stl) | [STEP](./Printed%20Parts/STEP/EXTRUDER_BASEPLATE.step) |  ---  |  ---  |
-| LEADSCREW_NUT_MOUNT_01 | [STL](./Printed%20Parts/STL/LEADSCREW_NUT_MOUNT_01.stl) | [STEP](./Printed%20Parts/STEP/LEADSCREW_NUT_MOUNT_01.step) |  ---  |  ---  |
-| LED_INDICATOR_MOUNT | [STL](./Printed%20Parts/STL/LED_INDICATOR_MOUNT.stl) | [STEP](./Printed%20Parts/STEP/LED_INDICATOR_MOUNT.step) |  ---  |  ---  |
-| MOTORBRACKET_LEFT | [STL](./Printed%20Parts/STL/MOTORBRACKET_LEFT.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_LEFT.step) |  ---  |  ---  |
-| MOTORBRACKET_RIGHT | [STL](./Printed%20Parts/STL/MOTORBRACKET_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_RIGHT.step) |  ---  |  ---  |
-| MOTORMOUNT_DISTANCE_LEFT | [STL](./Printed%20Parts/STL/MOTORMOUNT_DISTANCE_LEFT.stl) | [STEP](./Printed%20Parts/STEP/MOTORMOUNT_DISTANCE_LEFT.step) |  ---  |  ---  |
-| PICO_MOUNT_SKETCH | [STL](./Printed%20Parts/STL/PICO_MOUNT_SKETCH.stl) | [STEP](./Printed%20Parts/STEP/PICO_MOUNT_SKETCH.step) |  ---  |  ---  |
-| SCREWMOUNT_BOTTOM_03 | [STL](./Printed%20Parts/STL/SCREWMOUNT_BOTTOM_03.stl) | [STEP](./Printed%20Parts/STEP/SCREWMOUNT_BOTTOM_03.step) |  ---  |  ---  |
-| SIDE_PANEL_LEFT_2 | [STL](./Printed%20Parts/STL/SIDE_PANEL_LEFT_2.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_LEFT_2.step) |  ---  |  ---  |
-| SIDE_PANEL_RIGHT_2 | [STL](./Printed%20Parts/STL/SIDE_PANEL_RIGHT_2.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_RIGHT_2.step) |  ---  |  ---  |
-| XY-SPACER | [STL](./Printed%20Parts/STL/XY-SPACER.stl) | [STEP](./Printed%20Parts/STEP/XY-SPACER.step) |  ---  |  ---  |
-| Z-AXIS-ENDSTOP | [STL](./Printed%20Parts/STL/Z-AXIS-ENDSTOP.stl) | [STEP](./Printed%20Parts/STEP/Z-AXIS-ENDSTOP.step) |  ---  |  ---  |
-| Z-BLOCK_HOLDER | [STL](./Printed%20Parts/STL/Z-BLOCK_HOLDER.stl) | [STEP](./Printed%20Parts/STEP/Z-BLOCK_HOLDER.step) |  ---  |  ---  |
+| Part Name | STL | STEP | Amount | Print Time | Weight (g)| 
+| --- | --- | --- | --- | --- | --- |
+| BASECOVER_LEFT | [STL](./Printed%20Parts/STL/BASECOVER_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT.step) | 1 |  ---  |  ---  |
+| BASEPART_FRONT | [STL](./Printed%20Parts/STL/BASEPART_FRONT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_FRONT.step) | 1 |  ---  |  ---  |
+| BASEPART_LEFT | [STL](./Printed%20Parts/STL/BASEPART_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_LEFT.step) | 1 |  ---  |  ---  |
+| BASEPART_RIGHT | [STL](./Printed%20Parts/STL/BASEPART_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_RIGHT.step) | 1 |  ---  |  ---  |
+| BEDHOLDER_CONNECTOR | [STL](./Printed%20Parts/STL/BEDHOLDER_CONNECTOR.stl) | [STEP](./Printed%20Parts/STEP/BEDHOLDER_CONNECTOR.step) | 1 |  ---  |  ---  |
+| BELT-TENSIONER_Z | [STL](./Printed%20Parts/STL/BELT-TENSIONER_Z.stl) | [STEP](./Printed%20Parts/STEP/BELT-TENSIONER_Z.step) | 1 |  ---  |  ---  |
+| COVER_ROUND | [STL](./Printed%20Parts/STL/COVER_ROUND.stl) | [STEP](./Printed%20Parts/STEP/COVER_ROUND.step) | 2 |  ---  |  ---  |
+| DISTANCE_RIGHT | [STL](./Printed%20Parts/STL/DISTANCE_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/DISTANCE_RIGHT.step) | 1 |  ---  |  ---  |
+| END_HOLDER_BLOCK | [STL](./Printed%20Parts/STL/END_HOLDER_BLOCK.stl) | [STEP](./Printed%20Parts/STEP/END_HOLDER_BLOCK.step) | 1 |  ---  |  ---  |
+| EXTRUDER_BASEPLATE | [STL](./Printed%20Parts/STL/EXTRUDER_BASEPLATE.stl) | [STEP](./Printed%20Parts/STEP/EXTRUDER_BASEPLATE.step) | 1 |  ---  |  ---  |
+| LEADSCREW_NUT_MOUNT_01 | [STL](./Printed%20Parts/STL/LEADSCREW_NUT_MOUNT_01.stl) | [STEP](./Printed%20Parts/STEP/LEADSCREW_NUT_MOUNT_01.step) | 1 |  ---  |  ---  |
+| LED_INDICATOR_MOUNT | [STL](./Printed%20Parts/STL/LED_INDICATOR_MOUNT.stl) | [STEP](./Printed%20Parts/STEP/LED_INDICATOR_MOUNT.step) | 1 |  ---  |  ---  |
+| MOTORBRACKET_LEFT | [STL](./Printed%20Parts/STL/MOTORBRACKET_LEFT.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_LEFT.step) | 1 |  ---  |  ---  |
+| MOTORBRACKET_RIGHT | [STL](./Printed%20Parts/STL/MOTORBRACKET_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_RIGHT.step) | 1 |  ---  |  ---  |
+| MOTORMOUNT_DISTANCE_LEFT | [STL](./Printed%20Parts/STL/MOTORMOUNT_DISTANCE_LEFT.stl) | [STEP](./Printed%20Parts/STEP/MOTORMOUNT_DISTANCE_LEFT.step) | 1 |  ---  |  ---  |
+| PICO_MOUNT_SKETCH | [STL](./Printed%20Parts/STL/PICO_MOUNT_SKETCH.stl) | [STEP](./Printed%20Parts/STEP/PICO_MOUNT_SKETCH.step) | 1 |  ---  |  ---  |
+| SCREWMOUNT_BOTTOM_03 | [STL](./Printed%20Parts/STL/SCREWMOUNT_BOTTOM_03.stl) | [STEP](./Printed%20Parts/STEP/SCREWMOUNT_BOTTOM_03.step) | 1 |  ---  |  ---  |
+| SIDE_PANEL_LEFT_2 | [STL](./Printed%20Parts/STL/SIDE_PANEL_LEFT_2.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_LEFT_2.step) | 1 |  ---  |  ---  |
+| SIDE_PANEL_RIGHT_2 | [STL](./Printed%20Parts/STL/SIDE_PANEL_RIGHT_2.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_RIGHT_2.step) | 1 |  ---  |  ---  |
+| XY-SPACER | [STL](./Printed%20Parts/STL/XY-SPACER.stl) | [STEP](./Printed%20Parts/STEP/XY-SPACER.step) | 1 |  ---  |  ---  |
+| Z-AXIS-ENDSTOP | [STL](./Printed%20Parts/STL/Z-AXIS-ENDSTOP.stl) | [STEP](./Printed%20Parts/STEP/Z-AXIS-ENDSTOP.step) | 1 |  ---  |  ---  |
+| Z-BLOCK_HOLDER | [STL](./Printed%20Parts/STL/Z-BLOCK_HOLDER.stl) | [STEP](./Printed%20Parts/STEP/Z-BLOCK_HOLDER.step) | 1 |  ---  |  ---  |
 
 ``Click on the links to be redirected to the file``<br>
 ``Print time and part weight are a result of slicing the parts in slicer x with quality x for printer x``
