@@ -1,95 +1,95 @@
-type;cad_name;part_name;amount;single_price;price;link;alt_link;note
-printed;BASECOVER_LEFT;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;BASEPART_FRONT;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;BASEPART_LEFT;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;BASEPART_RIGHT;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;BEDHOLDER_CONNECTOR;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;BELT-TENSIONER_Z;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;COVER_ROUND;---;2;---;---;---;---;"[t: --- ;w: --- ]"
-printed;DISTANCE_RIGHT;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;END_HOLDER_BLOCK;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;EXTRUDER_BASEPLATE;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;LEADSCREW_NUT_MOUNT_01;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;LED_INDICATOR_MOUNT;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;MOTORBRACKET_LEFT;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;MOTORBRACKET_RIGHT;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;MOTORMOUNT_DISTANCE_LEFT;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;PICO_MOUNT_SKETCH;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;SCREWMOUNT_BOTTOM_03;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;SIDE_PANEL_LEFT_2;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;SIDE_PANEL_RIGHT_2;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;XY-SPACER;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;Z-AXIS-ENDSTOP;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-printed;Z-BLOCK_HOLDER;---;1;---;---;---;---;"[t: --- ;w: --- ]"
-;;;;;;;;
-mechanical;100304;---;7;---;---;---;---;
-mechanical;101619-1;---;17;---;---;---;---;
-mechanical;10PIN_EXP_MALE_1;---;1;---;---;---;---;
-mechanical;17HM08-1204S;---;2;---;---;---;---;
-mechanical;17HM08-1204S_AF1;---;1;---;---;---;---;
-mechanical;301132159571;---;5;---;---;---;---;
-mechanical;301132320130;---;2;---;---;---;---;
-mechanical;6_PIN_MEGNEGTIC_POGO_PINS_1_2_3;---;1;---;---;---;---;
-mechanical;BASEPLATE_MB_BK;---;1;---;---;---;---;
-mechanical;BEARING_3X10X4MM;---;1;---;---;---;---;
-mechanical;BEARING_3X10X4MM_V1_MIRROR____1;---;1;---;---;---;---;
-mechanical;BELT_L178;---;1;---;---;---;---;
-mechanical;BODY1-30585;---;2;---;---;---;---;
-mechanical;C7-PLUG;---;1;---;---;---;---;
-mechanical;C7_PLUG-IN;---;1;---;---;---;---;
-mechanical;COMPONENT1_1;---;2;---;---;---;---;
-mechanical;DIN7979_M3X5X10;---;2;---;---;---;---;
-mechanical;DIN988_7X13X01;---;40;---;---;---;---;
-mechanical;DUST_COVER;---;2;---;---;---;---;
-mechanical;EPP-200;---;1;---;---;---;---;
-mechanical;F5-10M_CAGE_BB;---;2;---;---;---;---;
-mechanical;F_683_VA_1;---;20;---;---;---;---;
-mechanical;GT2-20T-3MM_PULLEY;---;2;---;---;---;---;
-mechanical;GT2_16T_IDLER_SMOOTH;---;1;---;---;---;---;
-mechanical;ISO10642_M3X12;---;4;---;---;---;---;
-mechanical;ISO10642_M3X14;---;34;---;---;---;---;
-mechanical;ISO10642_M3X18;---;5;---;---;---;---;
-mechanical;ISO10642_M3X25;---;3;---;---;---;---;
-mechanical;ISO10642_M3X35;---;8;---;---;---;---;
-mechanical;ISO10642_M3X4;---;3;---;---;---;---;
-mechanical;ISO10642_M3X8;---;6;---;---;---;---;
-mechanical;ISO_4762_M3X20;---;5;---;---;---;---;
-mechanical;ISO_4762_M3X6;---;5;---;---;---;---;
-mechanical;ISO_7380_M3X10;---;1;---;---;---;---;
-mechanical;ISO_7380_M3X4;---;4;---;---;---;---;
-mechanical;KLEMMRING;---;2;---;---;---;---;
-mechanical;LEADSCREW_T5X4_L225;---;1;---;---;---;---;
-mechanical;LEADSVREW_NUT_T5X4;---;1;---;---;---;---;
-mechanical;LED_4X_15X15;---;1;---;---;---;---;
-mechanical;M3X12_WAFER_HEAD;---;6;---;---;---;---;
-mechanical;M3X14_WAFER_HEAD_1_2;---;4;---;---;---;---;
-mechanical;M3X2_4MM_HEX_NUT_1_2_3;---;2;---;---;---;---;
-mechanical;M3_INSERT_SHORT;---;9;---;---;---;---;
-mechanical;M3_SPACOR_;---;2;---;---;---;---;
-mechanical;M3_WASHER_1_2_3;---;7;---;---;---;---;
-mechanical;MADENSCHRAUBE_M3X3;---;1;---;---;---;---;
-mechanical;MAKERBEAM-CUBE;---;2;---;---;---;---;
-mechanical;MAKERBEAM-CUBE_AF0;---;1;---;---;---;---;
-mechanical;MAKERBEAM_L200_AF0;---;1;---;---;---;---;
-mechanical;MAKERBEAM_L200_AF1;---;1;---;---;---;---;
-mechanical;MAKERBEAM_L230_AF0;---;1;---;---;---;---;
-mechanical;MAKERBEAM_L240_AF0;---;1;---;---;---;---;
-mechanical;MAKERBEAM_L240_AF1;---;1;---;---;---;---;
-mechanical;MAKERBEAM_L250_AF0;---;1;---;---;---;---;
-mechanical;MAKERBEAM_L250_AF1;---;1;---;---;---;---;
-mechanical;MAKERBEAM_L250_AF2;---;1;---;---;---;---;
-mechanical;MAKERBEAM_L30;---;1;---;---;---;---;
-mechanical;MF85_BEARING;---;2;---;---;---;---;
-mechanical;MGN12_L225;---;1;---;---;---;---;
-mechanical;MGN9_RAIL_V2_1_2;---;1;---;---;---;---;
-mechanical;MGW9-RAIL_L227;---;1;---;---;---;---;
-mechanical;MGW9C1R100ZFC;---;1;---;---;---;---;
-mechanical;MR115_BEARING;---;1;---;---;---;---;
-mechanical;MR_117_2Z_2;---;10;---;---;---;---;
-mechanical;PR;---;1;---;---;---;---;
-mechanical;PRODUCT_NAME_1_1_2_3;---;2;---;---;---;---;
-mechanical;PULLEY_T20_LOWPROFILE;---;2;---;---;---;---;
-mechanical;WAFERHEAD_M3X10;---;11;---;---;---;---;
-mechanical;WAFERHEAD_M3X20;---;3;---;---;---;---;
-mechanical;Z-BLOCK-CUBE_M6;---;1;---;---;---;---;
-;;;;;;;;
+type,cad_name,part_name,amount,single_price,price,link,alt_link,note
+printed,BASECOVER_LEFT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,BASEPART_FRONT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,BASEPART_LEFT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,BASEPART_RIGHT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,BEDHOLDER_CONNECTOR,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,BELT-TENSIONER_Z,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,COVER_ROUND,---,2,---,---,---,---,[t: --- ;w: --- ]
+printed,DISTANCE_RIGHT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,END_HOLDER_BLOCK,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,EXTRUDER_BASEPLATE,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,LEADSCREW_NUT_MOUNT_01,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,LED_INDICATOR_MOUNT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,MOTORBRACKET_LEFT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,MOTORBRACKET_RIGHT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,MOTORMOUNT_DISTANCE_LEFT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,PICO_MOUNT_SKETCH,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,SCREWMOUNT_BOTTOM_03,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,SIDE_PANEL_LEFT_2,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,SIDE_PANEL_RIGHT_2,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,XY-SPACER,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,Z-AXIS-ENDSTOP,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,Z-BLOCK_HOLDER,---,1,---,---,---,---,[t: --- ;w: --- ]
+,,,,,,,,
+mechanical,100304,---,7,---,---,---,---,
+mechanical,101619-1,---,17,---,---,---,---,
+mechanical,10PIN_EXP_MALE_1,---,1,---,---,---,---,
+mechanical,17HM08-1204S,---,2,---,---,---,---,
+mechanical,17HM08-1204S_AF1,---,1,---,---,---,---,
+mechanical,301132159571,---,5,---,---,---,---,
+mechanical,301132320130,---,2,---,---,---,---,
+mechanical,6_PIN_MEGNEGTIC_POGO_PINS_1_2_3,---,1,---,---,---,---,
+mechanical,BASEPLATE_MB_BK,---,1,---,---,---,---,
+mechanical,BEARING_3X10X4MM,---,1,---,---,---,---,
+mechanical,BEARING_3X10X4MM_V1_MIRROR____1,---,1,---,---,---,---,
+mechanical,BELT_L178,---,1,---,---,---,---,
+mechanical,BODY1-30585,---,2,---,---,---,---,
+mechanical,C7-PLUG,---,1,---,---,---,---,
+mechanical,C7_PLUG-IN,---,1,---,---,---,---,
+mechanical,COMPONENT1_1,---,2,---,---,---,---,
+mechanical,DIN7979_M3X5X10,---,2,---,---,---,---,
+mechanical,DIN988_7X13X01,---,40,---,---,---,---,
+mechanical,DUST_COVER,---,2,---,---,---,---,
+mechanical,EPP-200,---,1,---,---,---,---,
+mechanical,F5-10M_CAGE_BB,---,2,---,---,---,---,
+mechanical,F_683_VA_1,---,20,---,---,---,---,
+mechanical,GT2-20T-3MM_PULLEY,---,2,---,---,---,---,
+mechanical,GT2_16T_IDLER_SMOOTH,---,1,---,---,---,---,
+mechanical,ISO10642_M3X12,---,4,---,---,---,---,
+mechanical,ISO10642_M3X14,---,34,---,---,---,---,
+mechanical,ISO10642_M3X18,---,5,---,---,---,---,
+mechanical,ISO10642_M3X25,---,3,---,---,---,---,
+mechanical,ISO10642_M3X35,---,8,---,---,---,---,
+mechanical,ISO10642_M3X4,---,3,---,---,---,---,
+mechanical,ISO10642_M3X8,---,6,---,---,---,---,
+mechanical,ISO_4762_M3X20,---,5,---,---,---,---,
+mechanical,ISO_4762_M3X6,---,5,---,---,---,---,
+mechanical,ISO_7380_M3X10,---,1,---,---,---,---,
+mechanical,ISO_7380_M3X4,---,4,---,---,---,---,
+mechanical,KLEMMRING,---,2,---,---,---,---,
+mechanical,LEADSCREW_T5X4_L225,---,1,---,---,---,---,
+mechanical,LEADSVREW_NUT_T5X4,---,1,---,---,---,---,
+mechanical,LED_4X_15X15,---,1,---,---,---,---,
+mechanical,M3X12_WAFER_HEAD,---,6,---,---,---,---,
+mechanical,M3X14_WAFER_HEAD_1_2,---,4,---,---,---,---,
+mechanical,M3X2_4MM_HEX_NUT_1_2_3,---,2,---,---,---,---,
+mechanical,M3_INSERT_SHORT,---,9,---,---,---,---,
+mechanical,M3_SPACOR_,---,2,---,---,---,---,
+mechanical,M3_WASHER_1_2_3,---,7,---,---,---,---,
+mechanical,MADENSCHRAUBE_M3X3,---,1,---,---,---,---,
+mechanical,MAKERBEAM-CUBE,---,2,---,---,---,---,
+mechanical,MAKERBEAM-CUBE_AF0,---,1,---,---,---,---,
+mechanical,MAKERBEAM_L200_AF0,---,1,---,---,---,---,
+mechanical,MAKERBEAM_L200_AF1,---,1,---,---,---,---,
+mechanical,MAKERBEAM_L230_AF0,---,1,---,---,---,---,
+mechanical,MAKERBEAM_L240_AF0,---,1,---,---,---,---,
+mechanical,MAKERBEAM_L240_AF1,---,1,---,---,---,---,
+mechanical,MAKERBEAM_L250_AF0,---,1,---,---,---,---,
+mechanical,MAKERBEAM_L250_AF1,---,1,---,---,---,---,
+mechanical,MAKERBEAM_L250_AF2,---,1,---,---,---,---,
+mechanical,MAKERBEAM_L30,---,1,---,---,---,---,
+mechanical,MF85_BEARING,---,2,---,---,---,---,
+mechanical,MGN12_L225,---,1,---,---,---,---,
+mechanical,MGN9_RAIL_V2_1_2,---,1,---,---,---,---,
+mechanical,MGW9-RAIL_L227,---,1,---,---,---,---,
+mechanical,MGW9C1R100ZFC,---,1,---,---,---,---,
+mechanical,MR115_BEARING,---,1,---,---,---,---,
+mechanical,MR_117_2Z_2,---,10,---,---,---,---,
+mechanical,PR,---,1,---,---,---,---,
+mechanical,PRODUCT_NAME_1_1_2_3,---,2,---,---,---,---,
+mechanical,PULLEY_T20_LOWPROFILE,---,2,---,---,---,---,
+mechanical,WAFERHEAD_M3X10,---,11,---,---,---,---,
+mechanical,WAFERHEAD_M3X20,---,3,---,---,---,---,
+mechanical,Z-BLOCK-CUBE_M6,---,1,---,---,---,---,
+,,,,,,,,
