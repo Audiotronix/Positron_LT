@@ -106,7 +106,7 @@
 | [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- | --- |
 | [Z-BLOCK-CUBE_M6](./Mechanical%20Parts/Z-BLOCK-CUBE_M6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
 
-``Click on the part name to see a 3D model of it (they are not intedet to be printed!)``<br>
+``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price and single price are based on the first/main link of each product``
 
 > Note: Some links might be affiliate links!
