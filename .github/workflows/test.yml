@@ -10,12 +10,12 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - name: Create report file
+      - name: Create readme
         run: |
           python ./.github/workflows/test.py
       - name: Commit readme
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git commit -m "Auto generated readme table"
+          git diff --quiet && git diff --staged --quiet || git commit -am 'Auto updated readme table'
           git push
