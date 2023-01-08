@@ -1,12 +1,15 @@
 name: test-action
 on: push
 jobs:
-  test:
+  report:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '14'
-      - run: npm install -g bats
-      - run: bats -v
+      - uses: actions/checkout@v2
+      - name: Create report file
+        run: test
+      - name: Commit readme
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -m "Auto generated readme table"
+          git push
