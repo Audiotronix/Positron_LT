@@ -35,6 +35,8 @@
 
 ## Mechanical Parts
 
+| Part Name | Link | Alt Link | Amount | Price | Note |
+| --- | --- | --- | --- | --- | --- |
 | [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
 | [101619-1](./Mechanical%20Parts/101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
