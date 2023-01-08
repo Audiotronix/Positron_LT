@@ -1,12 +1,18 @@
 name: test-action
 on: push
 jobs:
-  report:
+  readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: checkout repo content
+        uses: actions/checkout@v2
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
       - name: Create report file
-        run: test
+        run: |
+          python test.py
       - name: Commit readme
         run: |
           git config --global user.email "action@github.com"
