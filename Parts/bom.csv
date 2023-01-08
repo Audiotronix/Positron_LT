@@ -1,5 +1,5 @@
 type,cad_name,part_name,amount,single_price,price,link,alt_link,note
-printed,BASECOVER_LEFT,---,1,---,---,---,---,[t: --- ;w: --- ]
+printed,BASECOVER_LEFT,---,1,---,---,---,---,[t: --- ;w: 300 ]
 printed,BASEPART_FRONT,---,1,---,---,---,---,[t: --- ;w: --- ]
 printed,BASEPART_LEFT,---,1,---,---,---,---,[t: --- ;w: --- ]
 printed,BASEPART_RIGHT,---,1,---,---,---,---,[t: --- ;w: --- ]
@@ -23,13 +23,13 @@ printed,Z-AXIS-ENDSTOP,---,1,---,---,---,---,[t: --- ;w: --- ]
 printed,Z-BLOCK_HOLDER,---,1,---,---,---,---,[t: --- ;w: --- ]
 ,,,,,,,,
 mechanical,100304,---,7,---,---,---,---,
-mechanical,101619-1,---,17,---,---,---,---,
+mechanical,101619-1,---,17,---,---,https://github.com/Fliens/Positron_LT/edit/main/Parts/bom.csv,---,
 mechanical,10PIN_EXP_MALE_1,---,1,---,---,---,---,
 mechanical,17HM08-1204S,---,2,---,---,---,---,
 mechanical,17HM08-1204S_AF1,---,1,---,---,---,---,
 mechanical,301132159571,---,5,---,---,---,---,
 mechanical,301132320130,---,2,---,---,---,---,
-mechanical,6_PIN_MEGNEGTIC_POGO_PINS_1_2_3,---,1,---,---,---,---,
+mechanical,6_PIN_MEGNEGTIC_POGO_PINS_1_2_3,---,1,---,---,---,---,hallo test
 mechanical,BASEPLATE_MB_BK,---,1,---,---,---,---,
 mechanical,BEARING_3X10X4MM,---,1,---,---,---,---,
 mechanical,BEARING_3X10X4MM_V1_MIRROR____1,---,1,---,---,---,---,
