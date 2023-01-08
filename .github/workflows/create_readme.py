@@ -12,18 +12,27 @@ try:
 except:
     print('No bom.csv found!')
 
+longest_printed_name = 0
+longest_mechanical_name = 0
+
 categories = {}
 for part in csv_data:
+    if csv_data[part]['type'] == 'printed' and len(part) > longest_printed_name:
+        longest_printed_name = len(part)
+    if csv_data[part]['type'] == 'mechanical' and len(part) > longest_mechanical_name:
+        longest_mechanical_name = len(part)
+    
     if csv_data[part]['category'] not in categories and csv_data[part]['category'] != '':
         categories[csv_data[part]['category']] = csv_data[part]['type']
+
 categories = collections.OrderedDict(
     sorted(categories.items()))  # sort cats
 
 #create table strings
 printed_table = ''
-printed_header = '| Part Name | STL | STEP | Amount | Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
+printed_header = '|'+' '*int((longest_printed_name-8)/2)+'Part Name'+' '*int((longest_printed_name-8)/2)+'| STL | STEP | Amount | Print Time | Weight (g)|\n| :---: | --- | --- | --- | --- | --- |\n'
 mechanical_table = ''
-mechanical_header = '| Part Name | Link | Alt Link | Amount | Price | Note |\n| --- | --- | --- | --- | --- | --- |\n'
+mechanical_header = '|'+' '*int((longest_printed_name-8)/2)+'Part Name'+' '*int((longest_printed_name-8)/2)+'| Link | Alt Link | Amount | Price | Note |\n| :---: | --- | --- | --- | --- | --- |\n'
 
 for category in categories:
     if categories[category] == 'printed':
