@@ -1,2 +1,2 @@
 print('-Creating README')
-file = open('test.txt','w')
+file = open('./Parts/test.txt','w')
