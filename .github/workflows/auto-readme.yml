@@ -17,5 +17,6 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
+          git add .
           git diff --quiet && git diff --staged --quiet || git commit -am 'Auto updated readme table'
           git push
