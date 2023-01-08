@@ -21,13 +21,15 @@ categories = collections.OrderedDict(
 
 #create table strings
 printed_table = ''
+printed_header = '| Part Name | STL | STEP | Amount | Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
 mechanical_table = ''
+mechanical_header = '| Part Name | Link | Alt Link | Amount | Price | Note |\n| --- | --- | --- | --- | --- | --- |\n'
 
 for category in categories:
     if categories[category] == 'printed':
-        printed_table+='| :arrow_forward:**'+category+':** |\n'
+        printed_table+='\n### '+str(category).upper()+':\n' + printed_header
     if categories[category] == 'mechanical':
-        mechanical_table+='| :arrow_forward:**'+category+':** |\n'
+        mechanical_table+='\n### '+str(category).upper()+':\n' + mechanical_header
     
     #parts with category
     for row in csv_data:
@@ -37,6 +39,12 @@ for category in categories:
             printed_table += '| '+str(entry['cad_name'])+ ' | [STL](./Printed%20Parts/STL/'+str(entry['cad_name'])+'.stl) | [STEP](./Printed%20Parts/STEP/'+str(entry['cad_name'])+'.step) | '+str(entry['amount'])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[0])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[1].split(']')[0])+' |\n'
         elif entry['type'] == 'mechanical':
             mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(entry['link'])+') | ['+('link' if str(entry['alt_link']) != '---' else ':small_red_triangle:')+']('+str(entry['alt_link'])+') | '+str(entry['amount'])+' | '+str(entry['price'])+' | '+str(entry['note'])+' |\n'
+
+#set header for parts without category
+if 'printed' in categories.values():
+    printed_table += '\n'+ printed_header
+if 'mechanical' in categories.values():
+    mechanical_table += '\n'+ mechanical_header
 
 for row in csv_data:
     entry = csv_data[row]
@@ -55,30 +63,45 @@ with open('./Parts/README.md', "r") as f:
 printed_line, mechanical_line = 0, 0
 for i, line in enumerate(lines):
     if '## Printed Parts' in line:
-        printed_line = i +3
+        printed_line = i
     if '## Mechanical Parts' in line:
         mechanical_line = i +1
 
+lines_iter = iter(lines)
 with open('./Parts/README.md', "w") as f:
-    for i, line in enumerate(lines):
-        if i < printed_line:
-            f.write(line)
-        else:
-            for entry in printed_table:
-                f.write(entry)
-            break
+    
+    line = next(lines_iter)
 
-    for i, line in enumerate(lines):
-        if i > printed_line:
-            if line[0] != '|' and i < mechanical_line:
-                f.write(line)
-            elif i >= mechanical_line:
-                f.write(line)
-            if i == mechanical_line+1:
-                for entry in mechanical_table:
-                    f.write(entry)
-                break
+    #Fing begining of printed table
+    while '## Printed Parts' not in line:
+        f.write(line)
+        line = next(lines_iter)
+    f.write(line)
 
-    for i, line in enumerate(lines):
-        if i > mechanical_line and line[0] != '|':
-            f.write(line)
+    #write printed table
+    for x in printed_table:
+        f.write(x)
+    
+    #find end of table
+    while line[:2] != '``':
+        line = next(lines_iter)
+    f.write('\n')
+
+    #Fing begining of mechanical table
+    while '## Mechanical Parts' not in line:
+        f.write(line)
+        line = next(lines_iter)
+    f.write(line)
+
+    #write mechanical table
+    for x in mechanical_table:
+        f.write(x)
+    
+    #find end of table
+    while line[:2] != '``':
+        line = next(lines_iter)
+    f.write('\n')
+
+    while line:
+        f.write(line)
+        line = next(lines_iter,False)
