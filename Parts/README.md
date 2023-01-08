@@ -4,6 +4,9 @@
 **You can also find the "bill of materials" (BOM) as a .CSV [here](./bom.csv).**
 
 ## Printed Parts
+
+| Part Name | STL | STEP | Amount | Print Time | Weight (g)|
+| --- | --- | --- | --- | --- | --- |
 | BASECOVER_LEFT | [STL](./Printed%20Parts/STL/BASECOVER_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT.step) | 1 |  ---  |  ---  |
 | BASEPART_FRONT | [STL](./Printed%20Parts/STL/BASEPART_FRONT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_FRONT.step) | 1 |  ---  |  ---  |
 | BASEPART_LEFT | [STL](./Printed%20Parts/STL/BASEPART_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_LEFT.step) | 1 |  ---  |  ---  |
@@ -31,6 +34,7 @@
 ``Print time and part weight are a result of slicing the parts in slicer x with quality x for printer x``
 
 ## Mechanical Parts
+
 | [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
 | [101619-1](./Mechanical%20Parts/101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
