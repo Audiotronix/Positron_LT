@@ -6,7 +6,7 @@
 ## Printed Parts
 | Part Name | STL | STEP | Amount | Print Time | Weight (g)| 
 | --- | --- | --- | --- | --- | --- |
-| BASECOVER_LEFT | [STL](./Printed%20Parts/STL/BASECOVER_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT.step) | 1 |  ---  |  300  |
+| BASECOVER_LEFT | [STL](./Printed%20Parts/STL/BASECOVER_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT.step) | 1 |  ---  |  ---  |
 | BASEPART_FRONT | [STL](./Printed%20Parts/STL/BASEPART_FRONT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_FRONT.step) | 1 |  ---  |  ---  |
 | BASEPART_LEFT | [STL](./Printed%20Parts/STL/BASEPART_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_LEFT.step) | 1 |  ---  |  ---  |
 | BASEPART_RIGHT | [STL](./Printed%20Parts/STL/BASEPART_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_RIGHT.step) | 1 |  ---  |  ---  |
@@ -35,13 +35,13 @@
 ## Mechanical Parts
 | Part Name | Link | Alt Link | Amount | Price | Note |
 | --- | --- | --- | --- | --- | --- |
-| [L-Bracket](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
-| [101619-1](./Mechanical%20Parts/101619-1.stl) | [link](https://github.com/Fliens/Positron_LT/edit/main/Parts/bom.csv) | [:small_red_triangle:](---) | 17 | --- |  |
+| [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
+| [101619-1](./Mechanical%20Parts/101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 | [301132159571](./Mechanical%20Parts/301132159571.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
 | [301132320130](./Mechanical%20Parts/301132320130.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [6_PIN_MEGNEGTIC_POGO_PINS_1_2_3](./Mechanical%20Parts/6_PIN_MEGNEGTIC_POGO_PINS_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | hallo test |
+| [6_PIN_MEGNEGTIC_POGO_PINS_1_2_3](./Mechanical%20Parts/6_PIN_MEGNEGTIC_POGO_PINS_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [BASEPLATE_MB_BK](./Mechanical%20Parts/BASEPLATE_MB_BK.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [BEARING_3X10X4MM](./Mechanical%20Parts/BEARING_3X10X4MM.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [BEARING_3X10X4MM_V1_MIRROR____1](./Mechanical%20Parts/BEARING_3X10X4MM_V1_MIRROR____1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
