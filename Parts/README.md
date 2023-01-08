@@ -38,8 +38,7 @@
 | [L-Bracket](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
 | [101619-1](./Mechanical%20Parts/101619-1.stl) | [link](https://github.com/Fliens/Positron_LT/edit/main/Parts/bom.csv) | [:small_red_triangle:](---) | 17 | --- |  |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [17HM08-1204S_AF1](./Mechanical%20Parts/17HM08-1204S_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 | [301132159571](./Mechanical%20Parts/301132159571.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
 | [301132320130](./Mechanical%20Parts/301132320130.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [6_PIN_MEGNEGTIC_POGO_PINS_1_2_3](./Mechanical%20Parts/6_PIN_MEGNEGTIC_POGO_PINS_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | hallo test |
@@ -81,16 +80,11 @@
 | [M3_SPACOR_](./Mechanical%20Parts/M3_SPACOR_.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [M3_WASHER_1_2_3](./Mechanical%20Parts/M3_WASHER_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
 | [MADENSCHRAUBE_M3X3](./Mechanical%20Parts/MADENSCHRAUBE_M3X3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [MAKERBEAM-CUBE_AF0](./Mechanical%20Parts/MAKERBEAM-CUBE_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L200_AF0](./Mechanical%20Parts/MAKERBEAM_L200_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L200_AF1](./Mechanical%20Parts/MAKERBEAM_L200_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L230_AF0](./Mechanical%20Parts/MAKERBEAM_L230_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L240_AF0](./Mechanical%20Parts/MAKERBEAM_L240_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L240_AF1](./Mechanical%20Parts/MAKERBEAM_L240_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L250_AF0](./Mechanical%20Parts/MAKERBEAM_L250_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L250_AF1](./Mechanical%20Parts/MAKERBEAM_L250_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L250_AF2](./Mechanical%20Parts/MAKERBEAM_L250_AF2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
+| [MAKERBEAM_L200](./Mechanical%20Parts/MAKERBEAM_L200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [MAKERBEAM_L230](./Mechanical%20Parts/MAKERBEAM_L230.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L240](./Mechanical%20Parts/MAKERBEAM_L240.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [MAKERBEAM_L250](./Mechanical%20Parts/MAKERBEAM_L250.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 | [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [MGN12_L225](./Mechanical%20Parts/MGN12_L225.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
