@@ -43,8 +43,12 @@ for category in categories:
 #set header for parts without category
 if 'printed' in categories.values():
     printed_table += '\n'+ printed_header
+else:
+    printed_table = '\n' + printed_header
 if 'mechanical' in categories.values():
     mechanical_table += '\n'+ mechanical_header
+else:
+    mechanical_table = '\n' + mechanical_table
 
 for row in csv_data:
     entry = csv_data[row]
