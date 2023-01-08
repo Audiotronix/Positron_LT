@@ -48,7 +48,7 @@ else:
 if 'mechanical' in categories.values():
     mechanical_table += '\n'+ mechanical_header
 else:
-    mechanical_table = '\n' + mechanical_table
+    mechanical_table = '\n' + mechanical_header
 
 for row in csv_data:
     entry = csv_data[row]
