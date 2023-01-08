@@ -30,9 +30,9 @@ categories = collections.OrderedDict(
 
 #create table strings
 printed_table = ''
-printed_header = '|'+' '*int((longest_printed_name-8)/2)+'Part Name'+' '*int((longest_printed_name-8)/2)+'| STL | STEP | Amount | Print Time | Weight (g)|\n| :---: | --- | --- | --- | --- | --- |\n'
+printed_header = '|'+' '*int((longest_printed_name-8)/2)*2+'Part Name'+' '*int((longest_printed_name-8)/2)*2+'| STL | STEP | Amount | Print Time | Weight (g)|\n| :---: | --- | --- | --- | --- | --- |\n'
 mechanical_table = ''
-mechanical_header = '|'+' '*int((longest_printed_name-8)/2)+'Part Name'+' '*int((longest_printed_name-8)/2)+'| Link | Alt Link | Amount | Price | Note |\n| :---: | --- | --- | --- | --- | --- |\n'
+mechanical_header = '|'+' '*int((longest_printed_name-8)/2)*2+'Part Name'+' '*int((longest_printed_name-8)/2)*2+'| Link | Alt Link | Amount | Price | Note |\n| :---: | --- | --- | --- | --- | --- |\n'
 
 for category in categories:
     if categories[category] == 'printed':
