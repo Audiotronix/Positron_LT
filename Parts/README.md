@@ -35,6 +35,24 @@
 
 ## Mechanical Parts
 
+### FASTENERS:
+| Part Name | Link | Alt Link | Amount | Price | Note |
+| --- | --- | --- | --- | --- | --- |
+| [ISO_4762_M3X20](./Mechanical%20Parts/ISO_4762_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
+| [ISO_4762_M3X6](./Mechanical%20Parts/ISO_4762_M3X6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
+| [ISO_7380_M3X10](./Mechanical%20Parts/ISO_7380_M3X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [ISO_7380_M3X4](./Mechanical%20Parts/ISO_7380_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
+
+### MAKERBEAM:
+| Part Name | Link | Alt Link | Amount | Price | Note |
+| --- | --- | --- | --- | --- | --- |
+| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
+| [MAKERBEAM_L200](./Mechanical%20Parts/MAKERBEAM_L200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [MAKERBEAM_L230](./Mechanical%20Parts/MAKERBEAM_L230.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L240](./Mechanical%20Parts/MAKERBEAM_L240.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [MAKERBEAM_L250](./Mechanical%20Parts/MAKERBEAM_L250.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
+| [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+
 | Part Name | Link | Alt Link | Amount | Price | Note |
 | --- | --- | --- | --- | --- | --- |
 | [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
@@ -67,10 +85,6 @@
 | [ISO10642_M3X35](./Mechanical%20Parts/ISO10642_M3X35.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 8 | --- |  |
 | [ISO10642_M3X4](./Mechanical%20Parts/ISO10642_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 | [ISO10642_M3X8](./Mechanical%20Parts/ISO10642_M3X8.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 6 | --- |  |
-| [ISO_4762_M3X20](./Mechanical%20Parts/ISO_4762_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
-| [ISO_4762_M3X6](./Mechanical%20Parts/ISO_4762_M3X6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
-| [ISO_7380_M3X10](./Mechanical%20Parts/ISO_7380_M3X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [ISO_7380_M3X4](./Mechanical%20Parts/ISO_7380_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
 | [KLEMMRING](./Mechanical%20Parts/KLEMMRING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [LEADSVREW_NUT_T5X4](./Mechanical%20Parts/LEADSVREW_NUT_T5X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
@@ -82,12 +96,6 @@
 | [M3_SPACOR_](./Mechanical%20Parts/M3_SPACOR_.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [M3_WASHER_1_2_3](./Mechanical%20Parts/M3_WASHER_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
 | [MADENSCHRAUBE_M3X3](./Mechanical%20Parts/MADENSCHRAUBE_M3X3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
-| [MAKERBEAM_L200](./Mechanical%20Parts/MAKERBEAM_L200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [MAKERBEAM_L230](./Mechanical%20Parts/MAKERBEAM_L230.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L240](./Mechanical%20Parts/MAKERBEAM_L240.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [MAKERBEAM_L250](./Mechanical%20Parts/MAKERBEAM_L250.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
-| [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [MGN12_L225](./Mechanical%20Parts/MGN12_L225.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [MGN9_RAIL_V2_1_2](./Mechanical%20Parts/MGN9_RAIL_V2_1_2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
