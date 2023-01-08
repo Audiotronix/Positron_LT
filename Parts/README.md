@@ -33,6 +33,8 @@
 ``Click on the links to be redirected to the file``<br>
 ``Print time and part weight are a result of slicing the parts in slicer x with quality x for printer x``
 
+<br>
+
 ## Mechanical Parts
 
 ### FASTENERS:
