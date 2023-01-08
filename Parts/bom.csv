@@ -22,11 +22,11 @@ printed,XY-SPACER,---,1,---,---,---,---,[t: --- ;w: --- ]
 printed,Z-AXIS-ENDSTOP,---,1,---,---,---,---,[t: --- ;w: --- ]
 printed,Z-BLOCK_HOLDER,---,1,---,---,---,---,[t: --- ;w: --- ]
 ,,,,,,,,
-mechanical,100304,---,7,---,https://github.com/,---,---,
-mechanical,101619-1,---,17,https://github.com/,---,---,---,
-mechanical,10PIN_EXP_MALE_1,---,1,---,---,---,---,
-mechanical,17HM08-1204S,---,2,---,---,---,---,
-mechanical,17HM08-1204S_AF1,---,1,---,---,---,---,
+mechanical,100304,---,7,---,---,---,---,
+mechanical,101619-1,---,17,---,---,---,---,
+mechanical,10PIN_EXP_MALE_1,---,1,---,---,https://github.com/,---,
+mechanical,17HM08-1204S,---,2,---,---,---,https://github.com/,
+mechanical,17HM08-1204S_AF1,---,1,---,---,---,---,test
 mechanical,301132159571,---,5,---,---,---,---,
 mechanical,301132320130,---,2,---,---,---,---,
 mechanical,6_PIN_MEGNEGTIC_POGO_PINS_1_2_3,---,1,---,---,---,---,
