@@ -37,8 +37,8 @@
 | --- | --- | --- | --- | --- | --- |
 | [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
 | [101619-1](./Mechanical%20Parts/101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
-| [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:large_blue_diamond:](https://github.com/) | [:small_red_triangle:](---) | 1 | --- |  |
-| [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [:large_blue_diamond:](https://github.com/) | 2 | --- |  |
+| [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [link](https://github.com/) | [:small_red_triangle:](---) | 1 | --- |  |
+| [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [link](https://github.com/) | 2 | --- |  |
 | [17HM08-1204S_AF1](./Mechanical%20Parts/17HM08-1204S_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | test |
 | [301132159571](./Mechanical%20Parts/301132159571.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
 | [301132320130](./Mechanical%20Parts/301132320130.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
