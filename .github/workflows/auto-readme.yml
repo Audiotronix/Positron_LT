@@ -12,7 +12,7 @@ jobs:
           python-version: 3.x
       - name: Create readme
         run: |
-          python ./.github/workflows/create_readme.py
+          python create_readme.py
       - name: Commit readme
         run: |
           git config --global user.email "action@github.com"
