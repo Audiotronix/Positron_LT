@@ -33,80 +33,80 @@
 ``Print time and part weight are a result of slicing the parts in slicer x with quality x for printer x``
 
 ## Mechanical Parts
-| Part Name | Link | Alt Link | Amount | Single Price | Price |
+| Part Name | Link | Alt Link | Amount | Price | Note |
 | --- | --- | --- | --- | --- | --- |
-| [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- | --- |
-| [101619-1](./Mechanical%20Parts/101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- | --- |
-| [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [17HM08-1204S_AF1](./Mechanical%20Parts/17HM08-1204S_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [301132159571](./Mechanical%20Parts/301132159571.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- | --- |
-| [301132320130](./Mechanical%20Parts/301132320130.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [6_PIN_MEGNEGTIC_POGO_PINS_1_2_3](./Mechanical%20Parts/6_PIN_MEGNEGTIC_POGO_PINS_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [BASEPLATE_MB_BK](./Mechanical%20Parts/BASEPLATE_MB_BK.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [BEARING_3X10X4MM](./Mechanical%20Parts/BEARING_3X10X4MM.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [BEARING_3X10X4MM_V1_MIRROR____1](./Mechanical%20Parts/BEARING_3X10X4MM_V1_MIRROR____1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [BELT_L178](./Mechanical%20Parts/BELT_L178.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [BODY1-30585](./Mechanical%20Parts/BODY1-30585.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [C7-PLUG](./Mechanical%20Parts/C7-PLUG.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [C7_PLUG-IN](./Mechanical%20Parts/C7_PLUG-IN.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [COMPONENT1_1](./Mechanical%20Parts/COMPONENT1_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [DIN7979_M3X5X10](./Mechanical%20Parts/DIN7979_M3X5X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [DIN988_7X13X01](./Mechanical%20Parts/DIN988_7X13X01.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 40 | --- | --- |
-| [DUST_COVER](./Mechanical%20Parts/DUST_COVER.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [EPP-200](./Mechanical%20Parts/EPP-200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [F5-10M_CAGE_BB](./Mechanical%20Parts/F5-10M_CAGE_BB.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [F_683_VA_1](./Mechanical%20Parts/F_683_VA_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 20 | --- | --- |
-| [GT2-20T-3MM_PULLEY](./Mechanical%20Parts/GT2-20T-3MM_PULLEY.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [ISO10642_M3X12](./Mechanical%20Parts/ISO10642_M3X12.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- | --- |
-| [ISO10642_M3X14](./Mechanical%20Parts/ISO10642_M3X14.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 34 | --- | --- |
-| [ISO10642_M3X18](./Mechanical%20Parts/ISO10642_M3X18.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- | --- |
-| [ISO10642_M3X25](./Mechanical%20Parts/ISO10642_M3X25.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- | --- |
-| [ISO10642_M3X35](./Mechanical%20Parts/ISO10642_M3X35.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 8 | --- | --- |
-| [ISO10642_M3X4](./Mechanical%20Parts/ISO10642_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- | --- |
-| [ISO10642_M3X8](./Mechanical%20Parts/ISO10642_M3X8.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 6 | --- | --- |
-| [ISO_4762_M3X20](./Mechanical%20Parts/ISO_4762_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- | --- |
-| [ISO_4762_M3X6](./Mechanical%20Parts/ISO_4762_M3X6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- | --- |
-| [ISO_7380_M3X10](./Mechanical%20Parts/ISO_7380_M3X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [ISO_7380_M3X4](./Mechanical%20Parts/ISO_7380_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- | --- |
-| [KLEMMRING](./Mechanical%20Parts/KLEMMRING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [LEADSVREW_NUT_T5X4](./Mechanical%20Parts/LEADSVREW_NUT_T5X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [LED_4X_15X15](./Mechanical%20Parts/LED_4X_15X15.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [M3X12_WAFER_HEAD](./Mechanical%20Parts/M3X12_WAFER_HEAD.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 6 | --- | --- |
-| [M3X14_WAFER_HEAD_1_2](./Mechanical%20Parts/M3X14_WAFER_HEAD_1_2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- | --- |
-| [M3X2_4MM_HEX_NUT_1_2_3](./Mechanical%20Parts/M3X2_4MM_HEX_NUT_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [M3_INSERT_SHORT](./Mechanical%20Parts/M3_INSERT_SHORT.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 9 | --- | --- |
-| [M3_SPACOR_](./Mechanical%20Parts/M3_SPACOR_.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [M3_WASHER_1_2_3](./Mechanical%20Parts/M3_WASHER_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- | --- |
-| [MADENSCHRAUBE_M3X3](./Mechanical%20Parts/MADENSCHRAUBE_M3X3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [MAKERBEAM-CUBE_AF0](./Mechanical%20Parts/MAKERBEAM-CUBE_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM_L200_AF0](./Mechanical%20Parts/MAKERBEAM_L200_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM_L200_AF1](./Mechanical%20Parts/MAKERBEAM_L200_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM_L230_AF0](./Mechanical%20Parts/MAKERBEAM_L230_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM_L240_AF0](./Mechanical%20Parts/MAKERBEAM_L240_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM_L240_AF1](./Mechanical%20Parts/MAKERBEAM_L240_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM_L250_AF0](./Mechanical%20Parts/MAKERBEAM_L250_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM_L250_AF1](./Mechanical%20Parts/MAKERBEAM_L250_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM_L250_AF2](./Mechanical%20Parts/MAKERBEAM_L250_AF2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [MGN12_L225](./Mechanical%20Parts/MGN12_L225.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MGN9_RAIL_V2_1_2](./Mechanical%20Parts/MGN9_RAIL_V2_1_2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MGW9-RAIL_L227](./Mechanical%20Parts/MGW9-RAIL_L227.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MGW9C1R100ZFC](./Mechanical%20Parts/MGW9C1R100ZFC.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [MR_117_2Z_2](./Mechanical%20Parts/MR_117_2Z_2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 10 | --- | --- |
-| [PR](./Mechanical%20Parts/PR.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
-| [PRODUCT_NAME_1_1_2_3](./Mechanical%20Parts/PRODUCT_NAME_1_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | --- |
-| [WAFERHEAD_M3X10](./Mechanical%20Parts/WAFERHEAD_M3X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 11 | --- | --- |
-| [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- | --- |
-| [Z-BLOCK-CUBE_M6](./Mechanical%20Parts/Z-BLOCK-CUBE_M6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | --- |
+| [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
+| [101619-1](./Mechanical%20Parts/101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
+| [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [17HM08-1204S_AF1](./Mechanical%20Parts/17HM08-1204S_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [301132159571](./Mechanical%20Parts/301132159571.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
+| [301132320130](./Mechanical%20Parts/301132320130.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [6_PIN_MEGNEGTIC_POGO_PINS_1_2_3](./Mechanical%20Parts/6_PIN_MEGNEGTIC_POGO_PINS_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [BASEPLATE_MB_BK](./Mechanical%20Parts/BASEPLATE_MB_BK.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [BEARING_3X10X4MM](./Mechanical%20Parts/BEARING_3X10X4MM.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [BEARING_3X10X4MM_V1_MIRROR____1](./Mechanical%20Parts/BEARING_3X10X4MM_V1_MIRROR____1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [BELT_L178](./Mechanical%20Parts/BELT_L178.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [BODY1-30585](./Mechanical%20Parts/BODY1-30585.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [C7-PLUG](./Mechanical%20Parts/C7-PLUG.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [C7_PLUG-IN](./Mechanical%20Parts/C7_PLUG-IN.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [COMPONENT1_1](./Mechanical%20Parts/COMPONENT1_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [DIN7979_M3X5X10](./Mechanical%20Parts/DIN7979_M3X5X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [DIN988_7X13X01](./Mechanical%20Parts/DIN988_7X13X01.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 40 | --- |  |
+| [DUST_COVER](./Mechanical%20Parts/DUST_COVER.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [EPP-200](./Mechanical%20Parts/EPP-200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [F5-10M_CAGE_BB](./Mechanical%20Parts/F5-10M_CAGE_BB.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [F_683_VA_1](./Mechanical%20Parts/F_683_VA_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 20 | --- |  |
+| [GT2-20T-3MM_PULLEY](./Mechanical%20Parts/GT2-20T-3MM_PULLEY.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [ISO10642_M3X12](./Mechanical%20Parts/ISO10642_M3X12.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
+| [ISO10642_M3X14](./Mechanical%20Parts/ISO10642_M3X14.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 34 | --- |  |
+| [ISO10642_M3X18](./Mechanical%20Parts/ISO10642_M3X18.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
+| [ISO10642_M3X25](./Mechanical%20Parts/ISO10642_M3X25.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
+| [ISO10642_M3X35](./Mechanical%20Parts/ISO10642_M3X35.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 8 | --- |  |
+| [ISO10642_M3X4](./Mechanical%20Parts/ISO10642_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
+| [ISO10642_M3X8](./Mechanical%20Parts/ISO10642_M3X8.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 6 | --- |  |
+| [ISO_4762_M3X20](./Mechanical%20Parts/ISO_4762_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
+| [ISO_4762_M3X6](./Mechanical%20Parts/ISO_4762_M3X6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
+| [ISO_7380_M3X10](./Mechanical%20Parts/ISO_7380_M3X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [ISO_7380_M3X4](./Mechanical%20Parts/ISO_7380_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
+| [KLEMMRING](./Mechanical%20Parts/KLEMMRING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [LEADSVREW_NUT_T5X4](./Mechanical%20Parts/LEADSVREW_NUT_T5X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [LED_4X_15X15](./Mechanical%20Parts/LED_4X_15X15.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [M3X12_WAFER_HEAD](./Mechanical%20Parts/M3X12_WAFER_HEAD.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 6 | --- |  |
+| [M3X14_WAFER_HEAD_1_2](./Mechanical%20Parts/M3X14_WAFER_HEAD_1_2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
+| [M3X2_4MM_HEX_NUT_1_2_3](./Mechanical%20Parts/M3X2_4MM_HEX_NUT_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [M3_INSERT_SHORT](./Mechanical%20Parts/M3_INSERT_SHORT.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 9 | --- |  |
+| [M3_SPACOR_](./Mechanical%20Parts/M3_SPACOR_.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [M3_WASHER_1_2_3](./Mechanical%20Parts/M3_WASHER_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
+| [MADENSCHRAUBE_M3X3](./Mechanical%20Parts/MADENSCHRAUBE_M3X3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [MAKERBEAM-CUBE_AF0](./Mechanical%20Parts/MAKERBEAM-CUBE_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L200_AF0](./Mechanical%20Parts/MAKERBEAM_L200_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L200_AF1](./Mechanical%20Parts/MAKERBEAM_L200_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L230_AF0](./Mechanical%20Parts/MAKERBEAM_L230_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L240_AF0](./Mechanical%20Parts/MAKERBEAM_L240_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L240_AF1](./Mechanical%20Parts/MAKERBEAM_L240_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L250_AF0](./Mechanical%20Parts/MAKERBEAM_L250_AF0.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L250_AF1](./Mechanical%20Parts/MAKERBEAM_L250_AF1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L250_AF2](./Mechanical%20Parts/MAKERBEAM_L250_AF2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [MGN12_L225](./Mechanical%20Parts/MGN12_L225.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MGN9_RAIL_V2_1_2](./Mechanical%20Parts/MGN9_RAIL_V2_1_2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MGW9-RAIL_L227](./Mechanical%20Parts/MGW9-RAIL_L227.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MGW9C1R100ZFC](./Mechanical%20Parts/MGW9C1R100ZFC.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MR_117_2Z_2](./Mechanical%20Parts/MR_117_2Z_2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 10 | --- |  |
+| [PR](./Mechanical%20Parts/PR.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [PRODUCT_NAME_1_1_2_3](./Mechanical%20Parts/PRODUCT_NAME_1_1_2_3.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [WAFERHEAD_M3X10](./Mechanical%20Parts/WAFERHEAD_M3X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 11 | --- |  |
+| [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
+| [Z-BLOCK-CUBE_M6](./Mechanical%20Parts/Z-BLOCK-CUBE_M6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
-``Price and single price are based on the first/main link of each product``
+``Price is based on the first/main link of each product``
 
 > Note: Some links might be affiliate links!
