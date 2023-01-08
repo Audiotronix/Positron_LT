@@ -35,7 +35,7 @@
 ## Mechanical Parts
 | Part Name | Link | Alt Link | Amount | Price | Note |
 | --- | --- | --- | --- | --- | --- |
-| [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
+| [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | https://github.com/ |  |
 | [101619-1](./Mechanical%20Parts/101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
