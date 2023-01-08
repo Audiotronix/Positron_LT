@@ -25,9 +25,9 @@ mechanical_table = ''
 
 for category in categories:
     if categories[category] == 'printed':
-        printed_table+='| **'+category+'** |\n'
+        printed_table+='| :arrow_forward:**'+category+':** |\n'
     if categories[category] == 'mechanical':
-        mechanical_table+='| **'+category+'** |\n'
+        mechanical_table+='| :arrow_forward:**'+category+':** |\n'
     
     #parts with category
     for row in csv_data:
