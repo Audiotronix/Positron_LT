@@ -12,7 +12,7 @@ jobs:
           python-version: 3.x
       - name: Create report file
         run: |
-          python test.py
+          python ./.github/workflows/test.py
       - name: Commit readme
         run: |
           git config --global user.email "action@github.com"
