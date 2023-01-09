@@ -4,7 +4,7 @@ import csv
 print('-Creating README')
 
 
-def pad_column(title: str, longest: int, factor=1.5):
+def pad_column(title: str, longest: int, factor=1.75):
     padding = ' ' * int(((longest-len(title))) / 2 * factor)
     return padding + title + padding
 
