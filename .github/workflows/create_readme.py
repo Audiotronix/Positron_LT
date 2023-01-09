@@ -51,8 +51,9 @@ for category in categories:
 
             #shorten urls
             urls = re.findall(r'(https?://[^\s]+)', note)
-            for url in urls:
-                note.replace(url,'[link]('+url+')')
+            
+            for url in list(set(urls)):
+                note = note.replace(url,'[link]('+url+')')
             
             mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(entry['link'])+') | ['+('link' if str(entry['alt_link']) != '---' else ':small_red_triangle:')+']('+str(entry['alt_link'])+') | '+str(entry['amount'])+' | '+str(entry['price'])+' | '+str(note)+' |\n'
 
