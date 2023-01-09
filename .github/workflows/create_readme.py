@@ -2,6 +2,10 @@ print('-Creating README')
 
 import csv, collections, re
 
+def pad_column(title:str, longest:int, factor = 3):
+    padding = ' ' * int((longest-len(str(title)))/2)*factor
+    return padding + title + padding
+
 # read csv
 csv_data = {}
 try:
@@ -12,15 +16,24 @@ try:
 except:
     print('No bom.csv found!')
 
-longest_printed_name = 0
-longest_mechanical_name = 0
+printed_column_lengths = {}
+mechanical_column_lengths = {}
 
 categories = {}
 for part in csv_data:
-    if csv_data[part]['type'] == 'printed' and len(part) > longest_printed_name:
-        longest_printed_name = len(part)
-    if csv_data[part]['type'] == 'mechanical' and len(part) > longest_mechanical_name:
-        longest_mechanical_name = len(part)
+    if csv_data[part]['type'] == 'printed':
+        if 'cad_name' not in printed_column_lengths or printed_column_lengths[column] < len(str(part)):
+            printed_column_lengths['cad_name'] = len(str(part))
+        for column in csv_data[part]:
+            if column not in printed_column_lengths or printed_column_lengths[column] < len(str(csv_data[part][column])):
+                printed_column_lengths[column] = len(str(csv_data[part][column]))
+    
+    if csv_data[part]['type'] == 'mechanical':
+        if 'cad_name' not in mechanical_column_lengths or mechanical_column_lengths[column] < len(str(part)):
+            mechanical_column_lengths['cad_name'] = len(str(part))
+        for column in csv_data[part]:
+            if column not in mechanical_column_lengths or mechanical_column_lengths[column] < len(str(csv_data[part][column])):
+                mechanical_column_lengths[column] = len(str(csv_data[part][column]))
     
     if csv_data[part]['category'] not in categories and csv_data[part]['category'] != '':
         categories[csv_data[part]['category']] = csv_data[part]['type']
@@ -30,9 +43,9 @@ categories = collections.OrderedDict(
 
 #create table strings
 printed_table = ''
-printed_header = '|'+' '*int((longest_printed_name-8)/2)*3+'Part Name'+' '*int((longest_printed_name-8)/2)*3+'| STL | STEP | Amount | Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
+printed_header = '|'+pad_column('Part Name', printed_column_lengths['cad_name'])+'| STL | STEP |'+pad_column('Amount', printed_column_lengths['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
 mechanical_table = ''
-mechanical_header = '|'+' '*int((longest_printed_name-8)/2)*3+'Part Name'+' '*int((longest_printed_name-8)/2)*3+'| Link | Alt Link | Amount | Price | Note |\n| --- | --- | --- | --- | --- | --- |\n'
+mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'])+'| Link | Alt Link |'+pad_column('Amount', mechanical_column_lengths['amount'])+'|'+pad_column('Price', mechanical_column_lengths['price'])+'|'+pad_column('Note', mechanical_column_lengths['note'])+'|\n| --- | --- | --- | --- | --- | --- |\n'
 
 for category in categories:
     if categories[category] == 'printed':
