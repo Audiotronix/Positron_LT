@@ -25,13 +25,6 @@ for part in csv_data:
         if 'cad_name' not in printed_column_lengths or printed_column_lengths[column] < len(str(part)):
             printed_column_lengths['cad_name'] = len(str(part))
         for column in csv_data[part]:
-            #short urls
-            if column == 'note':
-                note = str(csv_data[part][column])
-                urls = re.findall(r'(https?://[^\s]+)', note)
-                for url in list(set(urls)):
-                    note = note.replace(url,'[link]('+url+')')
-                csv_data[part][column] = note
             if column not in printed_column_lengths or printed_column_lengths[column] < len(str(csv_data[part][column])):
                 printed_column_lengths[column] = len(str(csv_data[part][column]))
     
@@ -40,14 +33,12 @@ for part in csv_data:
             mechanical_column_lengths['cad_name'] = len(str(part))
         for column in csv_data[part]:
             #short urls
+            urls = []
             if column == 'note':
                 note = str(csv_data[part][column])
                 urls = re.findall(r'(https?://[^\s]+)', note)
-                for url in list(set(urls)):
-                    note = note.replace(url,'[link]('+url+')')
-                csv_data[part][column] = note
-            if column not in mechanical_column_lengths or mechanical_column_lengths[column] < len(str(csv_data[part][column])):
-                mechanical_column_lengths[column] = len(str(csv_data[part][column]))
+            if column not in mechanical_column_lengths or mechanical_column_lengths[column] < len(str(re.compile('|'.join(map(re.escape, urls))).sub("[link]", str(csv_data[part][column])))):
+                mechanical_column_lengths[column] = len(str(re.compile('|'.join(map(re.escape, urls))).sub("[link]", str(csv_data[part][column]))))
     
     if csv_data[part]['category'] not in categories and csv_data[part]['category'] != '':
         categories[csv_data[part]['category']] = csv_data[part]['type']
@@ -74,7 +65,13 @@ for category in categories:
         if entry['type'] == 'printed':
             printed_table += '| '+str(entry['cad_name'])+ ' | [STL](./Printed%20Parts/STL/'+str(entry['cad_name'])+'.stl) | [STEP](./Printed%20Parts/STEP/'+str(entry['cad_name'])+'.step) | '+str(entry['amount'])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[0])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[1].split(']')[0])+' |\n'
         elif entry['type'] == 'mechanical':
-            mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(entry['link'])+') | ['+('link' if str(entry['alt_link']) != '---' else ':small_red_triangle:')+']('+str(entry['alt_link'])+') | '+str(entry['amount'])+' | '+str(entry['price'])+' | '+str(entry['note'])+' |\n'
+            note = str(entry['note'])
+            #shorten urls
+            urls = re.findall(r'(https?://[^\s]+)', note)
+            for url in list(set(urls)):
+                note = note.replace(url,'[link]('+url+')')
+            
+            mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(entry['link'])+') | ['+('link' if str(entry['alt_link']) != '---' else ':small_red_triangle:')+']('+str(entry['alt_link'])+') | '+str(entry['amount'])+' | '+str(entry['price'])+' | '+str(note)+' |\n'
 
 #set header for parts without category
 if 'printed' in categories.values():
