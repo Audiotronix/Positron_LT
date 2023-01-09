@@ -4,7 +4,7 @@ import csv
 print('-Creating README')
 
 
-def pad_column(title: str, longest: int, factor=3):
+def pad_column(title: str, longest: int, factor=1.5):
     padding = ' ' * int(((longest-len(title))) / 2 * factor)
     return padding + title + padding
 
@@ -61,8 +61,8 @@ printed_table = ''
 printed_header = '|'+pad_column('Part Name', printed_column_lengths['cad_name'])+'| STL | STEP |'+pad_column(
     'Amount', printed_column_lengths['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
 mechanical_table = ''
-mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'], 3.5)+'| Link | Alt Link |'+pad_column('Amount', mechanical_column_lengths['amount'])+'|'+pad_column(
-    'Price', mechanical_column_lengths['price'])+'|'+pad_column('Note', mechanical_column_lengths['note'], 1.5)+'|\n| --- | --- | --- | --- | --- | --- |\n'
+mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'], 3)+'| Link | Alt Link |'+pad_column('Amount', mechanical_column_lengths['amount'])+'|'+pad_column(
+    'Price', mechanical_column_lengths['price'])+'|'+pad_column('Note', mechanical_column_lengths['note'])+'|\n| --- | --- | --- | --- | --- | --- |\n'
 
 for category in categories:
     if categories[category] == 'printed':
