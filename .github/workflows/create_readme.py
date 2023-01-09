@@ -44,7 +44,7 @@ for part in csv_data:
             column_length = len(str(csv_data[part][column]))
             if urls != []:
                 column_length = len(str(re.compile('|'.join(map(re.escape, urls))).sub(
-                    '[link]', str(csv_data[part][column]))))
+                    'link', str(csv_data[part][column]))))
             if column not in mechanical_column_lengths or mechanical_column_lengths[column] < column_length:
                 mechanical_column_lengths[column] = column_length
 
