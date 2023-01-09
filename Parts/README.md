@@ -42,12 +42,22 @@
 
 ## Mechanical Parts
 
+### ELECTRONICS:
+|                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
+| --- | --- | --- | --- | --- | --- |
+| [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+
 ### FASTENERS:
 |                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [ISO_4762_M3X20](./Mechanical%20Parts/ISO_4762_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
 | [ISO_4762_M3X6](./Mechanical%20Parts/ISO_4762_M3X6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 10 | --- |  |
 | [ISO_7380_M3X4](./Mechanical%20Parts/ISO_7380_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
+| [WAFERHEAD_M3X10](./Mechanical%20Parts/WAFERHEAD_M3X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 19 | --- |  |
+| [WAFERHEAD_M3X14](./Mechanical%20Parts/WAFERHEAD_M3X14.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 
 ### MAKERBEAM:
 |                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
@@ -82,7 +92,6 @@
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [EPP-200](./Mechanical%20Parts/EPP-200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [F5-10M_CAGE_BB](./Mechanical%20Parts/F5-10M_CAGE_BB.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [F_683_VA_1](./Mechanical%20Parts/F_683_VA_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 28 | --- |  |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
@@ -113,11 +122,6 @@
 | [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [MR_117_2Z_2](./Mechanical%20Parts/MR_117_2Z_2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 10 | --- |  |
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
-| [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [WAFERHEAD_M3X10](./Mechanical%20Parts/WAFERHEAD_M3X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 19 | --- |  |
-| [WAFERHEAD_M3X14](./Mechanical%20Parts/WAFERHEAD_M3X14.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
