@@ -27,11 +27,11 @@ mechanical,fasteners,ISO_4762_M3X6,5,---,---,---,---,
 mechanical,fasteners,ISO_7380_M3X10,1,---,---,---,---,
 mechanical,fasteners,ISO_7380_M3X4,4,---,---,---,---,
 mechanical,makerbeam,MAKERBEAM-CUBE,3,---,---,---,---,
-mechanical,makerbeam,MAKERBEAM_L200,2,---,---,---,---,
-mechanical,makerbeam,MAKERBEAM_L230,1,---,---,---,---,
-mechanical,makerbeam,MAKERBEAM_L240,2,---,---,---,---,
-mechanical,makerbeam,MAKERBEAM_L250,3,---,---,---,---,
-mechanical,makerbeam,MAKERBEAM_L30,1,---,---,---,---,
+mechanical,makerbeam,MAKERBEAM_L200,2,---,---,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L230,1,---,---,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L240,2,---,---,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L250,3,---,---,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L30,1,---,---,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,,100304,7,---,---,---,---,
 mechanical,,101619-1,17,---,---,---,---,
 mechanical,,10PIN_EXP_MALE_1,1,---,---,---,---,
