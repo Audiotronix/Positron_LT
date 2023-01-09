@@ -37,8 +37,11 @@ for part in csv_data:
             if column == 'note':
                 note = str(csv_data[part][column])
                 urls = re.findall(r'(https?://[^\s]+)', note)
-            if column not in mechanical_column_lengths or mechanical_column_lengths[column] < len(str(re.compile('|'.join(map(re.escape, urls))).sub("[link]", str(csv_data[part][column])))):
-                mechanical_column_lengths[column] = len(str(re.compile('|'.join(map(re.escape, urls))).sub("[link]", str(csv_data[part][column]))))
+            column_length = len(str(csv_data[part][column]))
+            if urls != []:
+                column_length = len(str(re.compile('|'.join(map(re.escape, urls))).sub('[link]', str(csv_data[part][column]))))
+            if column not in mechanical_column_lengths or mechanical_column_lengths[column] < column_length:
+                mechanical_column_lengths[column] = column_length
     
     if csv_data[part]['category'] not in categories and csv_data[part]['category'] != '':
         categories[csv_data[part]['category']] = csv_data[part]['type']
