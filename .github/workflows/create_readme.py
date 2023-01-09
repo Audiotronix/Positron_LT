@@ -46,6 +46,8 @@ for part in csv_data:
     if csv_data[part]['category'] not in categories and csv_data[part]['category'] != '':
         categories[csv_data[part]['category']] = csv_data[part]['type']
 
+print(mechanical_column_lengths)
+
 categories = collections.OrderedDict(
     sorted(categories.items()))  # sort cats
 
@@ -53,7 +55,7 @@ categories = collections.OrderedDict(
 printed_table = ''
 printed_header = '|'+pad_column('Part Name', printed_column_lengths['cad_name'])+'| STL | STEP |'+pad_column('Amount', printed_column_lengths['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
 mechanical_table = ''
-mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'])+'| Link | Alt Link |'+pad_column('Amount', mechanical_column_lengths['amount'])+'|'+pad_column('Price', mechanical_column_lengths['price'])+'|'+pad_column('Note', mechanical_column_lengths['note'])+'|\n| --- | --- | --- | --- | --- | --- |\n'
+mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'])+'| Link | Alt Link |'+pad_column('Amount', mechanical_column_lengths['amount'])+'|'+pad_column('Price', mechanical_column_lengths['price'])+'|'+pad_column('Note', mechanical_column_lengths['note'], 2)+'|\n| --- | --- | --- | --- | --- | --- |\n'
 
 for category in categories:
     if categories[category] == 'printed':
