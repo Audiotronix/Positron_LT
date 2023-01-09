@@ -40,7 +40,7 @@
 ## Mechanical Parts
 
 ### FASTENERS:
-|                        Part Name                        | Link | Alt Link |Amount|Price|                                       Note                                       |
+|                        Part Name                        | Link | Alt Link |Amount|Price|                                    Note                                    |
 | --- | --- | --- | --- | --- | --- |
 | [ISO_4762_M3X20](./Mechanical%20Parts/ISO_4762_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
 | [ISO_4762_M3X6](./Mechanical%20Parts/ISO_4762_M3X6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
@@ -48,7 +48,7 @@
 | [ISO_7380_M3X4](./Mechanical%20Parts/ISO_7380_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
 
 ### MAKERBEAM:
-|                        Part Name                        | Link | Alt Link |Amount|Price|                                       Note                                       |
+|                        Part Name                        | Link | Alt Link |Amount|Price|                                    Note                                    |
 | --- | --- | --- | --- | --- | --- |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 | [MAKERBEAM_L200](./Mechanical%20Parts/MAKERBEAM_L200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
@@ -57,7 +57,7 @@
 | [MAKERBEAM_L250](./Mechanical%20Parts/MAKERBEAM_L250.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 
-|                        Part Name                        | Link | Alt Link |Amount|Price|                                       Note                                       |
+|                        Part Name                        | Link | Alt Link |Amount|Price|                                    Note                                    |
 | --- | --- | --- | --- | --- | --- |
 | [100304](./Mechanical%20Parts/100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
 | [101619-1](./Mechanical%20Parts/101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
