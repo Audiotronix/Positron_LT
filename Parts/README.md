@@ -5,7 +5,7 @@
 
 **You can also find the "bill of materials" (BOM) as a .CSV [here](./bom.csv).**
 
-## Printed Parts
+## [Printed Parts](./Printed%20Parts)
 
 |       Part Name       | STL | STEP |Amount| Print Time | Weight (g)|
 | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@
 
 <br>
 
-## Mechanical Parts
+## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
 |                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
@@ -52,6 +52,14 @@
 ### FASTENERS:
 |                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
+| [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
+| [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
+| [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 38 | --- |  |
+| [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
+| [DIN_7991_M3X25](./Mechanical%20Parts/DIN_7991_M3X25.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
+| [DIN_7991_M3X35](./Mechanical%20Parts/DIN_7991_M3X35.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 10 | --- |  |
+| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
+| [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 6 | --- |  |
 | [ISO_4762_M3X20](./Mechanical%20Parts/ISO_4762_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
 | [ISO_4762_M3X6](./Mechanical%20Parts/ISO_4762_M3X6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 10 | --- |  |
 | [ISO_7380_M3X4](./Mechanical%20Parts/ISO_7380_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
@@ -63,11 +71,14 @@
 |                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
+| [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
 | [MAKERBEAM_L200](./Mechanical%20Parts/MAKERBEAM_L200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_L230](./Mechanical%20Parts/MAKERBEAM_L230.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_L240](./Mechanical%20Parts/MAKERBEAM_L240.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_L250](./Mechanical%20Parts/MAKERBEAM_L250.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
+| [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
 
 |                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
@@ -81,14 +92,6 @@
 | [C7_PLUG-IN](./Mechanical%20Parts/C7_PLUG-IN.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [CARRIAGE_MGN12_01](./Mechanical%20Parts/CARRIAGE_MGN12_01.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [DIN988_7X13X01](./Mechanical%20Parts/DIN988_7X13X01.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 40 | --- |  |
-| [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
-| [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 38 | --- |  |
-| [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
-| [DIN_7991_M3X25](./Mechanical%20Parts/DIN_7991_M3X25.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
-| [DIN_7991_M3X35](./Mechanical%20Parts/DIN_7991_M3X35.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 10 | --- |  |
-| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
-| [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 6 | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [EPP-200](./Mechanical%20Parts/EPP-200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [F5-10M_CAGE_BB](./Mechanical%20Parts/F5-10M_CAGE_BB.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
@@ -111,9 +114,6 @@
 | [M3_X20_FLATHEAD](./Mechanical%20Parts/M3_X20_FLATHEAD.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [M3_X20_FLATHEAD_V2_MIRROR_](./Mechanical%20Parts/M3_X20_FLATHEAD_V2_MIRROR_.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [M5_WASHER_MIRROR_](./Mechanical%20Parts/M5_WASHER_MIRROR_.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
-| [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
 | [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [MGN12_L225](./Mechanical%20Parts/MGN12_L225.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [MGN9_RAIL_V2_1_2](./Mechanical%20Parts/MGN9_RAIL_V2_1_2.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
