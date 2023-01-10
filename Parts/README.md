@@ -5,7 +5,7 @@
 
 **You can also find the "bill of materials" (BOM) as a .CSV [here](./bom.csv).**
 
-## Printed Parts
+## [Printed Parts](./Printed%20Parts)
 
 |       Part Name       | STL | STEP |Amount| Print Time | Weight (g)|
 | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@
 
 <br>
 
-## Mechanical Parts
+## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
 |                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
