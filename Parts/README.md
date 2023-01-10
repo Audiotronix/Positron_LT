@@ -43,14 +43,14 @@
 ## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
-|                          Part Name                          |CAD Amount|      Link      | Price |                                   Note                                   |
+|                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | FAN_2510 | 2 | [:small_red_triangle:](---) | --- |  |
 | RPI_ZERO_2W | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) | 22.50€ |  |
 | SKR-PICO | 1 | [link](https://amzn.eu/exkvn5W) | 29.99€ |  |
 
 ### FASTENERS:
-|                          Part Name                          |CAD Amount|      Link      | Price |                                   Note                                   |
+|                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | DIN_7979_M3X5X10 | 2 | [link](https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf) | 0.78€ |  |
 | DIN_7991_M3X12 | 4 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 3.53€ |  |
@@ -68,19 +68,19 @@
 | WAFERHEAD_M3X20 | 3 | [:small_red_triangle:](---) | --- |  |
 
 ### MAKERBEAM:
-|                          Part Name                          |CAD Amount|      Link      | Price |                                   Note                                   |
+|                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | MAKERBEAM-CUBE | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 17.95€ |  |
 | MAKERBEAM-CUBE_M6 | 1 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | --- | Included in previous cube order. |
 | MAKERBEAM_L-BRACKET_100304 | 7 | [link](https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637) | 6.95€ |  |
-| MAKERBEAM_L200 | 2 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) / [link](test) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
+| MAKERBEAM_L200 | 2 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | MAKERBEAM_L230 | 1 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | MAKERBEAM_L240 | 2 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | MAKERBEAM_L250 | 3 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | MAKERBEAM_L30 | 1 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | MAKERBEAM_T-NUT_101619-1 | 17 | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) | 14.98€ | Item needs to be bought twice |
 
-|                          Part Name                          |CAD Amount|      Link      | Price |                                   Note                                   |
+|                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | 10PIN_EXP_MALE_1 | 1 | [:small_red_triangle:](---) | --- |  |
 | 17HM08-1204S | 3 | [:small_red_triangle:](---) | --- |  |
