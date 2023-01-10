@@ -1,4 +1,5 @@
 # Printing the Positron LT parts
+>Note: These are suggestions, we designed the LT with these in mind but other settings might work aswell
 
 ## Recommended Filaments:
 
@@ -10,3 +11,8 @@
 | GreenTEC | extrudr | Pro Carbon | 49.99€ | [link](https://www.extrudr.com/de/produkte/catalogue/greentec-pro-carbon_2410/) | Hardened |
 | ASA | Prusament | Galaxy Black | 29.99€ | [link](https://www.prusa3d.com/product/prusament-asa-prusa-galaxy-black-850g/) | --- |
 
+## Slicing
+
+| Layer height | Infill |
+| --- | --- |
+| 0.2mm | 20% |
