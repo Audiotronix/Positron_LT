@@ -65,9 +65,9 @@ for part in csv_data:
         column_length = len(str(part_data[column]))
 
         #detect url in note
-        if column == 'note':
-            urls = re.findall(r'(https?://[^\s]+)', str(part_data[column])) #get all urls in note as list
-            for url in urls: column_length = column_length - len(str(url)) + 4  #length of real url gets replaced with displayed 'link' message length
+        #if column == 'note':
+        urls = re.findall(r'(https?://[^\s]+)', str(part_data[column])) #get all urls in note as list
+        for url in urls: column_length = column_length - len(str(url)) + 4  #length of real url gets replaced with displayed 'link' message length
         
         #add alt_link length to link
         if column == 'link' and part_data['alt_link'] != '---':
@@ -79,6 +79,8 @@ for part in csv_data:
     #add category if not exists {'category_name':'printed/mechanical'}
     if part_data['category'] not in categories and part_data['category'] != '':
         categories[part_data['category']] = part_data['type']
+
+print(column_lengths)
 
 categories = collections.OrderedDict(
     sorted(categories.items()))  # sort cats
