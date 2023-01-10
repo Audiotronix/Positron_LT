@@ -46,8 +46,8 @@
 |                          Part Name                          | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
+| [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) | [:small_red_triangle:](---) | 1 | 22.50€ |  |
+| [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | [link](https://amzn.eu/exkvn5W) | [:small_red_triangle:](---) | 1 | 29.99€ |  |
 
 ### FASTENERS:
 |                          Part Name                          | Link | Alt Link |Amount|Price|                                   Note                                   |
