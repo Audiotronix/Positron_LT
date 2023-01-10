@@ -70,9 +70,9 @@
 ### MAKERBEAM:
 |                          Part Name                          | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
-| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
-| [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
-| [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 7 | --- |  |
+| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [link](95€) | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 3 | 17 | --- |
+| [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | [:small_red_triangle:](---) | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 1 | --- | Only one cube order is needed! |
+| [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | [link](95€) | [link](https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637) | 7 | 6 | --- |
 | [MAKERBEAM_L200](./Mechanical%20Parts/MAKERBEAM_L200.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_L230](./Mechanical%20Parts/MAKERBEAM_L230.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_L240](./Mechanical%20Parts/MAKERBEAM_L240.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
