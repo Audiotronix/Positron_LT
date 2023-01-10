@@ -4,8 +4,8 @@ import csv
 print('-Creating README')
 
 
-def pad_column(title: str, longest: int, factor=1.575, entry_factor = 1):
-    padding = ' ' * int(((longest-len(str(title))*entry_factor)) / 2 * factor)
+def pad_column(title: str, longest: int, factor=1.575):
+    padding = ' ' * int(((longest-len(str(title)))) / 2 * factor)
     return padding + title + padding
 
 
@@ -45,6 +45,7 @@ for part in csv_data:
             if urls != []:
                 column_length = len(str(re.compile('|'.join(map(re.escape, urls))).sub(
                     'link', str(csv_data[part][column]))))
+            
             if column not in mechanical_column_lengths or mechanical_column_lengths[column] < column_length:
                 mechanical_column_lengths[column] = column_length
 
@@ -60,7 +61,7 @@ printed_header = '|'+pad_column('Part Name', printed_column_lengths['cad_name'],
     'Amount', printed_column_lengths['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
 mechanical_table = ''
 mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'], 2.4)+'|'+pad_column('CAD Amount', mechanical_column_lengths['amount'])+'| Link |'+pad_column(
-    'Price', mechanical_column_lengths['price'], entry_factor=4)+'|'+pad_column('Note', mechanical_column_lengths['note'])+'|\n| --- | --- | --- | --- | --- |\n'
+    'Price', mechanical_column_lengths['price'])+'|'+pad_column('Note', mechanical_column_lengths['note'])+'|\n| --- | --- | --- | --- | --- |\n'
 
 for category in categories:
     if categories[category] == 'printed':
