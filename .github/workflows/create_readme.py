@@ -5,7 +5,7 @@ print('-Creating README')
 
 
 def pad_column(title: str, longest: int, factor=1.575, entry_factor = 1):
-    padding = ' ' * int(((longest-len(title)*entry_factor)) / 2 * factor)
+    padding = ' ' * int(((longest-len(str(title))*entry_factor)) / 2 * factor)
     return padding + title + padding
 
 
