@@ -7,7 +7,7 @@
 
 ## [Printed Parts](./Printed%20Parts)
 
-|       Part Name       | STL | STEP |Amount| Print Time | Weight (g)|
+|          Part Name          | STL | STEP |Amount| Print Time | Weight (g)|
 | --- | --- | --- | --- | --- | --- |
 | BASECOVER_LEFT | [STL](./Printed%20Parts/STL/BASECOVER_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT.step) | 1 |  ---  |  ---  |
 | BASECOVER_RIGHT | [STL](./Printed%20Parts/STL/BASECOVER_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_RIGHT.step) | 1 |  ---  |  ---  |
@@ -43,14 +43,14 @@
 ## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
-|                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
+|                         Part Name                         | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 
 ### FASTENERS:
-|                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
+|                         Part Name                         | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
@@ -68,7 +68,7 @@
 | [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 
 ### MAKERBEAM:
-|                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
+|                         Part Name                         | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 | [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
@@ -80,7 +80,7 @@
 | [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 17 | --- |  |
 
-|                        Part Name                        | Link | Alt Link |Amount|Price|                                   Note                                   |
+|                         Part Name                         | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
