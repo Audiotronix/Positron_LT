@@ -42,9 +42,9 @@ mechanical,fasteners,ISO_7380_M3X4,4,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X10,19,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X14,2,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X20,3,---,---,---,---,
-mechanical,makerbeam,MAKERBEAM-CUBE,3,---,---,---,---,
-mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,---,---,---,
-mechanical,makerbeam,MAKERBEAM_L-BRACKET_100304,7,---,---,---,---,
+mechanical,makerbeam,MAKERBEAM-CUBE,3,---,17,95€,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,
+mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,---,---,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,Only one cube order is needed!
+mechanical,makerbeam,MAKERBEAM_L-BRACKET_100304,7,---,6,95€,https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637,---,
 mechanical,makerbeam,MAKERBEAM_L200,2,---,---,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,makerbeam,MAKERBEAM_L230,1,---,---,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,makerbeam,MAKERBEAM_L240,2,---,---,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
