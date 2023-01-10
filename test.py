@@ -1,5 +1,5 @@
 import glob, os
-PATH = r'/Users/simon/Desktop/dev/Positron_LT/Parts'
+PATH = r''
 
 
 files = glob.glob(PATH+'/**/*.stl', recursive=True)
