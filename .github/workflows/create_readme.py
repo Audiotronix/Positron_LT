@@ -51,8 +51,6 @@ for part in csv_data:
     if csv_data[part]['category'] not in categories and csv_data[part]['category'] != '':
         categories[csv_data[part]['category']] = csv_data[part]['type']
 
-print(mechanical_column_lengths)
-
 categories = collections.OrderedDict(
     sorted(categories.items()))  # sort cats
 
@@ -116,20 +114,13 @@ lines = None
 with open('./Parts/README.md', "r") as f:
     lines = f.readlines()
 
-printed_line, mechanical_line = 0, 0
-for i, line in enumerate(lines):
-    if '## Printed Parts' in line:
-        printed_line = i
-    if '## Mechanical Parts' in line:
-        mechanical_line = i + 1
-
 lines_iter = iter(lines)
 with open('./Parts/README.md', "w") as f:
 
     line = next(lines_iter)
 
     # Fing begining of printed table
-    while '## Printed Parts' not in line:
+    while '##' not in line and 'Printed Parts' in line:
         f.write(line)
         line = next(lines_iter)
     f.write(line)
@@ -144,7 +135,7 @@ with open('./Parts/README.md', "w") as f:
     f.write('\n')
 
     # Fing begining of mechanical table
-    while '## Mechanical Parts' not in line:
+    while '##' not in line and 'Mechanical Parts' not in line:
         f.write(line)
         line = next(lines_iter)
     f.write(line)
