@@ -43,14 +43,14 @@
 ## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
-|                          Part Name                          | Link | Alt Link |Amount|Price|                                   Note                                   |
+|                          Part Name                          | Link | Alt Link |CAD Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) | [:small_red_triangle:](---) | 1 | 22.50€ |  |
 | [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | [link](https://amzn.eu/exkvn5W) | [:small_red_triangle:](---) | 1 | 29.99€ |  |
 
 ### FASTENERS:
-|                          Part Name                          | Link | Alt Link |Amount|Price|                                   Note                                   |
+|                          Part Name                          | Link | Alt Link |CAD Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | [link](https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf) | [:small_red_triangle:](---) | 2 | 0.78€ |  |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | [link](https://de.aliexpress.com/item/1005004510663195.html) | [:small_red_triangle:](---) | 4 | 3.53€ |  |
@@ -68,7 +68,7 @@
 | [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
 
 ### MAKERBEAM:
-|                          Part Name                          | Link | Alt Link |Amount|Price|                                   Note                                   |
+|                          Part Name                          | Link | Alt Link |CAD Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | [:small_red_triangle:](---) | 3 | 17.95€ |  |
 | [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | [:small_red_triangle:](---) | 1 | --- | Included in previous cube order. |
@@ -80,7 +80,7 @@
 | [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | [:small_red_triangle:](---) | 1 | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) | [:small_red_triangle:](---) | 17 | 14.98€ | Item needs to be bought twice |
 
-|                          Part Name                          | Link | Alt Link |Amount|Price|                                   Note                                   |
+|                          Part Name                          | Link | Alt Link |CAD Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 1 | --- |  |
 | [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
