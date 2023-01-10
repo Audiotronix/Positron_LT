@@ -52,14 +52,14 @@
 ### FASTENERS:
 |                          Part Name                          | Link | Alt Link |Amount|Price|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
-| [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 2 | --- |  |
-| [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
-| [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 38 | --- |  |
-| [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
-| [DIN_7991_M3X25](./Mechanical%20Parts/DIN_7991_M3X25.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
-| [DIN_7991_M3X35](./Mechanical%20Parts/DIN_7991_M3X35.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 10 | --- |  |
-| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 3 | --- |  |
-| [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 6 | --- |  |
+| [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | [link](https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf) | [:small_red_triangle:](---) | 2 | 0.78€ |  |
+| [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | [link](https://de.aliexpress.com/item/1005004510663195.html) | [:small_red_triangle:](---) | 4 | 3.53€ |  |
+| [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | [link](https://de.aliexpress.com/item/1005004510663195.html) | [:small_red_triangle:](---) | 38 | 4.02€ |  |
+| [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | [link](https://de.aliexpress.com/item/1005004510663195.html) | [:small_red_triangle:](---) | 5 | 4.56€ |  |
+| [DIN_7991_M3X25](./Mechanical%20Parts/DIN_7991_M3X25.stl) | [link](https://de.aliexpress.com/item/1005004510663195.html) | [:small_red_triangle:](---) | 3 | 6.01€ |  |
+| [DIN_7991_M3X35](./Mechanical%20Parts/DIN_7991_M3X35.stl) | [link](https://de.aliexpress.com/item/1005004510663195.html) | [:small_red_triangle:](---) | 10 | 7.96€ |  |
+| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | [link](https://de.aliexpress.com/item/1005004510663195.html) | [:small_red_triangle:](---) | 3 | 2.50€ |  |
+| [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | [link](https://de.aliexpress.com/item/1005004510663195.html) | [:small_red_triangle:](---) | 6 | 2.84€ |  |
 | [ISO_4762_M3X20](./Mechanical%20Parts/ISO_4762_M3X20.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 5 | --- |  |
 | [ISO_4762_M3X6](./Mechanical%20Parts/ISO_4762_M3X6.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 10 | --- |  |
 | [ISO_7380_M3X4](./Mechanical%20Parts/ISO_7380_M3X4.stl) | [:small_red_triangle:](---) | [:small_red_triangle:](---) | 4 | --- |  |
