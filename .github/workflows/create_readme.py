@@ -8,61 +8,92 @@ def pad_column(title: str, longest: int, factor=1.575):
     padding = ' ' * int(((longest-len(str(title)))) / 2 * factor)
     return padding + title + padding
 
+def write_printed(part_data) -> str:
+    stl = '[STL](./Printed%20Parts/STL/'+str(part_data['cad_name'])+'.stl)'
+    step = '[STEP](./Printed%20Parts/STEP/'+str(part_data['cad_name'])+'.step)'
+    time = str(part_data['note'].split('[t:')[1].split(';w:')[0])
+    weight = str(part_data['note'].split('[t:')[1].split(';w:')[1].split(']')[0])
+
+    return '| '+str(part_data['cad_name']) + ' | '+stl+' | '+step+' | '+str(part_data['amount'])+' | '+time+' | '+weight+' |\n'
+
+def write_mechanical(part_data) -> str:
+    # shorten urls
+    note = str(part_data['note'])
+    urls = re.findall(r'(https?://[^\s]+)', note)
+    for url in list(set(urls)):
+        note = note.replace(url, '[link]('+url+')')
+
+    part_name = '['+str(part_data['cad_name'])+'](./Mechanical%20Parts/'+str(part_data['cad_name'])+'.stl)'
+    link = '['+('link' if str(part_data['link']) != '---' else ':small_red_triangle:')+']('+str(part_data['link'])+')'
+
+    #add alt link
+    if part_data['alt_link'] != '---':
+        note = '[[alt link]('+str(part_data['alt_link'])+')]' + note
+
+    return '| '+str(part_data['cad_name'])+' | '+str(part_data['amount'])+' | '+link+' | '+str(part_data['price'])+' | '+str(note)+' |\n'
+
 
 # read csv
 csv_data = {}
 try:
-    with open('./Parts/bom.csv', newline='') as csvfile:
+    with open('./Parts/bom.csv', newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
             csv_data[row['cad_name']] = row
 except:
     print('No bom.csv found!')
 
-printed_column_lengths = {}
-mechanical_column_lengths = {}
-
 categories = {}
+
+#gather max lengths for each column
+column_lengths = {'printed': {}, 'mechanical': {}}
 for part in csv_data:
-    if csv_data[part]['type'] == 'printed':
-        if 'cad_name' not in printed_column_lengths or printed_column_lengths[column] < len(str(part)):
-            printed_column_lengths['cad_name'] = len(str(part))
-        for column in csv_data[part]:
-            if column not in printed_column_lengths or printed_column_lengths[column] < len(str(csv_data[part][column])):
-                printed_column_lengths[column] = len(
-                    str(csv_data[part][column]))
+    part_data = csv_data[part]
 
-    if csv_data[part]['type'] == 'mechanical':
-        if 'cad_name' not in mechanical_column_lengths or mechanical_column_lengths[column] < len(str(part)):
-            mechanical_column_lengths['cad_name'] = len(str(part))
-        for column in csv_data[part]:
-            # short urls
-            urls = []
-            if column == 'note':
-                note = str(csv_data[part][column])
-                urls = re.findall(r'(https?://[^\s]+)', note)
-            column_length = len(str(csv_data[part][column]))
-            if urls != []:
-                column_length = len(str(re.compile('|'.join(map(re.escape, urls))).sub(
-                    'link', str(csv_data[part][column]))))
-            
-            if column not in mechanical_column_lengths or mechanical_column_lengths[column] < column_length:
-                mechanical_column_lengths[column] = column_length
+    #skip empty row
+    if part_data['type'] == '': continue
 
-    if csv_data[part]['category'] not in categories and csv_data[part]['category'] != '':
-        categories[csv_data[part]['category']] = csv_data[part]['type']
+    for column in part_data.keys():
+
+        #register all columns
+        if column not in column_lengths[part_data['type']]:
+            column_lengths[part_data['type']][column] = 0
+
+        #skip '---'
+        if part_data[column] == '---': continue
+
+        column_length = len(str(part_data[column]))
+
+        #detect url in note
+        if column == 'note':
+            urls = re.findall(r'(https?://[^\s]+)', str(part_data[column])) #get all urls in note as list
+            for url in urls: column_length = column_length - len(str(url)) + 4  #length of real url gets replaced with displayed 'link' message length
+        
+            #add alt_link length to note
+            if part_data['alt_link'] != '---':
+                print(part_data['alt_link'])
+                column_length += 10
+
+        if column_lengths[part_data['type']][column] < column_length:
+            column_lengths[part_data['type']][column] = column_length
+
+    #add category if not exists {'category_name':'printed/mechanical'}
+    if part_data['category'] not in categories and part_data['category'] != '':
+        categories[part_data['category']] = part_data['type']
 
 categories = collections.OrderedDict(
     sorted(categories.items()))  # sort cats
 
-# create table strings
-printed_table = ''
-printed_header = '|'+pad_column('Part Name', printed_column_lengths['cad_name'], 2.4)+'| STL | STEP |'+pad_column(
-    'Amount', printed_column_lengths['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
-mechanical_table = ''
-mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'], 2.4)+'|'+pad_column('CAD Amount', mechanical_column_lengths['amount'])+'| Link |'+pad_column(
-    'Price', mechanical_column_lengths['price'])+'|'+pad_column('Note', mechanical_column_lengths['note'])+'|\n| --- | --- | --- | --- | --- |\n'
 
+#create table strings
+printed_table = ''
+mechanical_table = ''
+
+#create table header strings
+printed_header = '|'+pad_column('Part Name', column_lengths['printed']['cad_name'], 2.4)+'| STL | STEP |'+pad_column('Amount', column_lengths['printed']['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
+mechanical_header = '|'+pad_column('Part Name', column_lengths['mechanical']['cad_name'], 2.4)+'|'+pad_column('CAD Amount', column_lengths['mechanical']['amount'])+'| Link |'+pad_column('Price', column_lengths['mechanical']['price'])+'|'+pad_column('Note', column_lengths['mechanical']['note'])+'|\n| --- | --- | --- | --- | --- |\n'
+
+#create category title + table header
 for category in categories:
     if categories[category] == 'printed':
         printed_table += '\n### '+str(category).upper()+':\n' + printed_header
@@ -70,23 +101,19 @@ for category in categories:
         mechanical_table += '\n### ' + \
             str(category).upper()+':\n' + mechanical_header
 
-    # parts with category
-    for row in csv_data:
-        entry = csv_data[row]
-        if entry['category'] != category:
-            continue  # skip if no category
-        if entry['type'] == 'printed':
-            printed_table += '| '+str(entry['cad_name']) + ' | [STL](./Printed%20Parts/STL/'+str(entry['cad_name'])+'.stl) | [STEP](./Printed%20Parts/STEP/'+str(entry['cad_name'])+'.step) | '+str(
-                entry['amount'])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[0])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[1].split(']')[0])+' |\n'
-        elif entry['type'] == 'mechanical':
-            note = str(entry['note'])
-            # shorten urls
-            urls = re.findall(r'(https?://[^\s]+)', note)
-            for url in list(set(urls)):
-                note = note.replace(url, '[link]('+url+')')
 
-            mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | '+str(entry['amount'])+' | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(
-                entry['link'])+') | '+str(entry['price'])+' | '+str(note)+' |\n'
+    #create table strings for parts with category
+    for part in csv_data:
+        part_data = csv_data[part]
+
+        #skip if no category
+        if part_data['category'] != category: continue
+
+        if part_data['type'] == 'printed':
+            printed_table += write_printed(part_data)
+
+        elif part_data['type'] == 'mechanical':
+            mechanical_table += write_mechanical(part_data)
 
 # set header for parts without category
 if 'printed' in categories.values():
@@ -98,16 +125,18 @@ if 'mechanical' in categories.values():
 else:
     mechanical_table = '\n' + mechanical_header
 
-for row in csv_data:
-    entry = csv_data[row]
-    if entry['category'] != '':
-        continue  # skip if has category
-    if entry['type'] == 'printed':
-        printed_table += '| '+str(entry['cad_name']) + ' | [STL](./Printed%20Parts/STL/'+str(entry['cad_name'])+'.stl) | [STEP](./Printed%20Parts/STEP/'+str(entry['cad_name'])+'.step) | '+str(
-            entry['amount'])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[0])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[1].split(']')[0])+' |\n'
-    elif entry['type'] == 'mechanical':
-        mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | '+str(entry['amount'])+' | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(
-            entry['link'])+') | '+str(entry['price'])+' | '+str(entry['note'])+' |\n'
+#create table strings for parts without category
+for part in csv_data:
+    part_data = csv_data[part]
+
+    #skip if has category
+    if part_data['category'] != '': continue
+
+    if part_data['type'] == 'printed':
+        printed_table += write_printed(part_data)
+
+    elif part_data['type'] == 'mechanical':
+        write_mechanical
 
 
 # README update
