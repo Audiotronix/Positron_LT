@@ -60,7 +60,7 @@ printed_header = '|'+pad_column('Part Name', printed_column_lengths['cad_name'],
     'Amount', printed_column_lengths['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
 mechanical_table = ''
 mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'], 2.4)+'|'+pad_column('CAD Amount', mechanical_column_lengths['amount'])+'| Link |'+pad_column(
-    'Price', mechanical_column_lengths['price'], entry_factor=2)+'|'+pad_column('Note', mechanical_column_lengths['note'])+'|\n| --- | --- | --- | --- | --- |\n'
+    'Price', mechanical_column_lengths['price'], entry_factor=4)+'|'+pad_column('Note', mechanical_column_lengths['note'])+'|\n| --- | --- | --- | --- | --- |\n'
 
 for category in categories:
     if categories[category] == 'printed':
