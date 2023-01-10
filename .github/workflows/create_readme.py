@@ -28,7 +28,7 @@ def write_mechanical(part_data) -> str:
 
     #add alt link to link
     if part_data['alt_link'] != '---':
-        link += ' | [alt link]('+str(part_data['alt_link'])+')'
+        link += ' / [link]('+str(part_data['alt_link'])+')'
 
     return '| '+str(part_data['cad_name'])+' | '+str(part_data['amount'])+' | '+link+' | '+str(part_data['price'])+' | '+str(note)+' |\n'
 
@@ -71,7 +71,7 @@ for part in csv_data:
         
         #add alt_link length to link
         if column == 'link' and part_data['alt_link'] != '---':
-            column_length += 11
+            column_length += 7
 
         if column_lengths[part_data['type']][column] < column_length:
             column_lengths[part_data['type']][column] = column_length
