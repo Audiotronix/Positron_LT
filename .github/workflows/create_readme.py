@@ -59,7 +59,7 @@ printed_table = ''
 printed_header = '|'+pad_column('Part Name', printed_column_lengths['cad_name'], 2.4)+'| STL | STEP |'+pad_column(
     'Amount', printed_column_lengths['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
 mechanical_table = ''
-mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'], 2.4)+'| Link | Alt Link |'+pad_column('CAD Amount', mechanical_column_lengths['amount'])+'|'+pad_column(
+mechanical_header = '|'+pad_column('Part Name', mechanical_column_lengths['cad_name'], 2.4)+'|'+pad_column('CAD Amount', mechanical_column_lengths['amount'])+'| Link | Alt Link |'+pad_column(
     'Price', mechanical_column_lengths['price'])+'|'+pad_column('Note', mechanical_column_lengths['note'])+'|\n| --- | --- | --- | --- | --- | --- |\n'
 
 for category in categories:
@@ -84,8 +84,8 @@ for category in categories:
             for url in list(set(urls)):
                 note = note.replace(url, '[link]('+url+')')
 
-            mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(
-                entry['link'])+') | ['+('link' if str(entry['alt_link']) != '---' else ':small_red_triangle:')+']('+str(entry['alt_link'])+') | '+str(entry['amount'])+' | '+str(entry['price'])+' | '+str(note)+' |\n'
+            mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | '+str(entry['amount'])+' | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(
+                entry['link'])+') | ['+('link' if str(entry['alt_link']) != '---' else ':small_red_triangle:')+']('+str(entry['alt_link'])+') | '+str(entry['price'])+' | '+str(note)+' |\n'
 
 # set header for parts without category
 if 'printed' in categories.values():
@@ -105,8 +105,8 @@ for row in csv_data:
         printed_table += '| '+str(entry['cad_name']) + ' | [STL](./Printed%20Parts/STL/'+str(entry['cad_name'])+'.stl) | [STEP](./Printed%20Parts/STEP/'+str(entry['cad_name'])+'.step) | '+str(
             entry['amount'])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[0])+' | '+str(entry['note'].split('[t:')[1].split(';w:')[1].split(']')[0])+' |\n'
     elif entry['type'] == 'mechanical':
-        mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(
-            entry['link'])+') | ['+('link' if str(entry['alt_link']) != '---' else ':small_red_triangle:')+']('+str(entry['alt_link'])+') | '+str(entry['amount'])+' | '+str(entry['price'])+' | '+str(entry['note'])+' |\n'
+        mechanical_table += '| ['+str(entry['cad_name'])+'](./Mechanical%20Parts/'+str(entry['cad_name'])+'.stl) | '+str(entry['amount'])+' | ['+('link' if str(entry['link']) != '---' else ':small_red_triangle:')+']('+str(
+            entry['link'])+') | ['+('link' if str(entry['alt_link']) != '---' else ':small_red_triangle:')+']('+str(entry['alt_link'])+') | '+str(entry['price'])+' | '+str(entry['note'])+' |\n'
 
 
 # README update
