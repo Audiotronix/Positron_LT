@@ -9,7 +9,7 @@
 | --- | --- | --- | --- | --- | --- |
 | PC Blend | Prusament | Carbon Fiber Black | 59.99€ | [link](https://www.prusa3d.com/product/prusament-pc-blend-carbon-fiber-black-800g-2/) | Hardened |
 | GreenTEC | extrudr | Pro Carbon | 49.99€ | [link](https://www.extrudr.com/de/produkte/catalogue/greentec-pro-carbon_2410/) | Hardened |
-| ASA | Prusament | Galaxy Black | 29.99€ | [link](https://www.prusa3d.com/product/prusament-asa-prusa-galaxy-black-850g/) | --- |
+| ASA | Prusament | Prusament ASA | 29.99€ | [link](https://www.prusa3d.com/category/prusament-asa/) | --- |
 
 ## Slicing
 
