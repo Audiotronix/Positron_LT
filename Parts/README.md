@@ -43,14 +43,14 @@
 ## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
-|                          Part Name                          |CAD Amount| Link |Price|                                   Note                                   |
+|                          Part Name                          |CAD Amount|                                                                              Link                                                                              |Price|                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | FAN_2510 | 2 | [:small_red_triangle:](---) | --- |  |
 | RPI_ZERO_2W | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) | 22.50€ |  |
 | SKR-PICO | 1 | [link](https://amzn.eu/exkvn5W) | 29.99€ |  |
 
 ### FASTENERS:
-|                          Part Name                          |CAD Amount| Link |Price|                                   Note                                   |
+|                          Part Name                          |CAD Amount|                                                                              Link                                                                              |Price|                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | DIN_7979_M3X5X10 | 2 | [link](https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf) | 0.78€ |  |
 | DIN_7991_M3X12 | 4 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 3.53€ |  |
@@ -68,7 +68,7 @@
 | WAFERHEAD_M3X20 | 3 | [:small_red_triangle:](---) | --- |  |
 
 ### MAKERBEAM:
-|                          Part Name                          |CAD Amount| Link |Price|                                   Note                                   |
+|                          Part Name                          |CAD Amount|                                                                              Link                                                                              |Price|                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | MAKERBEAM-CUBE | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 17.95€ |  |
 | MAKERBEAM-CUBE_M6 | 1 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | --- | Included in previous cube order. |
@@ -80,8 +80,48 @@
 | MAKERBEAM_L30 | 1 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | MAKERBEAM_T-NUT_101619-1 | 17 | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) | 14.98€ | Item needs to be bought twice |
 
-|                          Part Name                          |CAD Amount| Link |Price|                                   Note                                   |
+|                          Part Name                          |CAD Amount|                                                                              Link                                                                              |Price|                                   Note                                   |
 | --- | --- | --- | --- | --- |
+| 10PIN_EXP_MALE_1 | 1 | [:small_red_triangle:](---) | --- |  |
+| 17HM08-1204S | 3 | [:small_red_triangle:](---) | --- |  |
+| 301132320130 | 2 | [:small_red_triangle:](---) | --- |  |
+| 6_PIN_MEGNEGTIC_POGO_PINS_1_2_3 | 1 | [:small_red_triangle:](---) | --- |  |
+| BEDHOLDER_BEAM_01 | 2 | [:small_red_triangle:](---) | --- |  |
+| BED_HOLDER_MAIN | 1 | [:small_red_triangle:](---) | --- |  |
+| C7-PLUG | 1 | [:small_red_triangle:](---) | --- |  |
+| C7_PLUG-IN | 1 | [:small_red_triangle:](---) | --- |  |
+| CARRIAGE_MGN12_01 | 2 | [:small_red_triangle:](---) | --- |  |
+| DIN988_7X13X01 | 40 | [:small_red_triangle:](---) | --- |  |
+| DUST_COVER_85X52 | 2 | [:small_red_triangle:](---) | --- |  |
+| EPP-200 | 1 | [:small_red_triangle:](---) | --- |  |
+| F5-10M_CAGE_BB | 2 | [:small_red_triangle:](---) | --- |  |
+| F_683_VA_1 | 28 | [:small_red_triangle:](---) | --- |  |
+| GT2_16T_IDLER_SMOOTH | 1 | [:small_red_triangle:](---) | --- |  |
+| GT2_BELT-6MM_L178MM | 1 | [:small_red_triangle:](---) | --- |  |
+| HEAT_SINK_1 | 1 | [:small_red_triangle:](---) | --- |  |
+| LEADSCREW_T5X4_L225 | 1 | [:small_red_triangle:](---) | --- |  |
+| LEADSVREW_NUT_T5X4 | 1 | [:small_red_triangle:](---) | --- |  |
+| LED_4X_15X15 | 1 | [:small_red_triangle:](---) | --- |  |
+| LGX-LITE-SIMPLIFIED-V6 | 1 | [:small_red_triangle:](---) | --- |  |
+| M3X12_SPACER_MIRROR_ | 1 | [:small_red_triangle:](---) | --- |  |
+| M3X14_WAFER_HEAD_1_2 | 2 | [:small_red_triangle:](---) | --- |  |
+| M3X2_4MM_HEX_NUT_1_2_3 | 2 | [:small_red_triangle:](---) | --- |  |
+| M3X5_SPACER | 1 | [:small_red_triangle:](---) | --- |  |
+| M3_FENDER_WASHER | 1 | [:small_red_triangle:](---) | --- |  |
+| M3_INSERT_SHORT | 9 | [:small_red_triangle:](---) | --- |  |
+| M3_SPACOR_ | 2 | [:small_red_triangle:](---) | --- |  |
+| M3_WASHER_1_2_3 | 7 | [:small_red_triangle:](---) | --- |  |
+| M3_X20_FLATHEAD | 1 | [:small_red_triangle:](---) | --- |  |
+| M3_X20_FLATHEAD_V2_MIRROR_ | 1 | [:small_red_triangle:](---) | --- |  |
+| M5_WASHER_MIRROR_ | 1 | [:small_red_triangle:](---) | --- |  |
+| MF85_BEARING | 2 | [:small_red_triangle:](---) | --- |  |
+| MGN12_L225 | 1 | [:small_red_triangle:](---) | --- |  |
+| MGN9_RAIL_V2_1_2 | 1 | [:small_red_triangle:](---) | --- |  |
+| MGW9-RAIL_L227 | 1 | [:small_red_triangle:](---) | --- |  |
+| MGW9C1R100ZFC | 1 | [:small_red_triangle:](---) | --- |  |
+| MR115_BEARING | 1 | [:small_red_triangle:](---) | --- |  |
+| MR_117_2Z_2 | 10 | [:small_red_triangle:](---) | --- |  |
+| PULLEY_T20_LOWPROFILE | 4 | [:small_red_triangle:](---) | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
