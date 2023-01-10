@@ -26,9 +26,9 @@ def write_mechanical(part_data) -> str:
     part_name = '['+str(part_data['cad_name'])+'](./Mechanical%20Parts/'+str(part_data['cad_name'])+'.stl)'
     link = '['+('link' if str(part_data['link']) != '---' else ':small_red_triangle:')+']('+str(part_data['link'])+')'
 
-    #add alt link
+    #add alt link to link
     if part_data['alt_link'] != '---':
-        note = '[[alt link]('+str(part_data['alt_link'])+')]' + note
+        link += ' | [alt link]('+str(part_data['alt_link'])+')'
 
     return '| '+str(part_data['cad_name'])+' | '+str(part_data['amount'])+' | '+link+' | '+str(part_data['price'])+' | '+str(note)+' |\n'
 
@@ -69,10 +69,9 @@ for part in csv_data:
             urls = re.findall(r'(https?://[^\s]+)', str(part_data[column])) #get all urls in note as list
             for url in urls: column_length = column_length - len(str(url)) + 4  #length of real url gets replaced with displayed 'link' message length
         
-            #add alt_link length to note
-            if part_data['alt_link'] != '---':
-                print(part_data['alt_link'])
-                column_length += 10
+        #add alt_link length to link
+        if column == 'link' and part_data['alt_link'] != '---':
+            column_length += 11
 
         if column_lengths[part_data['type']][column] < column_length:
             column_lengths[part_data['type']][column] = column_length
