@@ -26,8 +26,8 @@ printed,,Z-AXIS-ENDSTOP,1,---,---,---,---,[t: --- ;w: --- ]
 printed,,Z-BLOCK_HOLDER_02,1,---,---,---,---,[t: --- ;w: --- ]
 ,,,,,,,,
 mechanical,electronics,FAN_2510,2,---,---,---,---,
-mechanical,electronics,RPI_ZERO_2W,1,---,---,---,---,
-mechanical,electronics,SKR-PICO,1,---,---,---,---,
+mechanical,electronics,RPI_ZERO_2W,1,---,22.50€,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,---,
+mechanical,electronics,SKR-PICO,1,---,29.99€,https://amzn.eu/exkvn5W,---,
 mechanical,fasteners,DIN_7979_M3X5X10,2,---,---,---,---,
 mechanical,fasteners,DIN_7991_M3X12,4,---,---,---,---,
 mechanical,fasteners,DIN_7991_M3X14,38,---,---,---,---,
