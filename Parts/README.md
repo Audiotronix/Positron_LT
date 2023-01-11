@@ -121,9 +121,9 @@
 | [MGW9C1R100ZFC](./Mechanical%20Parts/MGW9C1R100ZFC.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [MR_117_2Z_2](./Mechanical%20Parts/MR_117_2Z_2.stl) | 10 | [:small_red_triangle:](---) | --- |  |
-| [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [:small_red_triangle:](---) | --- |  |
+| [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [:small_red_triangle:]() | --- |  |
 
-``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
+``Click on the part name to see a 3D model of it (**mechanical parts are not intedet to be printed!**)``<br>
 ``Price is based on the first/main link of each product``
 
 ## Total
@@ -132,6 +132,7 @@
 | Electronics | |
 | Fasteners | |
 | Makerbeams| |
+| Other | |
 | | |
 | Total | |
 
