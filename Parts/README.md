@@ -126,4 +126,14 @@
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
 
+## Total
+| Category | Total |
+| --- | --- |
+| Electronics | |
+| Fasteners | |
+| Makerbeams| |
+| | |
+| Total | |
+
+
 > Note: Some links might be affiliate links!
