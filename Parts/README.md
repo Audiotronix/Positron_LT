@@ -132,7 +132,7 @@
 | Electronics | |
 | Fasteners | |
 | Makerbeams| |
-| Other | |
+| Remaining Parts | |
 | | |
 | Total | |
 
