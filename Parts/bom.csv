@@ -1,29 +1,29 @@
 type,category,cad_name,amount,single_price,price,link,alt_link,note
-printed,,BASECOVER_LEFT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,BASECOVER_RIGHT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,BASEPART_FRONT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,BASEPART_LEFT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,BASEPART_RIGHT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,BASEPLATE_MB_BK,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,BEDHOLDER_CONNECTOR,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,BELT-TENSIONER_Z,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,COVER_ROUND,2,---,---,---,---,[t: --- ;w: --- ]
-printed,,DISTANCE_RIGHT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,END_HOLDER_BLOCK_02,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,EXTRUDER_BASEPLATE,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,LEADSCREW_NUT_MOUNT_01,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,LED_INDICATOR_MOUNT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,MOTORBRACKET_LEFT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,MOTORBRACKET_RIGHT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,MOTORMOUNT_DISTANCE_LEFT,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,PICO_MOUNT_SKETCH,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,SCREWMOUNT_BOTTOM_03,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,SIDE_PANEL_LEFT_2,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,SIDE_PANEL_RIGHT_2,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,SNAP_ADAPTER_1,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,XY-SPACER,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,Z-AXIS-ENDSTOP,1,---,---,---,---,[t: --- ;w: --- ]
-printed,,Z-BLOCK_HOLDER_02,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,BASECOVER_LEFT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,BASECOVER_RIGHT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,BASEPART_FRONT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,BASEPART_LEFT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,BASEPART_RIGHT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,BASEPLATE_BACK_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,BEDHOLDER_CONNECTOR_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,BELT-TENSIONER_Z_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,COVER_ROUND_V01,2,---,---,---,---,[t: --- ;w: --- ]
+printed,,DISTANCE_RIGHT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,END_HOLDER_BLOCK_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,EXTRUDER_BASEPLATE_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,LEADSCREW_NUT_MOUNT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,LED_INDICATOR_MOUNT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,MOTORBRACKET_LEFT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,MOTORBRACKET_RIGHT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,MOTORMOUNT_DISTANCE_LEFT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,PICO_MOUNT_PRE-SKETCH_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,SCREWMOUNT_BOTTOM_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,SIDE_PANEL_LEFT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,SIDE_PANEL_RIGHT_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,SNAP_ADAPTER_V01,2,---,---,---,---,[t: --- ;w: --- ]
+printed,,XY-SPACER_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,Z-AXIS-ENDSTOP_V01,1,---,---,---,---,[t: --- ;w: --- ]
+printed,,Z-BLOCK_HOLDER_V01,1,---,---,---,---,[t: --- ;w: --- ]
 ,,,,,,,,
 mechanical,electronics,FAN_2510,2,---,---,---,---,
 mechanical,electronics,RPI_ZERO_2W,1,---,22.50€,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,---,
@@ -36,9 +36,6 @@ mechanical,fasteners,DIN_7991_M3X25,3,---,6.01€,https://de.aliexpress.com/item
 mechanical,fasteners,DIN_7991_M3X35,10,---,7.96€,https://de.aliexpress.com/item/1005004510663195.html,---,
 mechanical,fasteners,DIN_7991_M3X4,3,---,2.50€,https://de.aliexpress.com/item/1005004510663195.html,---,
 mechanical,fasteners,DIN_7991_M3X8,6,---,2.84€,https://de.aliexpress.com/item/1005004510663195.html,---,
-mechanical,fasteners,ISO_4762_M3X20,5,---,---,---,---,
-mechanical,fasteners,ISO_4762_M3X6,10,---,---,---,---,
-mechanical,fasteners,ISO_7380_M3X4,4,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X10,19,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X14,2,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X20,3,---,---,---,---,
@@ -54,18 +51,24 @@ mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,17,---,14.98€,https://www.makerb
 mechanical,,10PIN_EXP_MALE_1,1,---,---,---,---,
 mechanical,,17HM08-1204S,3,---,---,---,---,
 mechanical,,301132320130,2,---,---,---,---,
+mechanical,,6-PIN_CONNECTOR_F,1,---,---,---,---,
+mechanical,,6-PIN_CONNECTOR_M,1,---,---,---,---,
 mechanical,,6_PIN_MEGNEGTIC_POGO_PINS_1_2_3,1,---,---,---,---,
 mechanical,,BEDHOLDER_BEAM_01,2,---,---,---,---,
 mechanical,,BED_HOLDER_MAIN,1,---,---,---,---,
 mechanical,,C7-PLUG,1,---,---,---,---,
 mechanical,,C7_PLUG-IN,1,---,---,---,---,
 mechanical,,CARRIAGE_MGN12_01,2,---,---,---,---,
-mechanical,,DIN988_7X13X01,40,---,---,---,---,
+mechanical,,DIN_34805_M3X4,4,---,---,---,---,
+mechanical,,DIN_912_M3X20,5,---,---,---,---,
+mechanical,,DIN_912_M3X6,10,---,---,---,---,
+mechanical,,DIN_988_7X13X02,40,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
 mechanical,,EPP-200,1,---,---,---,---,
 mechanical,,F5-10M_CAGE_BB,2,---,---,---,---,
 mechanical,,F_683_VA_1,28,---,---,---,---,
 mechanical,,GT2_16T_IDLER_SMOOTH,1,---,---,---,---,
+mechanical,,GT2_BELT-3MM_L2000MM,1,---,---,---,---,
 mechanical,,GT2_BELT-6MM_L178MM,1,---,---,---,---,
 mechanical,,HEAT_SINK_1,1,---,---,---,---,
 mechanical,,LEADSCREW_T5X4_L225,1,---,---,---,---,
@@ -77,7 +80,7 @@ mechanical,,M3X14_WAFER_HEAD_1_2,2,---,---,---,---,
 mechanical,,M3X2_4MM_HEX_NUT_1_2_3,2,---,---,---,---,
 mechanical,,M3X5_SPACER,1,---,---,---,---,
 mechanical,,M3_FENDER_WASHER,1,---,---,---,---,
-mechanical,,M3_INSERT_SHORT,9,---,---,---,---,
+mechanical,,M3_INSERT,18,---,---,---,---,
 mechanical,,M3_SPACOR_,2,---,---,---,---,
 mechanical,,M3_WASHER_1_2_3,7,---,---,---,---,
 mechanical,,M3_X20_FLATHEAD,1,---,---,---,---,
