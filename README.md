@@ -1,6 +1,10 @@
 > Note: This repository is still a work in progress!
 
+:exclamation: **Desgin not finished** :exclamation:
+
 # Positron LT
+
+<img src="https://user-images.githubusercontent.com/35639879/211760379-3e9ea957-46ea-49e6-94e3-4d412e4e3aec.png" width="350" height="350">
 
 | **Navigation:**| [All Parts (BOM)](/Parts) | [Assembly](/Assembly) | [Software](/Software) | [Gallery](/Gallery) | 
 | --- | --- | --- | --- | --- |

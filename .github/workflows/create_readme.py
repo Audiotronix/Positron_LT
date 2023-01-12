@@ -30,7 +30,7 @@ def write_mechanical(part_data) -> str:
     if part_data['alt_link'] != '---':
         link += ' / [link]('+str(part_data['alt_link'])+')'
 
-    return '| '+str(part_data['cad_name'])+' | '+str(part_data['amount'])+' | '+link+' | '+str(part_data['price'])+' | '+str(note)+' |\n'
+    return '| '+part_name+' | '+str(part_data['amount'])+' | '+link+' | '+str(part_data['price'])+' | '+str(note)+' |\n'
 
 
 # read csv
