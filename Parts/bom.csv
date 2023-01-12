@@ -51,11 +51,11 @@ mechanical,makerbeam,MAKERBEAM_L240,2,---,->,https://www.makerbeam.com/makerbeam
 mechanical,makerbeam,MAKERBEAM_L250,3,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,makerbeam,MAKERBEAM_L30,1,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,17,---,14.98€,https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html,---,Item needs to be bought twice
-mechanical,,BEDHOLDER_BEAM_01,2,---,---,---,---,
 mechanical,,10PIN_EXP_MALE_1,1,---,---,---,---,
 mechanical,,17HM08-1204S,3,---,---,---,---,
 mechanical,,301132320130,2,---,---,---,---,
 mechanical,,6_PIN_MEGNEGTIC_POGO_PINS_1_2_3,1,---,---,---,---,
+mechanical,,BEDHOLDER_BEAM_01,2,---,---,---,---,
 mechanical,,BED_HOLDER_MAIN,1,---,---,---,---,
 mechanical,,C7-PLUG,1,---,---,---,---,
 mechanical,,C7_PLUG-IN,1,---,---,---,---,
