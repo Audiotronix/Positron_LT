@@ -11,8 +11,8 @@ def pad_column(title: str, longest: int, factor=1.575):
 def write_printed(part_data) -> str:
     stl = '[STL](./Printed%20Parts/STL/'+str(part_data['cad_name'])+'.stl)'
     step = '[STEP](./Printed%20Parts/STEP/'+str(part_data['cad_name'])+'.step)'
-    time = str(part_data['note'].split('[t:')[1].split(';w:')[0])
-    weight = str(part_data['note'].split('[t:')[1].split(';w:')[1].split(']')[0])
+    time = str(part_data['note'].split('[t:')[1].split('|w:')[0])
+    weight = str(part_data['note'].split('[t:')[1].split('|w:')[1].split(']')[0])
 
     return '| '+str(part_data['cad_name']) + ' | '+stl+' | '+step+' | '+str(part_data['amount'])+' | '+time+' | '+weight+' |\n'
 
