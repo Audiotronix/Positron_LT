@@ -45,6 +45,7 @@
 ### ELECTRONICS:
 |                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
+| [EPP-200](./Mechanical%20Parts/EPP-200.stl) | 1 | :small_red_triangle: | --- |  |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | 2 | :small_red_triangle: | --- |  |
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) | 22.50€ |  |
 | [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | 1 | [link](https://amzn.eu/exkvn5W) | 29.99€ |  |
@@ -81,7 +82,7 @@
 | --- | --- | --- | --- | --- |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | 1 | :small_red_triangle: | --- |  |
 | [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | 3 | :small_red_triangle: | --- |  |
-| [301132320130](./Mechanical%20Parts/301132320130.stl) | 2 | :small_red_triangle: | --- |  |
+| [3](./Mechanical%20Parts/3.stl) | 01132E+11 | :small_red_triangle: | --- | --- |
 | [6-PIN_CONNECTOR_F](./Mechanical%20Parts/6-PIN_CONNECTOR_F.stl) | 1 | :small_red_triangle: | --- |  |
 | [6-PIN_CONNECTOR_M](./Mechanical%20Parts/6-PIN_CONNECTOR_M.stl) | 1 | :small_red_triangle: | --- |  |
 | [6_PIN_MEGNEGTIC_POGO_PINS_1_2_3](./Mechanical%20Parts/6_PIN_MEGNEGTIC_POGO_PINS_1_2_3.stl) | 1 | :small_red_triangle: | --- |  |
@@ -95,7 +96,6 @@
 | [DIN_912_M3X6](./Mechanical%20Parts/DIN_912_M3X6.stl) | 10 | :small_red_triangle: | --- |  |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | :small_red_triangle: | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 | :small_red_triangle: | --- |  |
-| [EPP-200](./Mechanical%20Parts/EPP-200.stl) | 1 | :small_red_triangle: | --- |  |
 | [F5-10M_CAGE_BB](./Mechanical%20Parts/F5-10M_CAGE_BB.stl) | 2 | :small_red_triangle: | --- |  |
 | [F_683_VA_1](./Mechanical%20Parts/F_683_VA_1.stl) | 28 | :small_red_triangle: | --- |  |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | :small_red_triangle: | --- |  |
