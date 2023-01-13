@@ -24,7 +24,7 @@ def write_mechanical(part_data) -> str:
         note = note.replace(url, '[link]('+url+')')
 
     part_name = '['+str(part_data['cad_name'])+'](./Mechanical%20Parts/'+str(part_data['cad_name'])+'.stl)'
-    link = ('[link]('+str(part_data['link'])+')') if str(part_data['link']) != '---' else: ':small_red_triangle:'
+    link = (('[link]('+str(part_data['link'])+')') if str(part_data['link']) != '---' else: ':small_red_triangle:')
 
     #add alt link to link
     if part_data['alt_link'] != '---':
