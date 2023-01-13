@@ -45,7 +45,7 @@
 ### ELECTRONICS:
 |                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
-| [EPP-200](./Mechanical%20Parts/EPP-200.stl) | 1 | :small_red_triangle: | --- |  |
+| [EPP-200](./Mechanical%20Parts/EPP-200.stl) | 1 | :small_red_triangle: | --- | epp-200-24 |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | 2 | :small_red_triangle: | --- |  |
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) | 22.50€ |  |
 | [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | 1 | [link](https://amzn.eu/exkvn5W) | 29.99€ |  |
