@@ -17,7 +17,7 @@ def write_part_to_csv(name, this_part, old_part, writer):
 in_csv = {}
 try:
     with open('./Parts/bom.csv', newline='') as csvfile:
-        reader = csv.DictReader(csvfile)
+        reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
             if row['type'] != '':
                 in_csv[row['cad_name']] = row
