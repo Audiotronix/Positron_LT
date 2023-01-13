@@ -15,4 +15,4 @@
 
 | Layer height | Infill | Supports |
 | --- | --- | --- |
-| 0.2mm | 20% | None |
+| 0.2mm | 20% | On build plate only |

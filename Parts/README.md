@@ -7,33 +7,33 @@
 
 ## [Printed Parts](./Printed%20Parts)
 
-|                  Part Name                  | STL | STEP |Amount| Print Time | Weight (g)|
+|                      Part Name                      | STL | STEP |Amount| Print Time | Weight (g)|
 | --- | --- | --- | --- | --- | --- |
-| BASECOVER_LEFT | [STL](./Printed%20Parts/STL/BASECOVER_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT.step) | 1 |  ---  |  ---  |
-| BASECOVER_RIGHT | [STL](./Printed%20Parts/STL/BASECOVER_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_RIGHT.step) | 1 |  ---  |  ---  |
-| BASEPART_FRONT | [STL](./Printed%20Parts/STL/BASEPART_FRONT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_FRONT.step) | 1 |  ---  |  ---  |
-| BASEPART_LEFT | [STL](./Printed%20Parts/STL/BASEPART_LEFT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_LEFT.step) | 1 |  ---  |  ---  |
-| BASEPART_RIGHT | [STL](./Printed%20Parts/STL/BASEPART_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_RIGHT.step) | 1 |  ---  |  ---  |
-| BASEPLATE_MB_BK | [STL](./Printed%20Parts/STL/BASEPLATE_MB_BK.stl) | [STEP](./Printed%20Parts/STEP/BASEPLATE_MB_BK.step) | 1 |  ---  |  ---  |
-| BEDHOLDER_CONNECTOR | [STL](./Printed%20Parts/STL/BEDHOLDER_CONNECTOR.stl) | [STEP](./Printed%20Parts/STEP/BEDHOLDER_CONNECTOR.step) | 1 |  ---  |  ---  |
-| BELT-TENSIONER_Z | [STL](./Printed%20Parts/STL/BELT-TENSIONER_Z.stl) | [STEP](./Printed%20Parts/STEP/BELT-TENSIONER_Z.step) | 1 |  ---  |  ---  |
-| COVER_ROUND | [STL](./Printed%20Parts/STL/COVER_ROUND.stl) | [STEP](./Printed%20Parts/STEP/COVER_ROUND.step) | 2 |  ---  |  ---  |
-| DISTANCE_RIGHT | [STL](./Printed%20Parts/STL/DISTANCE_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/DISTANCE_RIGHT.step) | 1 |  ---  |  ---  |
-| END_HOLDER_BLOCK_02 | [STL](./Printed%20Parts/STL/END_HOLDER_BLOCK_02.stl) | [STEP](./Printed%20Parts/STEP/END_HOLDER_BLOCK_02.step) | 1 |  ---  |  ---  |
-| EXTRUDER_BASEPLATE | [STL](./Printed%20Parts/STL/EXTRUDER_BASEPLATE.stl) | [STEP](./Printed%20Parts/STEP/EXTRUDER_BASEPLATE.step) | 1 |  ---  |  ---  |
-| LEADSCREW_NUT_MOUNT_01 | [STL](./Printed%20Parts/STL/LEADSCREW_NUT_MOUNT_01.stl) | [STEP](./Printed%20Parts/STEP/LEADSCREW_NUT_MOUNT_01.step) | 1 |  ---  |  ---  |
-| LED_INDICATOR_MOUNT | [STL](./Printed%20Parts/STL/LED_INDICATOR_MOUNT.stl) | [STEP](./Printed%20Parts/STEP/LED_INDICATOR_MOUNT.step) | 1 |  ---  |  ---  |
-| MOTORBRACKET_LEFT | [STL](./Printed%20Parts/STL/MOTORBRACKET_LEFT.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_LEFT.step) | 1 |  ---  |  ---  |
-| MOTORBRACKET_RIGHT | [STL](./Printed%20Parts/STL/MOTORBRACKET_RIGHT.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_RIGHT.step) | 1 |  ---  |  ---  |
-| MOTORMOUNT_DISTANCE_LEFT | [STL](./Printed%20Parts/STL/MOTORMOUNT_DISTANCE_LEFT.stl) | [STEP](./Printed%20Parts/STEP/MOTORMOUNT_DISTANCE_LEFT.step) | 1 |  ---  |  ---  |
-| PICO_MOUNT_SKETCH | [STL](./Printed%20Parts/STL/PICO_MOUNT_SKETCH.stl) | [STEP](./Printed%20Parts/STEP/PICO_MOUNT_SKETCH.step) | 1 |  ---  |  ---  |
-| SCREWMOUNT_BOTTOM_03 | [STL](./Printed%20Parts/STL/SCREWMOUNT_BOTTOM_03.stl) | [STEP](./Printed%20Parts/STEP/SCREWMOUNT_BOTTOM_03.step) | 1 |  ---  |  ---  |
-| SIDE_PANEL_LEFT_2 | [STL](./Printed%20Parts/STL/SIDE_PANEL_LEFT_2.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_LEFT_2.step) | 1 |  ---  |  ---  |
-| SIDE_PANEL_RIGHT_2 | [STL](./Printed%20Parts/STL/SIDE_PANEL_RIGHT_2.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_RIGHT_2.step) | 1 |  ---  |  ---  |
-| SNAP_ADAPTER_1 | [STL](./Printed%20Parts/STL/SNAP_ADAPTER_1.stl) | [STEP](./Printed%20Parts/STEP/SNAP_ADAPTER_1.step) | 1 |  ---  |  ---  |
-| XY-SPACER | [STL](./Printed%20Parts/STL/XY-SPACER.stl) | [STEP](./Printed%20Parts/STEP/XY-SPACER.step) | 1 |  ---  |  ---  |
-| Z-AXIS-ENDSTOP | [STL](./Printed%20Parts/STL/Z-AXIS-ENDSTOP.stl) | [STEP](./Printed%20Parts/STEP/Z-AXIS-ENDSTOP.step) | 1 |  ---  |  ---  |
-| Z-BLOCK_HOLDER_02 | [STL](./Printed%20Parts/STL/Z-BLOCK_HOLDER_02.stl) | [STEP](./Printed%20Parts/STEP/Z-BLOCK_HOLDER_02.step) | 1 |  ---  |  ---  |
+| BASECOVER_LEFT_V01 | [STL](./Printed%20Parts/STL/BASECOVER_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT_V01.step) | 1 |  ---  |  ---  |
+| BASECOVER_RIGHT_V01 | [STL](./Printed%20Parts/STL/BASECOVER_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_RIGHT_V01.step) | 1 |  ---  |  ---  |
+| BASEPART_FRONT_V01 | [STL](./Printed%20Parts/STL/BASEPART_FRONT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_FRONT_V01.step) | 1 |  ---  |  ---  |
+| BASEPART_LEFT_V01 | [STL](./Printed%20Parts/STL/BASEPART_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_LEFT_V01.step) | 1 |  ---  |  ---  |
+| BASEPART_RIGHT_V01 | [STL](./Printed%20Parts/STL/BASEPART_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_RIGHT_V01.step) | 1 |  ---  |  ---  |
+| BASEPLATE_BACK_V01 | [STL](./Printed%20Parts/STL/BASEPLATE_BACK_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPLATE_BACK_V01.step) | 1 |  ---  |  ---  |
+| BEDHOLDER_CONNECTOR_V01 | [STL](./Printed%20Parts/STL/BEDHOLDER_CONNECTOR_V01.stl) | [STEP](./Printed%20Parts/STEP/BEDHOLDER_CONNECTOR_V01.step) | 1 |  ---  |  ---  |
+| BELT-TENSIONER_Z_V01 | [STL](./Printed%20Parts/STL/BELT-TENSIONER_Z_V01.stl) | [STEP](./Printed%20Parts/STEP/BELT-TENSIONER_Z_V01.step) | 1 |  ---  |  ---  |
+| COVER_ROUND_V01 | [STL](./Printed%20Parts/STL/COVER_ROUND_V01.stl) | [STEP](./Printed%20Parts/STEP/COVER_ROUND_V01.step) | 2 |  ---  |  ---  |
+| DISTANCE_RIGHT_V01 | [STL](./Printed%20Parts/STL/DISTANCE_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/DISTANCE_RIGHT_V01.step) | 1 |  ---  |  ---  |
+| END_HOLDER_BLOCK_V01 | [STL](./Printed%20Parts/STL/END_HOLDER_BLOCK_V01.stl) | [STEP](./Printed%20Parts/STEP/END_HOLDER_BLOCK_V01.step) | 1 |  ---  |  ---  |
+| EXTRUDER_BASEPLATE_V01 | [STL](./Printed%20Parts/STL/EXTRUDER_BASEPLATE_V01.stl) | [STEP](./Printed%20Parts/STEP/EXTRUDER_BASEPLATE_V01.step) | 1 |  ---  |  ---  |
+| LEADSCREW_NUT_MOUNT_V01 | [STL](./Printed%20Parts/STL/LEADSCREW_NUT_MOUNT_V01.stl) | [STEP](./Printed%20Parts/STEP/LEADSCREW_NUT_MOUNT_V01.step) | 1 |  ---  |  ---  |
+| LED_INDICATOR_MOUNT_V01 | [STL](./Printed%20Parts/STL/LED_INDICATOR_MOUNT_V01.stl) | [STEP](./Printed%20Parts/STEP/LED_INDICATOR_MOUNT_V01.step) | 1 |  ---  |  ---  |
+| MOTORBRACKET_LEFT_V01 | [STL](./Printed%20Parts/STL/MOTORBRACKET_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_LEFT_V01.step) | 1 |  ---  |  ---  |
+| MOTORBRACKET_RIGHT_V01 | [STL](./Printed%20Parts/STL/MOTORBRACKET_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_RIGHT_V01.step) | 1 |  ---  |  ---  |
+| MOTORMOUNT_DISTANCE_LEFT_V01 | [STL](./Printed%20Parts/STL/MOTORMOUNT_DISTANCE_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/MOTORMOUNT_DISTANCE_LEFT_V01.step) | 1 |  ---  |  ---  |
+| PICO_MOUNT_PRE-SKETCH_V01 | [STL](./Printed%20Parts/STL/PICO_MOUNT_PRE-SKETCH_V01.stl) | [STEP](./Printed%20Parts/STEP/PICO_MOUNT_PRE-SKETCH_V01.step) | 1 |  ---  |  ---  |
+| SCREWMOUNT_BOTTOM_V01 | [STL](./Printed%20Parts/STL/SCREWMOUNT_BOTTOM_V01.stl) | [STEP](./Printed%20Parts/STEP/SCREWMOUNT_BOTTOM_V01.step) | 1 |  ---  |  ---  |
+| SIDE_PANEL_LEFT_V01 | [STL](./Printed%20Parts/STL/SIDE_PANEL_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_LEFT_V01.step) | 1 |  ---  |  ---  |
+| SIDE_PANEL_RIGHT_V01 | [STL](./Printed%20Parts/STL/SIDE_PANEL_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_RIGHT_V01.step) | 1 |  ---  |  ---  |
+| SNAP_ADAPTER_V01 | [STL](./Printed%20Parts/STL/SNAP_ADAPTER_V01.stl) | [STEP](./Printed%20Parts/STEP/SNAP_ADAPTER_V01.step) | 2 |  ---  |  ---  |
+| XY-SPACER_V01 | [STL](./Printed%20Parts/STL/XY-SPACER_V01.stl) | [STEP](./Printed%20Parts/STEP/XY-SPACER_V01.step) | 1 |  ---  |  ---  |
+| Z-AXIS-ENDSTOP_V01 | [STL](./Printed%20Parts/STL/Z-AXIS-ENDSTOP_V01.stl) | [STEP](./Printed%20Parts/STEP/Z-AXIS-ENDSTOP_V01.step) | 1 |  ---  |  ---  |
+| Z-BLOCK_HOLDER_V01 | [STL](./Printed%20Parts/STL/Z-BLOCK_HOLDER_V01.stl) | [STEP](./Printed%20Parts/STEP/Z-BLOCK_HOLDER_V01.step) | 1 |  ---  |  ---  |
 
 ``Click on the links to be redirected to the file``<br>
 ``Print time and part weight are a result of slicing the parts in slicer x with quality x for printer x``
@@ -60,9 +60,6 @@
 | [DIN_7991_M3X35](./Mechanical%20Parts/DIN_7991_M3X35.stl) | 10 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 7.96€ |  |
 | [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 2.50€ |  |
 | [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | 6 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 2.84€ |  |
-| [ISO_4762_M3X20](./Mechanical%20Parts/ISO_4762_M3X20.stl) | 5 | [:small_red_triangle:](---) | --- |  |
-| [ISO_4762_M3X6](./Mechanical%20Parts/ISO_4762_M3X6.stl) | 10 | [:small_red_triangle:](---) | --- |  |
-| [ISO_7380_M3X4](./Mechanical%20Parts/ISO_7380_M3X4.stl) | 4 | [:small_red_triangle:](---) | --- |  |
 | [WAFERHEAD_M3X10](./Mechanical%20Parts/WAFERHEAD_M3X10.stl) | 19 | [:small_red_triangle:](---) | --- |  |
 | [WAFERHEAD_M3X14](./Mechanical%20Parts/WAFERHEAD_M3X14.stl) | 2 | [:small_red_triangle:](---) | --- |  |
 | [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | 3 | [:small_red_triangle:](---) | --- |  |
@@ -85,18 +82,24 @@
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | 3 | [:small_red_triangle:](---) | --- |  |
 | [301132320130](./Mechanical%20Parts/301132320130.stl) | 2 | [:small_red_triangle:](---) | --- |  |
+| [6-PIN_CONNECTOR_F](./Mechanical%20Parts/6-PIN_CONNECTOR_F.stl) | 1 | [:small_red_triangle:](---) | --- |  |
+| [6-PIN_CONNECTOR_M](./Mechanical%20Parts/6-PIN_CONNECTOR_M.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [6_PIN_MEGNEGTIC_POGO_PINS_1_2_3](./Mechanical%20Parts/6_PIN_MEGNEGTIC_POGO_PINS_1_2_3.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [BEDHOLDER_BEAM_01](./Mechanical%20Parts/BEDHOLDER_BEAM_01.stl) | 2 | [:small_red_triangle:](---) | --- |  |
 | [BED_HOLDER_MAIN](./Mechanical%20Parts/BED_HOLDER_MAIN.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [C7-PLUG](./Mechanical%20Parts/C7-PLUG.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [C7_PLUG-IN](./Mechanical%20Parts/C7_PLUG-IN.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [CARRIAGE_MGN12_01](./Mechanical%20Parts/CARRIAGE_MGN12_01.stl) | 2 | [:small_red_triangle:](---) | --- |  |
-| [DIN988_7X13X01](./Mechanical%20Parts/DIN988_7X13X01.stl) | 40 | [:small_red_triangle:](---) | --- |  |
+| [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 | [:small_red_triangle:](---) | --- |  |
+| [DIN_912_M3X20](./Mechanical%20Parts/DIN_912_M3X20.stl) | 5 | [:small_red_triangle:](---) | --- |  |
+| [DIN_912_M3X6](./Mechanical%20Parts/DIN_912_M3X6.stl) | 10 | [:small_red_triangle:](---) | --- |  |
+| [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [:small_red_triangle:](---) | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 | [:small_red_triangle:](---) | --- |  |
 | [EPP-200](./Mechanical%20Parts/EPP-200.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [F5-10M_CAGE_BB](./Mechanical%20Parts/F5-10M_CAGE_BB.stl) | 2 | [:small_red_triangle:](---) | --- |  |
 | [F_683_VA_1](./Mechanical%20Parts/F_683_VA_1.stl) | 28 | [:small_red_triangle:](---) | --- |  |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | [:small_red_triangle:](---) | --- |  |
+| [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [HEAT_SINK_1](./Mechanical%20Parts/HEAT_SINK_1.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | [:small_red_triangle:](---) | --- |  |
@@ -108,7 +111,7 @@
 | [M3X2_4MM_HEX_NUT_1_2_3](./Mechanical%20Parts/M3X2_4MM_HEX_NUT_1_2_3.stl) | 2 | [:small_red_triangle:](---) | --- |  |
 | [M3X5_SPACER](./Mechanical%20Parts/M3X5_SPACER.stl) | 1 | [:small_red_triangle:](---) | --- |  |
 | [M3_FENDER_WASHER](./Mechanical%20Parts/M3_FENDER_WASHER.stl) | 1 | [:small_red_triangle:](---) | --- |  |
-| [M3_INSERT_SHORT](./Mechanical%20Parts/M3_INSERT_SHORT.stl) | 9 | [:small_red_triangle:](---) | --- |  |
+| [M3_INSERT](./Mechanical%20Parts/M3_INSERT.stl) | 18 | [:small_red_triangle:](---) | --- |  |
 | [M3_SPACOR_](./Mechanical%20Parts/M3_SPACOR_.stl) | 2 | [:small_red_triangle:](---) | --- |  |
 | [M3_WASHER_1_2_3](./Mechanical%20Parts/M3_WASHER_1_2_3.stl) | 7 | [:small_red_triangle:](---) | --- |  |
 | [M3_X20_FLATHEAD](./Mechanical%20Parts/M3_X20_FLATHEAD.stl) | 1 | [:small_red_triangle:](---) | --- |  |
