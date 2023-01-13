@@ -1,2 +1,96 @@
 type,category,cad_name,amount,single_price,price,link,alt_link,note
+printed,,BASECOVER_LEFT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,BASECOVER_RIGHT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,BASEPART_FRONT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,BASEPART_LEFT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,BASEPART_RIGHT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,BASEPLATE_BACK_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,BEDHOLDER_CONNECTOR_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,BELT-TENSIONER_Z_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,COVER_ROUND_V01,2,---,---,---,---,"[t: --- |w: --- ]"
+printed,,DISTANCE_RIGHT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,END_HOLDER_BLOCK_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,EXTRUDER_BASEPLATE_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,LEADSCREW_NUT_MOUNT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,LED_INDICATOR_MOUNT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,MOTORBRACKET_LEFT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,MOTORBRACKET_RIGHT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,MOTORMOUNT_DISTANCE_LEFT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,PICO_MOUNT_PRE-SKETCH_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,SCREWMOUNT_BOTTOM_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,SIDE_PANEL_LEFT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,SIDE_PANEL_RIGHT_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,SNAP_ADAPTER_V01,2,---,---,---,---,"[t: --- |w: --- ]"
+printed,,XY-SPACER_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,Z-AXIS-ENDSTOP_V01,1,---,---,---,---,"[t: --- |w: --- ]"
+printed,,Z-BLOCK_HOLDER_V01,1,---,---,---,---,"[t: --- |w: --- ]"
 ,,,,,,,,
+mechanical,electronics,FAN_2510,2,---,---,---,---,
+mechanical,electronics,RPI_ZERO_2W,1,---,22.50€,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,---,
+mechanical,electronics,SKR-PICO,1,---,29.99€,https://amzn.eu/exkvn5W,---,
+mechanical,fasteners,DIN_7979_M3X5X10,2,---,0.78€,https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf,---,
+mechanical,fasteners,DIN_7991_M3X12,4,---,3.53€,https://de.aliexpress.com/item/1005004510663195.html,---,
+mechanical,fasteners,DIN_7991_M3X14,38,---,4.02€,https://de.aliexpress.com/item/1005004510663195.html,---,
+mechanical,fasteners,DIN_7991_M3X18,5,---,4.56€,https://de.aliexpress.com/item/1005004510663195.html,---,
+mechanical,fasteners,DIN_7991_M3X25,3,---,6.01€,https://de.aliexpress.com/item/1005004510663195.html,---,
+mechanical,fasteners,DIN_7991_M3X35,10,---,7.96€,https://de.aliexpress.com/item/1005004510663195.html,---,
+mechanical,fasteners,DIN_7991_M3X4,3,---,2.50€,https://de.aliexpress.com/item/1005004510663195.html,---,
+mechanical,fasteners,DIN_7991_M3X8,6,---,2.84€,https://de.aliexpress.com/item/1005004510663195.html,---,
+mechanical,fasteners,WAFERHEAD_M3X10,19,---,---,---,---,
+mechanical,fasteners,WAFERHEAD_M3X14,2,---,---,---,---,
+mechanical,fasteners,WAFERHEAD_M3X20,3,---,---,---,---,
+mechanical,makerbeam,MAKERBEAM-CUBE,3,---,17.95€,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,
+mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,---,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,Included in previous cube order.
+mechanical,makerbeam,MAKERBEAM_L-BRACKET_100304,7,---,6.95€,https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637,---,
+mechanical,makerbeam,MAKERBEAM_L200,2,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L230,1,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L240,2,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L250,3,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L30,1,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,17,---,14.98€,https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html,---,Item needs to be bought twice
+mechanical,,10PIN_EXP_MALE_1,1,---,---,---,---,
+mechanical,,17HM08-1204S,3,---,---,---,---,
+mechanical,,3,01132E+11,2,---,---,---,---,
+mechanical,,6-PIN_CONNECTOR_F,1,---,---,---,---,
+mechanical,,6-PIN_CONNECTOR_M,1,---,---,---,---,
+mechanical,,6_PIN_MEGNEGTIC_POGO_PINS_1_2_3,1,---,---,---,---,
+mechanical,,BEDHOLDER_BEAM_01,2,---,---,---,---,
+mechanical,,BED_HOLDER_MAIN,1,---,---,---,---,
+mechanical,,C7-PLUG,1,---,---,---,---,
+mechanical,,C7_PLUG-IN,1,---,---,---,---,
+mechanical,,CARRIAGE_MGN12_01,2,---,---,---,---,
+mechanical,,DIN_34805_M3X4,4,---,---,---,---,
+mechanical,,DIN_912_M3X20,5,---,---,---,---,
+mechanical,,DIN_912_M3X6,10,---,---,---,---,
+mechanical,,DIN_988_7X13X02,40,---,---,---,---,
+mechanical,,DUST_COVER_85X52,2,---,---,---,---,
+mechanical,electronics,EPP-200,1,---,---,---,---,
+mechanical,,F5-10M_CAGE_BB,2,---,---,---,---,
+mechanical,,F_683_VA_1,28,---,---,---,---,
+mechanical,,GT2_16T_IDLER_SMOOTH,1,---,---,---,---,
+mechanical,,GT2_BELT-3MM_L2000MM,1,---,---,---,---,
+mechanical,,GT2_BELT-6MM_L178MM,1,---,---,---,---,
+mechanical,,HEAT_SINK_1,1,---,---,---,---,
+mechanical,,LEADSCREW_T5X4_L225,1,---,---,---,---,
+mechanical,,LEADSVREW_NUT_T5X4,1,---,---,---,---,
+mechanical,,LED_4X_15X15,1,---,---,---,---,
+mechanical,,LGX-LITE-SIMPLIFIED-V6,1,---,---,---,---,
+mechanical,,M3X12_SPACER_MIRROR_,1,---,---,---,---,
+mechanical,,M3X14_WAFER_HEAD_1_2,2,---,---,---,---,
+mechanical,,M3X2_4MM_HEX_NUT_1_2_3,2,---,---,---,---,
+mechanical,,M3X5_SPACER,1,---,---,---,---,
+mechanical,,M3_FENDER_WASHER,1,---,---,---,---,
+mechanical,,M3_INSERT,18,---,---,---,---,
+mechanical,,M3_SPACOR_,2,---,---,---,---,
+mechanical,,M3_WASHER_1_2_3,7,---,---,---,---,
+mechanical,,M3_X20_FLATHEAD,1,---,---,---,---,
+mechanical,,M3_X20_FLATHEAD_V2_MIRROR_,1,---,---,---,---,
+mechanical,,M5_WASHER_MIRROR_,1,---,---,---,---,
+mechanical,,MF85_BEARING,2,---,---,---,---,
+mechanical,,MGN12_L225,1,---,---,---,---,
+mechanical,,MGN9_RAIL_V2_1_2,1,---,---,---,---,
+mechanical,,MGW9-RAIL_L227,1,---,---,---,---,
+mechanical,,MGW9C1R100ZFC,1,---,---,---,---,
+mechanical,,MR115_BEARING,1,---,---,---,---,
+mechanical,,MR_117_2Z_2,10,---,---,---,---,
+mechanical,,PULLEY_T20_LOWPROFILE,4,---,---,---,---,
