@@ -1,4 +1,4 @@
-type,category,cad_name,amount,single_price,price,link,alt_link,note
+type,category,cad_name,amount,price,link,alt_link,pcs,note
 printed,,BASECOVER_LEFT_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BASECOVER_RIGHT_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BASEPART_FRONT_V01,1,---,---,---,---,[t: --- |w: --- ]
@@ -36,16 +36,16 @@ mechanical,electronics,C7_PLUG-IN,1,---,---,---,---,
 mechanical,electronics,EPP-200,1,---,---,---,---,epp-200-24
 mechanical,electronics,FAN_2510,2,---,---,---,---,
 mechanical,electronics,LED_4X_15X15,1,---,---,---,---,
-mechanical,electronics,RPI_ZERO_2W,1,---,22.50€,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,---,
-mechanical,electronics,SKR-PICO,1,---,29.99€,https://amzn.eu/exkvn5W,---,
+mechanical,electronics,RPI_ZERO_2W,1,22.50€,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,---,---,
+mechanical,electronics,SKR-PICO,1,29.99€,https://amzn.eu/exkvn5W,---,---,
 category_info,fasteners,,,---,---,---,---,
-mechanical,fasteners,DIN_7979_M3X5X10,2,---,0.78€,https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf,---,
-mechanical,fasteners,DIN_7991_M3X12,4,---,3.53€,https://de.aliexpress.com/item/1005004510663195.html,---,
-mechanical,fasteners,DIN_7991_M3X14,38,---,4.02€,https://de.aliexpress.com/item/1005004510663195.html,---,
-mechanical,fasteners,DIN_7991_M3X18,5,---,4.56€,https://de.aliexpress.com/item/1005004510663195.html,---,
-mechanical,fasteners,DIN_7991_M3X25,3,---,6.01€,https://de.aliexpress.com/item/1005004510663195.html,---,
-mechanical,fasteners,DIN_7991_M3X35,10,---,7.96€,https://de.aliexpress.com/item/1005004510663195.html,---,
-mechanical,fasteners,DIN_7991_M3X8,6,---,2.84€,https://de.aliexpress.com/item/1005004510663195.html,---,
+mechanical,fasteners,DIN_7979_M3X5X10,2,0.78€,https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf,---,---,
+mechanical,fasteners,DIN_7991_M3X12,4,3.53€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
+mechanical,fasteners,DIN_7991_M3X14,38,4.02€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
+mechanical,fasteners,DIN_7991_M3X18,5,4.56€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
+mechanical,fasteners,DIN_7991_M3X25,3,6.01€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
+mechanical,fasteners,DIN_7991_M3X35,10,7.96€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
+mechanical,fasteners,DIN_7991_M3X8,6,2.84€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
 mechanical,fasteners,DIN_912_M3X20,5,---,---,---,---,
 mechanical,fasteners,DIN_912_M3X6,10,---,---,---,---,
 mechanical,fasteners,M3_INSERT,18,---,---,---,---,
@@ -55,16 +55,16 @@ mechanical,fasteners,WAFERHEAD_M3X14,2,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X20,3,---,---,---,---,
 category_info,makerbeam,,,---,---,---,---,Since Makerbeam does not sell beams with the needed length; they can either be cut by makerbeam which costs 3.50€ per cut; you can find that service here:  https://www.makerbeam.com/cut-and-tap-for-10x10mm.html ; or you can cut them by yourself. Either way; you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,makerbeam,DIN_34805_M3X4,4,---,---,---,---,Included with T-slot nut
-mechanical,makerbeam,DIN_7991_M3X4,3,---,---,,---,Included with T-slot nut
-mechanical,makerbeam,MAKERBEAM-CUBE,3,---,17.95€,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,
-mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,---,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,Included in previous cube order.
-mechanical,makerbeam,MAKERBEAM_L-BRACKET_100304,7,---,6.95€,https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637,---,
-mechanical,makerbeam,MAKERBEAM_L200,2,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
-mechanical,makerbeam,MAKERBEAM_L230,1,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
-mechanical,makerbeam,MAKERBEAM_L240,2,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
-mechanical,makerbeam,MAKERBEAM_L250,3,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
-mechanical,makerbeam,MAKERBEAM_L30,1,---,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
-mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,17,---,14.98€,https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html,---,
+mechanical,makerbeam,DIN_7991_M3X4,3,---,,---,---,Included with T-slot nut
+mechanical,makerbeam,MAKERBEAM-CUBE,3,17.95€,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,---,
+mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,---,Included in previous cube order.
+mechanical,makerbeam,MAKERBEAM_L-BRACKET_100304,7,6.95€,https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637,---,---,
+mechanical,makerbeam,MAKERBEAM_L200,2,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L230,1,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L240,2,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L250,3,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_L30,1,->,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
+mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,17,14.98€,https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html,---,---,
 category_info,motion,,,---,---,---,---,
 mechanical,motion,CARRIAGE_MGN12_01,2,---,---,---,---,
 mechanical,motion,GT2_16T_IDLER_SMOOTH,1,---,---,---,---,

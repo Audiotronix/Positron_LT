@@ -32,7 +32,7 @@ def write_mechanical(part_data) -> str:
     if part_data['alt_link'] != '---':
         link += ' / [link]('+str(part_data['alt_link'])+')'
 
-    return '| '+part_name+' | '+str(part_data['amount'])+' | '+link+' | '+str(part_data['price'])+' | '+str(note)+' |\n'
+    return '| '+part_name+' | '+str(part_data['amount'])+' | '+link+' | '+str(part_data['price'])+' | '+str(part_data['pcs'])+' | '+str(note)+' |\n'
 
 
 # read csv
@@ -97,7 +97,7 @@ mechanical_table = ''
 
 #create table header strings
 printed_header = '|'+pad_column('Part Name', column_lengths['printed']['cad_name'], 2.4)+'| STL | STEP |'+pad_column('Amount', column_lengths['printed']['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
-mechanical_header = '|'+pad_column('Part Name', column_lengths['mechanical']['cad_name'], 2.4)+'|'+pad_column('CAD Amount', column_lengths['mechanical']['amount'])+'| '+pad_column('Link', column_lengths['mechanical']['link'])+' |'+pad_column('Price', column_lengths['mechanical']['price'], 2)+'|'+pad_column('Note', column_lengths['mechanical']['note'])+'|\n| --- | --- | --- | --- | --- |\n'
+mechanical_header = '|'+pad_column('Part Name', column_lengths['mechanical']['cad_name'], 2.4)+'|'+pad_column('CAD Amount', column_lengths['mechanical']['amount'])+'| '+pad_column('Link', column_lengths['mechanical']['link'])+' |'+pad_column('Price', column_lengths['mechanical']['price'], 2)+'|'+pad_column('PCS', column_lengths['pcs']['price'])+'|'+pad_column('Note', column_lengths['mechanical']['note'])+'|\n| --- | --- | --- | --- | --- | --- |\n'
 
 #create category title + table header
 for category in categories:
