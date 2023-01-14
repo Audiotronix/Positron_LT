@@ -61,7 +61,6 @@
 ### FASTENERS:
 |                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
-| [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 | :small_red_triangle: | --- |  |
 | [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | 2 | [link](https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf) | 0.78€ |  |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 3.53€ |  |
 | [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | 38 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 4.02€ |  |
@@ -81,7 +80,8 @@
 Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam which costs 3.50€ per cut, you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) , or you can cut them by yourself. Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png)
 |                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
-| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 | [link]() |  |  |
+| [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 | :small_red_triangle: | --- | Included with T-slot nut |
+| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 | [link]() |  | Included with T-slot nut |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 17.95€ |  |
 | [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | 1 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | --- | Included in previous cube order. |
 | [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | 7 | [link](https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637) | 6.95€ |  |
@@ -90,7 +90,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [MAKERBEAM_L240](./Mechanical%20Parts/MAKERBEAM_L240.stl) | 2 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_L250](./Mechanical%20Parts/MAKERBEAM_L250.stl) | 3 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
 | [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | 1 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png) |
-| [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | 17 | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) | 14.98€ | Item needs to be bought twice |
+| [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | 17 | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) | 14.98€ |  |
 
 ### MOTION:
 |                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
