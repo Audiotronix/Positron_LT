@@ -81,7 +81,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 |                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 | :small_red_triangle: | --- | Included with T-slot nut |
-| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 | [link]() |  | Included with T-slot nut |
+| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 | [link]() | --- | Included with T-slot nut |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 17.95€ |  |
 | [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | 1 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | --- | Included in previous cube order. |
 | [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | 7 | [link](https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637) | 6.95€ |  |
