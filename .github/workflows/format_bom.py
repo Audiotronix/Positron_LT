@@ -19,8 +19,13 @@ try:
     with open('./Parts/bom.csv', newline='') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
-            if row['type'] != '':
-                in_csv[row['cad_name']] = row
+                if row['type'] != '':
+                    name = row['cad_name']
+
+                    if row['cad_name'] == '' and row['type'] == 'category_info':
+                        name = row['category'] + row['type']
+
+                    in_csv[name] = row
 except:
     pass
 
