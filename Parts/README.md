@@ -26,6 +26,7 @@
 | MOTORBRACKET_LEFT_V01 | [STL](./Printed%20Parts/STL/MOTORBRACKET_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_LEFT_V01.step) | 1 |  ---  |  ---  |
 | MOTORBRACKET_RIGHT_V01 | [STL](./Printed%20Parts/STL/MOTORBRACKET_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_RIGHT_V01.step) | 1 |  ---  |  ---  |
 | MOTORMOUNT_DISTANCE_LEFT_V01 | [STL](./Printed%20Parts/STL/MOTORMOUNT_DISTANCE_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/MOTORMOUNT_DISTANCE_LEFT_V01.step) | 1 |  ---  |  ---  |
+| PICO_MOUNT_PRE-SKETCH_V01 | [STL](./Printed%20Parts/STL/PICO_MOUNT_PRE-SKETCH_V01.stl) | [STEP](./Printed%20Parts/STEP/PICO_MOUNT_PRE-SKETCH_V01.step) | 1 |  ---  |  ---  |
 | SCREWMOUNT_BOTTOM_V01 | [STL](./Printed%20Parts/STL/SCREWMOUNT_BOTTOM_V01.stl) | [STEP](./Printed%20Parts/STEP/SCREWMOUNT_BOTTOM_V01.step) | 1 |  ---  |  ---  |
 | SIDE_PANEL_LEFT_V01 | [STL](./Printed%20Parts/STL/SIDE_PANEL_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_LEFT_V01.step) | 1 |  ---  |  ---  |
 | SIDE_PANEL_RIGHT_V01 | [STL](./Printed%20Parts/STL/SIDE_PANEL_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_RIGHT_V01.step) | 1 |  ---  |  ---  |
@@ -50,7 +51,9 @@
 | [C7_PLUG-IN](./Mechanical%20Parts/C7_PLUG-IN.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [LED_4X_15X15](./Mechanical%20Parts/LED_4X_15X15.stl) | 1 | :small_red_triangle: | --- | --- |  |
+| [MOTOR_17HM08-1204S](./Mechanical%20Parts/MOTOR_17HM08-1204S.stl) | 3 | :small_red_triangle: | --- | --- |  |
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) | 22.50€ | --- |  |
+| [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | 1 | :small_red_triangle: | --- | --- |  |
 
 ### FASTENERS:
 |                    Part Name                    |CAD Amount| Link | Price |PCS|                                   Note                                   |
@@ -88,23 +91,25 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 ### MOTION:
 |                    Part Name                    |CAD Amount| Link | Price |PCS|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
+| [CARRIAGE_MGN12-C](./Mechanical%20Parts/CARRIAGE_MGN12-C.stl) | 1 | :small_red_triangle: | --- | --- |  |
+| [CARRIAGE_MGW9-C](./Mechanical%20Parts/CARRIAGE_MGW9-C.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [MGN12_L225](./Mechanical%20Parts/MGN12_L225.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | :small_red_triangle: | --- | --- |  |
+| [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
+| [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
 
 |                    Part Name                    |CAD Amount| Link | Price |PCS|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [6_PIN_MAGNETIC_POGO](./Mechanical%20Parts/6_PIN_MAGNETIC_POGO.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [CARRIAGE_MGN12-C](./Mechanical%20Parts/CARRIAGE_MGN12-C.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [CARRIAGE_MGW9-C](./Mechanical%20Parts/CARRIAGE_MGW9-C.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [DIN_125_M4](./Mechanical%20Parts/DIN_125_M4.stl) | 7 | :small_red_triangle: | --- | --- |  |
 | [DIN_934_M3](./Mechanical%20Parts/DIN_934_M3.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | :small_red_triangle: | --- | --- |  |
-| [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 1 | :small_red_triangle: | --- | --- |  |
+| [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [EPP-200-24](./Mechanical%20Parts/EPP-200-24.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | :small_red_triangle: | --- | --- |  |
@@ -113,11 +118,8 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [LGX-LITE-SIMPLIFIED-V6](./Mechanical%20Parts/LGX-LITE-SIMPLIFIED-V6.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [M6X16_PLASTIC_THUMBSCREW](./Mechanical%20Parts/M6X16_PLASTIC_THUMBSCREW.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | :small_red_triangle: | --- | --- |  |
-| [MOTOR_17HM08-1204S](./Mechanical%20Parts/MOTOR_17HM08-1204S.stl) | 3 | :small_red_triangle: | --- | --- |  |
 | [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | :small_red_triangle: | --- | --- |  |
-| [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
