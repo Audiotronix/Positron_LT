@@ -6,6 +6,7 @@ printed,,BASEPART_LEFT_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BASEPART_RIGHT_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BASEPLATE_BACK_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BEDHOLDER_CONNECTOR_V01,1,---,---,---,---,[t: --- |w: --- ]
+printed,,BED_HOLDER_MAIN_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BELT-TENSIONER_Z_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,COVER_ROUND_V01,2,---,---,---,---,[t: --- |w: --- ]
 printed,,DISTANCE_RIGHT_V01,1,---,---,---,---,[t: --- |w: --- ]
@@ -38,10 +39,10 @@ mechanical,electronics,SKR-PICO,1,---,---,---,---,
 category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X5X10,2,0.78€,https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf,---,---,
 mechanical,fasteners,DIN_7991_M3X12,4,3.53€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
-mechanical,fasteners,DIN_7991_M3X14,36,4.02€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
+mechanical,fasteners,DIN_7991_M3X14,40,4.02€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
 mechanical,fasteners,DIN_7991_M3X18,5,4.56€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
-mechanical,fasteners,DIN_7991_M3X25,3,6.01€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
-mechanical,fasteners,DIN_7991_M3X35,8,7.96€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
+mechanical,fasteners,DIN_7991_M3X25,5,6.01€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
+mechanical,fasteners,DIN_7991_M3X35,10,7.96€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
 mechanical,fasteners,DIN_7991_M3X8,6,2.84€,https://de.aliexpress.com/item/1005004510663195.html,---,---,
 mechanical,fasteners,DIN_912_M3X20,5,---,---,---,---,
 mechanical,fasteners,DIN_912_M3X6,10,---,---,---,---,
@@ -75,6 +76,7 @@ mechanical,motion,RAIL_MGW9_L227,1,---,---,---,---,
 mechanical,,6_PIN_MAGNETIC_POGO,1,---,---,---,---,
 mechanical,,CABLE_C7_SWITCH,1,---,---,---,---,
 mechanical,,DIN_125_M4,7,---,---,---,---,
+mechanical,,DIN_9012_M4,2,---,---,---,---,
 mechanical,,DIN_934_M3,2,---,---,---,---,
 mechanical,,DIN_988_7X13X02,40,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
@@ -83,8 +85,9 @@ mechanical,,F5-10_BEARING,2,---,---,---,---,
 mechanical,,F683_OPEN_BEARING-H25-,28,---,---,---,---,
 mechanical,,HEAT_SINK_1,1,---,---,---,---,
 mechanical,,LEADSCREW_NUT_T5X4,1,---,---,---,---,
-mechanical,,LGX-LITE-SIMPLIFIED-V6,1,---,---,---,---,
 mechanical,,M6X16_PLASTIC_THUMBSCREW,2,---,---,---,---,
+mechanical,,MAKERBEAM_L165,2,---,---,---,---,
 mechanical,,MF85_BEARING,2,---,---,---,---,
 mechanical,,MR115_BEARING,1,---,---,---,---,
 mechanical,,MR117_2Z_BEARING,10,---,---,---,---,
+mechanical,,SPACER_PRINTBED_NEED-TO-CHANGEDR,2,---,---,---,---,
