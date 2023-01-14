@@ -16,12 +16,14 @@ def write_printed(part_data) -> str:
 
     return '| '+str(part_data['cad_name']) + ' | '+stl+' | '+step+' | '+str(part_data['amount'])+' | '+time+' | '+weight+' |\n'
 
-def write_mechanical(part_data) -> str:
-    # shorten urls
-    note = str(part_data['note'])
-    urls = re.findall(r'(https?://[^\s]+)', note)
+def short_urls(text:str):
+    urls = re.findall(r'(https?://[^\s]+)', text)
     for url in list(set(urls)):
-        note = note.replace(url, '[link]('+url+')')
+        text = text.replace(url, '[link]('+url+')')
+    return text
+
+def write_mechanical(part_data) -> str:
+    note = short_urls(str(part_data['note']))
 
     part_name = '['+str(part_data['cad_name'])+'](./Mechanical%20Parts/'+str(part_data['cad_name'])+'.stl)'
     link = ('[link]('+str(part_data['link'])+')') if str(part_data['link']) != '---' else ':small_red_triangle:'
@@ -39,7 +41,12 @@ try:
     with open('./Parts/bom.csv', newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
         for row in reader:
-            csv_data[row['cad_name']] = row
+            name = row['cad_name']
+
+            if row['cad_name'] == '' and row['type'] == 'category_info':
+                name = row['category'] + row['type']
+
+            csv_data[name] = row
 except:
     print('No bom.csv found!')
 
@@ -95,10 +102,26 @@ mechanical_header = '|'+pad_column('Part Name', column_lengths['mechanical']['ca
 #create category title + table header
 for category in categories:
     if categories[category] == 'printed':
-        printed_table += '\n### '+str(category).upper()+':\n' + printed_header
+
+        category_info_note = ''
+        for part in csv_data:
+            if csv_data[part]['type'] == 'category_info' and csv_data[part]['category'] == category:
+                category_info_note = short_urls(str(csv_data[part]['note']))
+                if category_info_note != '': category_info_note +='\n'
+                break
+
+        printed_table += '\n### '+str(category).upper()+':\n' + category_info_note + printed_header
     if categories[category] == 'mechanical':
+
+        category_info_note = ''
+        for part in csv_data:
+            if csv_data[part]['type'] == 'category_info' and csv_data[part]['category'] == category:
+                category_info_note = short_urls(str(csv_data[part]['note']))
+                if category_info_note != '': category_info_note +='\n'
+                break
+
         mechanical_table += '\n### ' + \
-            str(category).upper()+':\n' + mechanical_header
+            str(category).upper()+':\n' + category_info_note + mechanical_header
 
 
     #create table strings for parts with category
