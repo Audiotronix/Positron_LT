@@ -82,7 +82,7 @@
 | --- | --- | --- | --- | --- |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | 1 | :small_red_triangle: | --- |  |
 | [17HM08-1204S](./Mechanical%20Parts/17HM08-1204S.stl) | 3 | :small_red_triangle: | --- |  |
-| [3](./Mechanical%20Parts/3.stl) | 01132E+11 | :small_red_triangle: | --- | --- |
+| [301132320130](./Mechanical%20Parts/301132320130.stl) | 2 | :small_red_triangle: | --- |  |
 | [6-PIN_CONNECTOR_F](./Mechanical%20Parts/6-PIN_CONNECTOR_F.stl) | 1 | :small_red_triangle: | --- |  |
 | [6-PIN_CONNECTOR_M](./Mechanical%20Parts/6-PIN_CONNECTOR_M.stl) | 1 | :small_red_triangle: | --- |  |
 | [6_PIN_MEGNEGTIC_POGO_PINS_1_2_3](./Mechanical%20Parts/6_PIN_MEGNEGTIC_POGO_PINS_1_2_3.stl) | 1 | :small_red_triangle: | --- |  |
