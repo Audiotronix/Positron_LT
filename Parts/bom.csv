@@ -25,7 +25,7 @@ printed,,XY-SPACER_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,Z-BLOCK_HOLDER_V01,1,---,---,---,---,[t: --- |w: --- ]
 ,,,,,,,,
-category_info,electronics,,,---,---,---,---,test https://www.makerbeam.com/makerbeam-1500mm-1p-black-makerbeam.html
+category_info,electronics,,,---,---,---,---,
 mechanical,electronics,EPP-200,1,---,---,---,---,epp-200-24
 mechanical,electronics,FAN_2510,2,---,---,---,---,
 mechanical,electronics,RPI_ZERO_2W,1,---,22.50€,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,---,
