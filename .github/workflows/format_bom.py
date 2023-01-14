@@ -37,15 +37,25 @@ writer.writeheader()
 categories = {}
 for part in in_csv:
     if in_csv[part]['category'] not in categories and in_csv[part]['category'] != '':
+        if in_csv[part]['type'] == 'category_info': continue 
         categories[in_csv[part]['category']] = in_csv[part]['type']
-categories = collections.OrderedDict(
-    sorted(categories.items()))  # sort cats
+
+categories = collections.OrderedDict(sorted(categories.items()))  # sort cats
 
 parts = collections.OrderedDict(sorted(parts.items()))  # sort parts
 
 # printed parts with category
 for category in categories:
     if categories[category] == 'printed':
+
+        #category_info
+        cat_info = {}
+        for part in in_csv:
+            if in_csv[part]['type'] == 'category_info' and in_csv[part]['category'] == category:
+                cat_info = in_csv[part]
+                break
+        write_part_to_csv('', {'type':'category_info'}, {'category': category, 'note':cat_info.get('note','')}, writer)
+
         for part in parts:
             if parts[part]['type'] == 'printed' and part in in_csv and in_csv[part]['category'] == category:
                 write_part_to_csv(part, parts[part], in_csv.get(part, {}), writer)
@@ -59,10 +69,18 @@ for part in parts:
 
 # empty row
 writer.writerow({})
-
 # mechanical parts with category
 for category in categories:
     if categories[category] == 'mechanical':
+
+        #category_info
+        cat_info = {}
+        for part in in_csv:
+            if in_csv[part]['type'] == 'category_info' and in_csv[part]['category'] == category:
+                cat_info = in_csv[part]
+                break
+        write_part_to_csv('', {'type':'category_info'}, {'category': category, 'note':cat_info.get('note','')}, writer)
+
         for part in parts:
             if parts[part]['type'] == 'mechanical' and part in in_csv and in_csv[part]['category'] == category:
                 write_part_to_csv(part, parts[part], in_csv.get(part, {}), writer)

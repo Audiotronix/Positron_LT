@@ -51,7 +51,7 @@ for part in csv_data:
     part_data = csv_data[part]
 
     #skip empty row
-    if part_data['type'] == '': continue
+    if part_data['type'] in ['','category_info'] : continue
 
     for column in part_data.keys():
 

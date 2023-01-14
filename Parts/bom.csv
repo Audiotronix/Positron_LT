@@ -25,10 +25,12 @@ printed,,XY-SPACER_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,Z-BLOCK_HOLDER_V01,1,---,---,---,---,[t: --- |w: --- ]
 ,,,,,,,,
+category_info,electronics,,,---,---,---,---,
 mechanical,electronics,EPP-200,1,---,---,---,---,epp-200-24
 mechanical,electronics,FAN_2510,2,---,---,---,---,
 mechanical,electronics,RPI_ZERO_2W,1,---,22.50€,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,---,
 mechanical,electronics,SKR-PICO,1,---,29.99€,https://amzn.eu/exkvn5W,---,
+category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X5X10,2,---,0.78€,https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf,---,
 mechanical,fasteners,DIN_7991_M3X12,4,---,3.53€,https://de.aliexpress.com/item/1005004510663195.html,---,
 mechanical,fasteners,DIN_7991_M3X14,38,---,4.02€,https://de.aliexpress.com/item/1005004510663195.html,---,
@@ -40,6 +42,7 @@ mechanical,fasteners,DIN_7991_M3X8,6,---,2.84€,https://de.aliexpress.com/item/
 mechanical,fasteners,WAFERHEAD_M3X10,19,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X14,2,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X20,3,---,---,---,---,
+category_info,makerbeam,,,---,---,---,---,
 mechanical,makerbeam,MAKERBEAM-CUBE,3,---,17.95€,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,
 mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,---,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,Included in previous cube order.
 mechanical,makerbeam,MAKERBEAM_L-BRACKET_100304,7,---,6.95€,https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637,---,
