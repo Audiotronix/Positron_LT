@@ -73,7 +73,7 @@
 | [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | 3 | :small_red_triangle: | --- | --- |  |
 
 ### MAKERBEAM:
-Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam which costs 3.50€ per cut, you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) , or you can cut them by yourself. Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png)
+Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) , or you can cut them by yourself. Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png)
 |                    Part Name                    |CAD Amount| Link | Price |PCS|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 | :small_red_triangle: | --- | --- | Included with T-slot nut |
