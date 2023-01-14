@@ -80,8 +80,6 @@ for part in csv_data:
     if part_data['category'] not in categories and part_data['category'] != '':
         categories[part_data['category']] = part_data['type']
 
-print(column_lengths)
-
 categories = collections.OrderedDict(
     sorted(categories.items()))  # sort cats
 

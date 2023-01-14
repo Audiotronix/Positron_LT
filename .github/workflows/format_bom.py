@@ -7,12 +7,12 @@ def write_part_to_csv(name, this_part, old_part, writer):
         'type': this_part['type'],
         'category': old_part.get('category', ''),
         'cad_name': name,
-        'amount': this_part['amount'],
+        'amount': this_part.get('amount',''),
         'single_price': old_part.get('single_price', '---'),
         'price': old_part.get('price', '---'),
         'link': old_part.get('link', '---'),
         'alt_link': old_part.get('alt_link', '---'),
-        'note': old_part.get('note', this_part['note'])})
+        'note': (str(this_part.get('note','')) if old_part.get('note','') == '' else str(old_part.get('note','')))})
 
 in_csv = {}
 try:
