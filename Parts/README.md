@@ -16,6 +16,7 @@
 | BASEPART_RIGHT_V01 | [STL](./Printed%20Parts/STL/BASEPART_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_RIGHT_V01.step) | 1 |  ---  |  ---  |
 | BASEPLATE_BACK_V01 | [STL](./Printed%20Parts/STL/BASEPLATE_BACK_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPLATE_BACK_V01.step) | 1 |  ---  |  ---  |
 | BEDHOLDER_CONNECTOR_V01 | [STL](./Printed%20Parts/STL/BEDHOLDER_CONNECTOR_V01.stl) | [STEP](./Printed%20Parts/STEP/BEDHOLDER_CONNECTOR_V01.step) | 1 |  ---  |  ---  |
+| BED_HOLDER_MAIN_V01 | [STL](./Printed%20Parts/STL/BED_HOLDER_MAIN_V01.stl) | [STEP](./Printed%20Parts/STEP/BED_HOLDER_MAIN_V01.step) | 1 |  ---  |  ---  |
 | BELT-TENSIONER_Z_V01 | [STL](./Printed%20Parts/STL/BELT-TENSIONER_Z_V01.stl) | [STEP](./Printed%20Parts/STEP/BELT-TENSIONER_Z_V01.step) | 1 |  ---  |  ---  |
 | COVER_ROUND_V01 | [STL](./Printed%20Parts/STL/COVER_ROUND_V01.stl) | [STEP](./Printed%20Parts/STEP/COVER_ROUND_V01.step) | 2 |  ---  |  ---  |
 | DISTANCE_RIGHT_V01 | [STL](./Printed%20Parts/STL/DISTANCE_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/DISTANCE_RIGHT_V01.step) | 1 |  ---  |  ---  |
@@ -43,7 +44,7 @@
 ## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
-|                    Part Name                    |CAD Amount| Link | Price |PCS|                                   Note                                   |
+|                           Part Name                           |CAD Amount| Link | Price |PCS|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [6-PIN_CONNECTOR_F](./Mechanical%20Parts/6-PIN_CONNECTOR_F.stl) | 1 | :small_red_triangle: | --- | --- |  |
@@ -56,14 +57,14 @@
 | [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | 1 | :small_red_triangle: | --- | --- |  |
 
 ### FASTENERS:
-|                    Part Name                    |CAD Amount| Link | Price |PCS|                                   Note                                   |
+|                           Part Name                           |CAD Amount| Link | Price |PCS|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | 2 | [link](https://de.aliexpress.com/item/1005003413546927.html?spm=a2g0o.productlist.main.7.3eb9132cAFOvsf) | 0.78€ | --- |  |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 3.53€ | --- |  |
-| [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | 36 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 4.02€ | --- |  |
+| [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | 40 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 4.02€ | --- |  |
 | [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | 5 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 4.56€ | --- |  |
-| [DIN_7991_M3X25](./Mechanical%20Parts/DIN_7991_M3X25.stl) | 3 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 6.01€ | --- |  |
-| [DIN_7991_M3X35](./Mechanical%20Parts/DIN_7991_M3X35.stl) | 8 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 7.96€ | --- |  |
+| [DIN_7991_M3X25](./Mechanical%20Parts/DIN_7991_M3X25.stl) | 5 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 6.01€ | --- |  |
+| [DIN_7991_M3X35](./Mechanical%20Parts/DIN_7991_M3X35.stl) | 10 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 7.96€ | --- |  |
 | [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | 6 | [link](https://de.aliexpress.com/item/1005004510663195.html) | 2.84€ | --- |  |
 | [DIN_912_M3X20](./Mechanical%20Parts/DIN_912_M3X20.stl) | 5 | :small_red_triangle: | --- | --- |  |
 | [DIN_912_M3X6](./Mechanical%20Parts/DIN_912_M3X6.stl) | 10 | :small_red_triangle: | --- | --- |  |
@@ -74,7 +75,7 @@
 
 ### MAKERBEAM:
 Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) , or you can cut them by yourself. Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png)
-|                    Part Name                    |CAD Amount| Link | Price |PCS|                                   Note                                   |
+|                           Part Name                           |CAD Amount| Link | Price |PCS|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 | :small_red_triangle: | --- | --- | Included with T-slot nut |
 | [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 | [link]() | --- | --- | Included with T-slot nut |
@@ -89,7 +90,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | 32 | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) | 14.98€ | --- |  |
 
 ### MOTION:
-|                    Part Name                    |CAD Amount| Link | Price |PCS|                                   Note                                   |
+|                           Part Name                           |CAD Amount| Link | Price |PCS|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [CARRIAGE_MGN12-C](./Mechanical%20Parts/CARRIAGE_MGN12-C.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [CARRIAGE_MGW9-C](./Mechanical%20Parts/CARRIAGE_MGW9-C.stl) | 1 | :small_red_triangle: | --- | --- |  |
@@ -102,11 +103,12 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
 
-|                    Part Name                    |CAD Amount| Link | Price |PCS|                                   Note                                   |
+|                           Part Name                           |CAD Amount| Link | Price |PCS|                                   Note                                   |
 | --- | --- | --- | --- | --- | --- |
 | [6_PIN_MAGNETIC_POGO](./Mechanical%20Parts/6_PIN_MAGNETIC_POGO.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [DIN_125_M4](./Mechanical%20Parts/DIN_125_M4.stl) | 7 | :small_red_triangle: | --- | --- |  |
+| [DIN_9012_M4](./Mechanical%20Parts/DIN_9012_M4.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [DIN_934_M3](./Mechanical%20Parts/DIN_934_M3.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | :small_red_triangle: | --- | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 | :small_red_triangle: | --- | --- |  |
@@ -115,11 +117,12 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | :small_red_triangle: | --- | --- |  |
 | [HEAT_SINK_1](./Mechanical%20Parts/HEAT_SINK_1.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [LEADSCREW_NUT_T5X4](./Mechanical%20Parts/LEADSCREW_NUT_T5X4.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [LGX-LITE-SIMPLIFIED-V6](./Mechanical%20Parts/LGX-LITE-SIMPLIFIED-V6.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [M6X16_PLASTIC_THUMBSCREW](./Mechanical%20Parts/M6X16_PLASTIC_THUMBSCREW.stl) | 2 | :small_red_triangle: | --- | --- |  |
+| [MAKERBEAM_L165](./Mechanical%20Parts/MAKERBEAM_L165.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | :small_red_triangle: | --- | --- |  |
+| [SPACER_PRINTBED_NEED-TO-CHANGEDR](./Mechanical%20Parts/SPACER_PRINTBED_NEED-TO-CHANGEDR.stl) | 2 | :small_red_triangle: | --- | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
