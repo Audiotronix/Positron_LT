@@ -54,7 +54,7 @@ mechanical,fasteners,M3_X20_FLATHEAD,1,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X10,19,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X14,2,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X20,3,---,---,---,---,
-category_info,makerbeam,,,---,---,---,---,
+category_info,makerbeam,,,---,---,---,---,Since Makerbeam does not sell beams with the needed length they can either be cut by makerbeam which costs 3.50€ https://www.makerbeam.com/cut-and-tap-for-10x10mm.html or by yourself. Either way you need to buy beams that can be cut in the desired lenghts for which we created a cutting plan that can be found here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,makerbeam,DIN_7991_M3X4,3,---,,,---,
 mechanical,makerbeam,MAKERBEAM-CUBE,3,---,17.95€,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,
 mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,---,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,Included in previous cube order.
