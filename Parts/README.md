@@ -43,7 +43,6 @@
 ## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
-test [link](https://www.makerbeam.com/makerbeam-1500mm-1p-black-makerbeam.html)
 |                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | [EPP-200](./Mechanical%20Parts/EPP-200.stl) | 1 | :small_red_triangle: | --- | epp-200-24 |
