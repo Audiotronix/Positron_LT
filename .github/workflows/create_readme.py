@@ -106,7 +106,7 @@ for category in categories:
         category_info_note = ''
         for part in csv_data:
             if csv_data[part]['type'] == 'category_info' and csv_data[part]['category'] == category:
-                category_info_note = short_urls(str(csv_data[part]['note']))
+                category_info_note = short_urls(str(csv_data[part]['note'])).replace(';',',')
                 if category_info_note != '': category_info_note +='\n'
                 break
 
@@ -116,7 +116,7 @@ for category in categories:
         category_info_note = ''
         for part in csv_data:
             if csv_data[part]['type'] == 'category_info' and csv_data[part]['category'] == category:
-                category_info_note = short_urls(str(csv_data[part]['note']))
+                category_info_note = short_urls(str(csv_data[part]['note'])).replace(';',',')
                 if category_info_note != '': category_info_note +='\n'
                 break
 
