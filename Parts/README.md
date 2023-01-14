@@ -78,6 +78,7 @@
 | [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | 3 | :small_red_triangle: | --- |  |
 
 ### MAKERBEAM:
+Since Makerbeam does not sell beams with the needed length they can either be cut by makerbeam which costs 3.50€ [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) or by yourself. Either way you need to buy beams that can be cut in the desired lenghts for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png)
 |                          Part Name                          |CAD Amount| Link | Price |                                   Note                                   |
 | --- | --- | --- | --- | --- |
 | [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 | [link]() |  |  |
