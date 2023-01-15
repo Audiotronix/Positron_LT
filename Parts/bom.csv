@@ -34,7 +34,7 @@ mechanical,electronics,FAN_2510,2,"10,69€",2,https://de.aliexpress.com/item/32
 mechanical,electronics,HEAT_SINK_RPI_2MM,1,"5,72€",1,https://de.aliexpress.com/item/1005004772727034.html,,2mm height
 mechanical,electronics,LED_4X_15X15,1,"0,45€",1,https://de.aliexpress.com/item/1005002674028098.html,---,
 mechanical,electronics,MOTOR_17HM08-1204S,3,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,---,
-mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
+mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,"https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ",You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,---,
 category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X5X10,2,"0,78€",50,https://de.aliexpress.com/item/1005003413546927.html,---,
@@ -66,9 +66,9 @@ mechanical,makerbeam,MAKERBEAM_L250,3,->,---,https://www.makerbeam.com/makerbeam
 mechanical,makerbeam,MAKERBEAM_L30,1,->,---,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf
 mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,32,"14,98€",25,https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html,---,You need 2 sets
 category_info,motion,,,---,---,---,---,
-mechanical,motion,CARRIAGE_MGN12-C,1,---,---,---,---,Mostly includet with the rails
-mechanical,motion,CARRIAGE_MGN9-C,1,---,---,---,---,Mostly includet with the rails
-mechanical,motion,CARRIAGE_MGW9-C,1,---,---,---,---,Mostly includet with the rails
+mechanical,motion,CARRIAGE_MGN12-C,1,---,1,---,---,Mostly includet with the rails
+mechanical,motion,CARRIAGE_MGN9-C,1,---,1,---,---,Mostly includet with the rails
+mechanical,motion,CARRIAGE_MGW9-C,1,---,1,---,---,Mostly includet with the rails
 mechanical,motion,DIN_988_7X13X02,40,"3,79€",50,https://de.aliexpress.com/item/1005003108530857.html,---,
 mechanical,motion,F5-10_BEARING,2,"0,27€",1,https://de.aliexpress.com/item/4000211452548.html,---,
 mechanical,motion,F683_OPEN_BEARING-H25-,28,"30,76€",100,https://de.aliexpress.com/item/33044580486.html,---,"F683 3x7x2,5mm open"
@@ -80,7 +80,7 @@ mechanical,motion,LEADSCREW_T5X4_L225,1,"10,26€",1,https://de.aliexpress.com/i
 mechanical,motion,MF85_BEARING,2,"0,72€",1,https://de.aliexpress.com/item/1005004881583203.html,---,
 mechanical,motion,MR115_BEARING,1,"0,94€",10,https://de.aliexpress.com/item/32995122493.html,---,
 mechanical,motion,MR117_2Z_BEARING,10,"2,85€",5,https://de.aliexpress.com/item/4000891798197.html,---,
-mechanical,motion,PULLEY_T20_LOWPROFILE,4,---,---,https://de.aliexpress.com/item/32913757229.html,---,20T Bore 5mm
+mechanical,motion,PULLEY_T20_LOWPROFILE,4,"0,99€",1,https://de.aliexpress.com/item/32913757229.html,---,20T Bore 5mm
 mechanical,motion,RAIL_MGN12_L225,1,"18,99€",1,https://amzn.eu/2NGfXpa,---,250mm MGN12C
 mechanical,motion,RAIL_MGN9_L227,1,"20,99€",1,https://amzn.eu/760DXVj,---,250mm MGN9C
 mechanical,motion,RAIL_MGW9_L227,1,---,1,https://www.ebay.de/itm/234306987115?var=533899872753,https://amzn.eu/d/6ZlV0k4,250mm MGW9C
