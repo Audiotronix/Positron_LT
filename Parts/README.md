@@ -60,7 +60,7 @@
 ### FASTENERS:
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
-| [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | 2 | [link](https://de.aliexpress.com/item/1005003413546927.html) | 10 | 1,12€ | Select M3, 10mm x10pcs |
+| [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | 2 | [link](https://de.aliexpress.com/i/1005003200850626.html) | 5 | 4,31€ | Select M3 OD 4mm, 12mm (5pcs) |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,06€ |  |
 | [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | 40 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,28€ |  |
 | [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | 5 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,99€ |  |
@@ -106,7 +106,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 |  | --- | --- |  |
 | [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004100120790.html) | 1 | 1,07€ |  |
 | [LEADSCREW_NUT_T5X4](./Mechanical%20Parts/LEADSCREW_NUT_T5X4.stl) | 1 | [link](https://www.ebay.de/itm/165688561910?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201636033&widget_ver=artemis&media=COPY) | 1 | 1,49€ | Only needs to be bought if no screw is included with rod! Select T5x1x4 Brass/POM |
-| [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | [link](https://de.aliexpress.com/item/1005004583759873.html) / [link](https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY) | 1 | 10,15€ | Select 250mm, Pitch 1mm Lead 4mm | Second link has no screw! |
+| [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | [link](https://de.aliexpress.com/item/1005004583759873.html) / [link](https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY) | 1 | 10,15€ | Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw! |
 | [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/1005004881583203.html) | 1 | 0,72€ |  |
 | [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | [link](https://de.aliexpress.com/item/32995122493.html) | 10 | 0,94€ |  |
 | [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | [link](https://de.aliexpress.com/item/4000891798197.html) | 5 | 2,85€ |  |
