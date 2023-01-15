@@ -9,9 +9,9 @@ def write_part_to_csv(name, this_part, old_part, writer):
         'cad_name': name,
         'amount': this_part.get('amount',''),
         'price': old_part.get('price', '---'),
+        'pcs': old_part.get('pcs', '---'),
         'link': old_part.get('link', '---'),
         'alt_link': old_part.get('alt_link', '---'),
-        'pcs': old_part.get('pcs', '---'),
         'note': (str(this_part.get('note','')) if old_part.get('note','') == '' else str(old_part.get('note','')))})
 
 in_csv = {}
@@ -33,7 +33,7 @@ parts = in_csv
 
 # create csv
 csvfile = open('./Parts/bom.csv', 'w', newline='')
-fieldnames = ['type', 'category', 'cad_name', 'amount', 'price', 'link', 'alt_link', 'pcs', 'note']
+fieldnames = ['type', 'category', 'cad_name', 'amount', 'price', 'pcs', 'link', 'alt_link', 'note']
 writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=',')
 
 writer.writeheader()
