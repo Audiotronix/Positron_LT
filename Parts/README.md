@@ -111,9 +111,9 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | [link](https://de.aliexpress.com/item/32995122493.html) | 10 | 0,94€ |  |
 | [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | [link](https://de.aliexpress.com/item/4000891798197.html) | 5 | 2,85€ |  |
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://de.aliexpress.com/item/32913757229.html) | --- | --- | 20T Bore 5mm |
-| [RAIL_MGN12_L225](./Mechanical%20Parts/RAIL_MGN12_L225.stl) | 1 |  | --- | --- |  |
-| [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 |  | --- | --- |  |
-| [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 |  | --- | --- |  |
+| [RAIL_MGN12_L225](./Mechanical%20Parts/RAIL_MGN12_L225.stl) | 1 | [link](https://amzn.eu/2NGfXpa) | 1 | 18,99€ | 250mm MGN12C |
+| [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 | [link](https://amzn.eu/760DXVj) | 1 | 20,99€ | 250mm MGN9C |
+| [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | [link](https://www.ebay.de/itm/234306987115?var=533899872753) / [link](https://amzn.eu/d/6ZlV0k4) | 1 | --- | 250mm MGW9C |
 
 |                    Part Name                    |CAD Amount|      Link     |PCS | Price |                                                                  Note                                                                  |
 | --- | --- | --- | --- | --- | --- |
