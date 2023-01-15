@@ -28,13 +28,13 @@ category_info,electronics,,,---,---,---,---,
 mechanical,electronics,10PIN_EXP_MALE_1,1,"1,12€",1,https://de.aliexpress.com/item/33029492417.html,---,Select 2x5 10P
 mechanical,electronics,6_PIN_MAGNETIC_POGO,1,"2,48€",1,https://de.aliexpress.com/item/1005004194118658.html,---,
 mechanical,electronics,C7_PLUG-IN,1,"0,23€",1,https://de.aliexpress.com/item/4001252791878.html,---,
-mechanical,electronics,CABLE_C7_SWITCH,1,"9,99€",---,https://amzn.eu/60yHlQZ,---,
+mechanical,electronics,CABLE_C7_SWITCH,1,"9,99€",1,https://amzn.eu/60yHlQZ,---,
 mechanical,electronics,EPP-200-24,1,"52,30€",1,https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D,---,Meanwell EPP-220-24
 mechanical,electronics,FAN_2510,2,"10,69€",2,https://de.aliexpress.com/item/32807610078.html,---,"24V Dual Ball XH2,54"
-mechanical,electronics,HEAT_SINK_RPI_2MM,1,---,---,https://de.aliexpress.com/item/1005004772727034.html,,2mm height
+mechanical,electronics,HEAT_SINK_RPI_2MM,1,"5,72€",1,https://de.aliexpress.com/item/1005004772727034.html,,2mm height
 mechanical,electronics,LED_4X_15X15,1,"0,45€",1,https://de.aliexpress.com/item/1005002674028098.html,---,
 mechanical,electronics,MOTOR_17HM08-1204S,3,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,---,
-mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ,You can also use an Bananapi Pi M2 Zero as substituion. Special thanks to HarryLoud! https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
+mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,"https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ",You can also use an Bananapi Pi M2 Zero as substituion. Special thanks to HarryLoud! https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,---,
 category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X5X10,2,"0,78€",50,https://de.aliexpress.com/item/1005003413546927.html,---,
@@ -70,16 +70,16 @@ mechanical,motion,CARRIAGE_MGN12-C,1,---,---,---,---,Mostly includet with the ra
 mechanical,motion,CARRIAGE_MGN9-C,1,---,---,---,---,Mostly includet with the rails
 mechanical,motion,CARRIAGE_MGW9-C,1,---,---,---,---,Mostly includet with the rails
 mechanical,motion,DIN_988_7X13X02,40,"3,79€",50,https://de.aliexpress.com/item/1005003108530857.html,---,
-mechanical,motion,F5-10_BEARING,2,---,---,---,---,
+mechanical,motion,F5-10_BEARING,2,"0,27€",1,https://de.aliexpress.com/item/4000211452548.html,---,
 mechanical,motion,F683_OPEN_BEARING-H25-,28,"30,76€",100,https://de.aliexpress.com/item/33044580486.html,---,"F683 3x7x2,5mm open"
-mechanical,motion,GT2_16T_IDLER_SMOOTH,1,---,---,---,---,
+mechanical,motion,GT2_16T_IDLER_SMOOTH,1,"0,55€",1,https://de.aliexpress.com/item/32971394035.html,---,
 mechanical,motion,GT2_BELT-3MM_L2000MM,1,---,---,---,---,
-mechanical,motion,GT2_BELT-6MM_L178MM,1,"1,07€",1,https://de.aliexpress.com/item/1005004100120790.htm,---,
-mechanical,motion,LEADSCREW_NUT_T5X4,1,---,---,---,---,
-mechanical,motion,LEADSCREW_T5X4_L225,1,---,---,---,---,
-mechanical,motion,MF85_BEARING,2,"5,22€",5,---,---,
-mechanical,motion,MR115_BEARING,1,---,---,---,---,
-mechanical,motion,MR117_2Z_BEARING,10,---,---,---,---,
+mechanical,motion,GT2_BELT-6MM_L178MM,1,"1,07€",1,https://de.aliexpress.com/item/1005004100120790.html,---,
+mechanical,motion,LEADSCREW_NUT_T5X4,1,---,1,---,---,Included with leadscrew
+mechanical,motion,LEADSCREW_T5X4_L225,1,"10,26€",1,https://de.aliexpress.com/item/1005002276418414.html,---,
+mechanical,motion,MF85_BEARING,2,"0,72€",1,https://de.aliexpress.com/item/1005004881583203.html,---,
+mechanical,motion,MR115_BEARING,1,"0,94€",10,https://de.aliexpress.com/item/32995122493.html,---,
+mechanical,motion,MR117_2Z_BEARING,10,"2,85€",5,https://de.aliexpress.com/item/4000891798197.html,---,
 mechanical,motion,PULLEY_T20_LOWPROFILE,4,---,---,https://de.aliexpress.com/item/32913757229.html,---,20T Bore 5mm
 mechanical,motion,RAIL_MGN12_L225,1,---,---,---,---,
 mechanical,motion,RAIL_MGN9_L227,1,---,---,---,---,
