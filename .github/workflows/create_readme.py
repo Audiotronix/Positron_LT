@@ -26,10 +26,10 @@ def write_mechanical(part_data) -> str:
     note = short_urls(str(part_data['note']))
 
     part_name = '['+str(part_data['cad_name'])+'](./Mechanical%20Parts/'+str(part_data['cad_name'])+'.stl)'
-    link = ('[link]('+str(part_data['link'])+')') if str(part_data['link']) != '---' else ':small_red_triangle:'
+    link = ('[link]('+str(part_data['link'])+')') if str(part_data['link']) not in ['','---'] else ':small_red_triangle:'
 
     #add alt link to link
-    if part_data['alt_link'] != '---':
+    if part_data['alt_link'] not in ['','---']:
         link += ' / [link]('+str(part_data['alt_link'])+')'
 
     return '| '+part_name+' | '+str(part_data['amount'])+' | '+link+' | '+str(part_data['pcs'])+' | '+str(part_data['price'])+' | '+str(note)+' |\n'
