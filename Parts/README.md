@@ -71,7 +71,7 @@
 | [DIN_912_M3X20](./Mechanical%20Parts/DIN_912_M3X20.stl) | 5 | [link](https://de.aliexpress.com/item/1005003106092326.html) | 10 | 1,48€ |  |
 | [DIN_912_M3X6](./Mechanical%20Parts/DIN_912_M3X6.stl) | 10 | [link](https://de.aliexpress.com/item/1005003106092326.html) | 10 | 0,78€ |  |
 | [DIN_934_M3](./Mechanical%20Parts/DIN_934_M3.stl) | 2 | [link](https://de.aliexpress.com/item/1005003106199633.html) | 50 | 1,36€ |  |
-| [M3_INSERT](./Mechanical%20Parts/M3_INSERT.stl) | 18 | [link](https://de.aliexpress.com/item/1005004644613232.html) / [link](https://amzn.eu/4a0yax7) | 100 | 2,64€ |  |
+| [M3_INSERT](./Mechanical%20Parts/M3_INSERT.stl) | 18 | [link](https://de.aliexpress.com/item/1005004879644825.html) / [link](https://amzn.eu/4a0yax7) | 50 | 0,35€ | Select M3(OD4.5mm), Length 5mm 50pcs |
 | [M6X16_PLASTIC_THUMBSCREW](./Mechanical%20Parts/M6X16_PLASTIC_THUMBSCREW.stl) | 2 | [link](https://de.aliexpress.com/item/1005004651298319.html) | 2 | 1,90€ | Select M6, 16mm |
 | [WAFERHEAD_M3X10](./Mechanical%20Parts/WAFERHEAD_M3X10.stl) | 19 | [link](https://de.aliexpress.com/item/1005004510664424.html) | 20 | 1,97€ |  |
 | [WAFERHEAD_M3X14](./Mechanical%20Parts/WAFERHEAD_M3X14.stl) | 4 | [link](https://de.aliexpress.com/item/1005004510664424.html) | 20 | 2,10€ |  |
