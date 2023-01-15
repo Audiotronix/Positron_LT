@@ -51,6 +51,7 @@
 | [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | [link](https://amzn.eu/60yHlQZ) | 1 | 9,99€ |  |
 | [EPP-200-24](./Mechanical%20Parts/EPP-200-24.stl) | 1 | [link](https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D) | 1 | 52,30€ | Meanwell EPP-220-24 |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | 2 | [link](https://de.aliexpress.com/item/32807610078.html) | 2 | 10,69€ | 24V Dual Ball XH2,54 |
+| [HEATED_GLASSBED_MUON-3D](./Mechanical%20Parts/HEATED_GLASSBED_MUON-3D.stl) | 1 | [link](https://muon3d.com/products/positron-v3-transparent-heated-bed) | 1 | 45,95€ | Highly recomended |
 | [HEAT_SINK_RPI_2MM](./Mechanical%20Parts/HEAT_SINK_RPI_2MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004772727034.html) | 1 | 5,72€ | 2mm height |
 | [LED_4X_15X15](./Mechanical%20Parts/LED_4X_15X15.stl) | 1 | [link](https://de.aliexpress.com/item/1005002674028098.html) | 1 | 0,45€ |  |
 | [MOTOR_17HM08-1204S](./Mechanical%20Parts/MOTOR_17HM08-1204S.stl) | 3 | [link](https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s) | 1 | 8,28€ |  |
@@ -103,7 +104,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/4000211452548.html) | 1 | 0,27€ |  |
 | [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://de.aliexpress.com/item/4000760591738.html) / [link](https://de.aliexpress.com/item/33044580486.html) | 5 | 2,94€ | F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | [link](https://de.aliexpress.com/item/32971394035.html) | 1 | 0,55€ |  |
-| [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 |  | --- | --- |  |
+| [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 | [link](https://www.ebay.de/itm/283457733982?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=s1yXsbT2Tsa&sssrc=2047675&ssuid=92txqbporsy&var=585183190919&widget_ver=artemis&media=COPY) / [link](https://www.ebay.de/itm/283737019090?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=s1yXsbT2Tsa&sssrc=2047675&ssuid=92txqbporsy&var=585146884973&widget_ver=artemis&media=COPY) | 1 | 2,41€ |  |
 | [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004100120790.html) | 1 | 1,07€ |  |
 | [LEADSCREW_NUT_T5X4](./Mechanical%20Parts/LEADSCREW_NUT_T5X4.stl) | 1 | [link](https://www.ebay.de/itm/165688561910?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201636033&widget_ver=artemis&media=COPY) | 1 | 1,49€ | Only needs to be bought if no screw is included with rod! Select T5x1x4 Brass/POM |
 | [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | [link](https://de.aliexpress.com/item/1005004583759873.html) / [link](https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY) | 1 | 10,15€ | Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw! |
@@ -120,7 +121,6 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [DIN_125_M4](./Mechanical%20Parts/DIN_125_M4.stl) | 7 |  | --- | --- |  |
 | [DIN_9012_M4](./Mechanical%20Parts/DIN_9012_M4.stl) | 2 |  | --- | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 |  | --- | --- |  |
-| [HEATED_GLASSBED_MUON-3D](./Mechanical%20Parts/HEATED_GLASSBED_MUON-3D.stl) | 1 | [link](https://muon3d.com/products/positron-v3-transparent-heated-bed) | --- | --- | Highly recomended |
 | [SPACER_PRINTBED_WIP](./Mechanical%20Parts/SPACER_PRINTBED_WIP.stl) | 2 |  | --- | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
