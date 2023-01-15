@@ -21,15 +21,12 @@ printed,,PICO_MOUNT_PRE-SKETCH_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,SCREWMOUNT_BOTTOM_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,SIDE_PANEL_LEFT_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,SIDE_PANEL_RIGHT_V01,1,---,---,---,---,[t: --- |w: --- ]
-printed,,SNAP_ADAPTER_V01,2,---,---,---,---,[t: --- |w: --- ]
 printed,,XY-SPACER_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,Z-BLOCK_HOLDER_V01,1,---,---,---,---,[t: --- |w: --- ]
 ,,,,,,,,
 category_info,electronics,,,---,---,---,---,
 mechanical,electronics,10PIN_EXP_MALE_1,1,---,---,---,---,
-mechanical,electronics,6-PIN_CONNECTOR_F,1,---,---,---,---,
-mechanical,electronics,6-PIN_CONNECTOR_M,1,---,---,---,---,
 mechanical,electronics,6_PIN_MAGNETIC_POGO,1,---,---,---,---,
 mechanical,electronics,C7_PLUG-IN,1,---,---,---,---,
 mechanical,electronics,CABLE_C7_SWITCH,1,---,---,---,---,
@@ -79,15 +76,17 @@ mechanical,motion,GT2_BELT-6MM_L178MM,1,---,---,---,---,
 mechanical,motion,LEADSCREW_NUT_T5X4,1,---,---,---,---,
 mechanical,motion,LEADSCREW_T5X4_L225,1,---,---,---,---,
 mechanical,motion,MF85_BEARING,2,---,---,---,---,
-mechanical,motion,MGN12_L225,1,---,---,---,---,
 mechanical,motion,MR115_BEARING,1,---,---,---,---,
 mechanical,motion,MR117_2Z_BEARING,10,---,---,---,---,
 mechanical,motion,PULLEY_T20_LOWPROFILE,4,---,---,---,---,
 mechanical,motion,RAIL_MGN9_L227,1,---,---,---,---,
 mechanical,motion,RAIL_MGW9_L227,1,---,---,---,---,
+mechanical,,CARRIAGE_MGN9-C,1,---,---,---,---,
 mechanical,,DIN_125_M4,7,---,---,---,---,
 mechanical,,DIN_9012_M4,2,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
 mechanical,,F5-10_BEARING,2,---,---,---,---,
-mechanical,,HEAT_SINK_1,1,---,---,---,---,
-mechanical,,SPACER_PRINTBED_NEED-TO-CHANGEDR,2,---,---,---,---,
+mechanical,,HEATED_GLASSBED_MUON-3D,1,---,---,---,---,
+mechanical,,HEAT_SINK_RPI_2MM,1,---,---,---,---,
+mechanical,,RAIL_MGN12_L225,1,---,---,---,---,
+mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
