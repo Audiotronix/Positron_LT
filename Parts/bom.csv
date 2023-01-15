@@ -24,7 +24,6 @@ printed,,SIDE_PANEL_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,XY-SPACER_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,Z-BLOCK_HOLDER_V01,1,---,1,---,---,[t: --- |w: --- ]
-,,,,,,,,
 category_info,electronics,,,---,---,---,---,None
 mechanical,electronics,10PIN_EXP_MALE_1,1,---,---,---,---,None
 mechanical,electronics,6_PIN_MAGNETIC_POGO,1,---,---,---,---,None
