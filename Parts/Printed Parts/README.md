@@ -13,6 +13,6 @@
 
 ## Slicing:
 
-| Layer height | Infill | Supports |
-| --- | --- | --- |
-| 0.2mm | 20% | On build plate only |
+| Layer height | Infill | Supports | Perimeters | Horizontal shells | 
+| --- | --- | --- | --- | --- |
+| 0.2mm | 40% | On build plate only | 5 (min) | Top: 9, Bot: 8 |
