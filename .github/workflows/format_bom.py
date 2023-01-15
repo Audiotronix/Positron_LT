@@ -72,7 +72,7 @@ for part in parts:
 
 
 # empty row
-writer.writerow({})
+#writer.writerow({})
 # mechanical parts with category
 for category in categories:
     if categories[category] == 'mechanical':
