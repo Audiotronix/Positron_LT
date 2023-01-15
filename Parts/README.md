@@ -110,11 +110,11 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | [link](https://de.aliexpress.com/item/1005004583759873.html) / [link](https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY) | 1 | 10,15€ | Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw! |
 | [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/1005004881583203.html) | 1 | 0,72€ |  |
 | [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | [link](https://de.aliexpress.com/item/32995122493.html) | 10 | 0,94€ |  |
-| [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | [link](https://de.aliexpress.com/item/4000891798197.html) | 5 | 2,85€ |  |
+| [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | [link](https://de.aliexpress.com/item/4000891798197.html) | 5 | 2,71€ |  |
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://de.aliexpress.com/item/32913757229.html) | 1 | 0,99€ | 20T Bore 5mm |
 | [RAIL_MGN12_L225](./Mechanical%20Parts/RAIL_MGN12_L225.stl) | 1 | [link](https://amzn.eu/2NGfXpa) | 1 | 18,99€ | 250mm MGN12C |
 | [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 | [link](https://amzn.eu/760DXVj) | 1 | 20,99€ | 250mm MGN9C |
-| [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | [link](https://www.ebay.de/itm/234306987115?var=533899872753) / [link](https://amzn.eu/d/6ZlV0k4) | 1 | --- | 250mm MGW9C |
+| [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | [link](https://www.ebay.de/itm/234306987115?var=533899872753) / [link](https://amzn.eu/d/6ZlV0k4) | 1 | 19,40€ | 250mm MGW9C |
 
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
