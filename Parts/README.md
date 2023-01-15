@@ -48,10 +48,10 @@
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | 1 | [link](https://de.aliexpress.com/item/33029492417.html) | 1 | 1,12€ | Select 2x5 10P |
 | [6_PIN_MAGNETIC_POGO](./Mechanical%20Parts/6_PIN_MAGNETIC_POGO.stl) | 1 | [link](https://de.aliexpress.com/item/1005004194118658.html) | 1 | 2,48€ |  |
 | [C7_PLUG-IN](./Mechanical%20Parts/C7_PLUG-IN.stl) | 1 | [link](https://de.aliexpress.com/item/4001252791878.html) | 1 | 0,23€ |  |
-| [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | [link](https://amzn.eu/60yHlQZ) | --- | 9,99€ |  |
+| [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | [link](https://amzn.eu/60yHlQZ) | 1 | 9,99€ |  |
 | [EPP-200-24](./Mechanical%20Parts/EPP-200-24.stl) | 1 | [link](https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D) | 1 | 52,30€ | Meanwell EPP-220-24 |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | 2 | [link](https://de.aliexpress.com/item/32807610078.html) | 2 | 10,69€ | 24V Dual Ball XH2,54 |
-| [HEAT_SINK_RPI_2MM](./Mechanical%20Parts/HEAT_SINK_RPI_2MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004772727034.html) | --- | --- | 2mm height |
+| [HEAT_SINK_RPI_2MM](./Mechanical%20Parts/HEAT_SINK_RPI_2MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004772727034.html) | 1 | 5,72€ | 2mm height |
 | [LED_4X_15X15](./Mechanical%20Parts/LED_4X_15X15.stl) | 1 | [link](https://de.aliexpress.com/item/1005002674028098.html) | 1 | 0,45€ |  |
 | [MOTOR_17HM08-1204S](./Mechanical%20Parts/MOTOR_17HM08-1204S.stl) | 3 | [link](https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s) | 1 | 8,28€ |  |
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) / [link](https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ) | 1 | 22,50€ | You can also use an Bananapi Pi M2 Zero as substituion. Special thanks to HarryLoud! [link](https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd) |
@@ -80,10 +80,10 @@
 Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) . Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png)
 |                    Part Name                    |CAD Amount|      Link     |PCS | Price |                                                                  Note                                                                  |
 | --- | --- | --- | --- | --- | --- |
-| [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 | :small_red_triangle: | 25 | --- | Included with T-slot nut |
-| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 | :small_red_triangle: | 25 | --- | Included with T-slot nut |
+| [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 |  | 25 | --- | Included with T-slot nut |
+| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 |  | 25 | --- | Included with T-slot nut |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 12 | 17,95€ |  |
-| [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | 1 | :small_red_triangle: | 0 | --- | Included in previous cube order. |
+| [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | 1 |  | 0 | --- | Included in previous cube order. |
 | [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | 7 | [link](https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637) | 12 | 6,95€ |  |
 | [MAKERBEAM_L165](./Mechanical%20Parts/MAKERBEAM_L165.stl) | 2 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | --- | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf) |
 | [MAKERBEAM_L200](./Mechanical%20Parts/MAKERBEAM_L200.stl) | 2 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | --- | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf) |
@@ -96,32 +96,32 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 ### MOTION:
 |                    Part Name                    |CAD Amount|      Link     |PCS | Price |                                                                  Note                                                                  |
 | --- | --- | --- | --- | --- | --- |
-| [CARRIAGE_MGN12-C](./Mechanical%20Parts/CARRIAGE_MGN12-C.stl) | 1 | :small_red_triangle: | --- | --- | Mostly includet with the rails |
-| [CARRIAGE_MGN9-C](./Mechanical%20Parts/CARRIAGE_MGN9-C.stl) | 1 | :small_red_triangle: | --- | --- | Mostly includet with the rails |
-| [CARRIAGE_MGW9-C](./Mechanical%20Parts/CARRIAGE_MGW9-C.stl) | 1 | :small_red_triangle: | --- | --- | Mostly includet with the rails |
+| [CARRIAGE_MGN12-C](./Mechanical%20Parts/CARRIAGE_MGN12-C.stl) | 1 |  | --- | --- | Mostly includet with the rails |
+| [CARRIAGE_MGN9-C](./Mechanical%20Parts/CARRIAGE_MGN9-C.stl) | 1 |  | --- | --- | Mostly includet with the rails |
+| [CARRIAGE_MGW9-C](./Mechanical%20Parts/CARRIAGE_MGW9-C.stl) | 1 |  | --- | --- | Mostly includet with the rails |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://de.aliexpress.com/item/1005003108530857.html) | 50 | 3,79€ |  |
-| [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | :small_red_triangle: | --- | --- |  |
+| [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/4000211452548.html) | 1 | 0,27€ |  |
 | [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://de.aliexpress.com/item/33044580486.html) | 100 | 30,76€ | F683 3x7x2,5mm open |
-| [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004100120790.htm) | 1 | 1,07€ |  |
-| [LEADSCREW_NUT_T5X4](./Mechanical%20Parts/LEADSCREW_NUT_T5X4.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | :small_red_triangle: | 5 | 5,22€ |  |
-| [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | :small_red_triangle: | --- | --- |  |
+| [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | [link](https://de.aliexpress.com/item/32971394035.html) | 1 | 0,55€ |  |
+| [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 |  | --- | --- |  |
+| [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004100120790.html) | 1 | 1,07€ |  |
+| [LEADSCREW_NUT_T5X4](./Mechanical%20Parts/LEADSCREW_NUT_T5X4.stl) | 1 |  | 1 | --- | Included with leadscrew |
+| [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | [link](https://de.aliexpress.com/item/1005002276418414.html) | 1 | 10,26€ |  |
+| [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/1005004881583203.html) | 1 | 0,72€ |  |
+| [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | [link](https://de.aliexpress.com/item/32995122493.html) | 10 | 0,94€ |  |
+| [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | [link](https://de.aliexpress.com/item/4000891798197.html) | 5 | 2,85€ |  |
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://de.aliexpress.com/item/32913757229.html) | --- | --- | 20T Bore 5mm |
-| [RAIL_MGN12_L225](./Mechanical%20Parts/RAIL_MGN12_L225.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
+| [RAIL_MGN12_L225](./Mechanical%20Parts/RAIL_MGN12_L225.stl) | 1 |  | --- | --- |  |
+| [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 |  | --- | --- |  |
+| [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 |  | --- | --- |  |
 
 |                    Part Name                    |CAD Amount|      Link     |PCS | Price |                                                                  Note                                                                  |
 | --- | --- | --- | --- | --- | --- |
-| [DIN_125_M4](./Mechanical%20Parts/DIN_125_M4.stl) | 7 | :small_red_triangle: | --- | --- |  |
-| [DIN_9012_M4](./Mechanical%20Parts/DIN_9012_M4.stl) | 2 | :small_red_triangle: | --- | --- |  |
-| [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 | :small_red_triangle: | --- | --- |  |
+| [DIN_125_M4](./Mechanical%20Parts/DIN_125_M4.stl) | 7 |  | --- | --- |  |
+| [DIN_9012_M4](./Mechanical%20Parts/DIN_9012_M4.stl) | 2 |  | --- | --- |  |
+| [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 |  | --- | --- |  |
 | [HEATED_GLASSBED_MUON-3D](./Mechanical%20Parts/HEATED_GLASSBED_MUON-3D.stl) | 1 | [link](https://muon3d.com/products/positron-v3-transparent-heated-bed) | --- | --- | Highly recomended |
-| [SPACER_PRINTBED_WIP](./Mechanical%20Parts/SPACER_PRINTBED_WIP.stl) | 2 | :small_red_triangle: | --- | --- |  |
+| [SPACER_PRINTBED_WIP](./Mechanical%20Parts/SPACER_PRINTBED_WIP.stl) | 2 |  | --- | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
