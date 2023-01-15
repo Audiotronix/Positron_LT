@@ -53,7 +53,7 @@
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | 2 | [link](https://de.aliexpress.com/item/32807610078.html) | 2 | 10,69€ | 24V Dual Ball XH2,54 |
 | [HEATED_GLASSBED_MUON-3D](./Mechanical%20Parts/HEATED_GLASSBED_MUON-3D.stl) | 1 | [link](https://muon3d.com/products/positron-v3-transparent-heated-bed) | 1 | 45,95€ | Highly recomended |
 | [HEAT_SINK_RPI_2MM](./Mechanical%20Parts/HEAT_SINK_RPI_2MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004772727034.html) | 1 | 5,72€ | 2mm height |
-| [LED_4X_15X15](./Mechanical%20Parts/LED_4X_15X15.stl) | 1 | [link](https://de.aliexpress.com/item/1005002674028098.html) | 1 | 0,45€ |  |
+| [LED_4X_15X15](./Mechanical%20Parts/LED_4X_15X15.stl) | 1 | [link](https://de.aliexpress.com/item/1005002674028098.html) | 1 | 0,45€ | Select 4Bit Rectangular |
 | [MOTOR_17HM08-1204S](./Mechanical%20Parts/MOTOR_17HM08-1204S.stl) | 3 | [link](https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s) | 1 | 8,28€ |  |
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) / [link](https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ) | 1 | 22,50€ | You can also use an Bananapi Pi M2 Zero as substituion: [link](https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd) |
 | [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | 1 | [link](https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE) | 1 | 29,99€ |  |
@@ -103,15 +103,15 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://de.aliexpress.com/item/1005002046188859.html) | 50 | 1,91€ | Select 50pcs M7x13xThick, Thick 0.2mm |
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/4000211452548.html) | 1 | 0,27€ |  |
 | [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://de.aliexpress.com/item/4000760591738.html) / [link](https://de.aliexpress.com/item/33044580486.html) | 5 | 2,94€ | F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open |
-| [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | [link](https://de.aliexpress.com/item/32971394035.html) | 1 | 0,55€ |  |
+| [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | [link](https://de.aliexpress.com/item/32971394035.html) | 1 | 0,55€ | Select 16T W6 B3 Without T |
 | [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 | [link](https://www.ebay.de/itm/283457733982?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=s1yXsbT2Tsa&sssrc=2047675&ssuid=92txqbporsy&var=585183190920&widget_ver=artemis&media=COPY) / [link](https://www.ebay.de/itm/283737019090?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=s1yXsbT2Tsa&sssrc=2047675&ssuid=92txqbporsy&var=585146884974&widget_ver=artemis&media=COPY) | 1 | 4,67€ | 2m |
-| [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004100120790.html) | 1 | 1,07€ |  |
+| [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004100120790.html) | 1 | 1,07€ | Select 2GT-178, Belt Width 6mm 1pcs |
 | [LEADSCREW_NUT_T5X4](./Mechanical%20Parts/LEADSCREW_NUT_T5X4.stl) | 1 | [link](https://www.ebay.de/itm/165688561910?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201636033&widget_ver=artemis&media=COPY) | 1 | 1,49€ | Only needs to be bought if no screw is included with rod! Select T5x1x4 Brass/POM |
 | [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | [link](https://de.aliexpress.com/item/1005004583759873.html) / [link](https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY) | 1 | 10,15€ | Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw! |
-| [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/1005004881583203.html) | 1 | 0,72€ |  |
+| [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/1005004881583203.html) | 1 | 0,72€ | Select MF85ZZ 5X8X2.5mm |
 | [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | [link](https://de.aliexpress.com/item/32995122493.html) | 10 | 0,94€ |  |
-| [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | [link](https://de.aliexpress.com/item/4000891798197.html) | 5 | 2,71€ |  |
-| [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://de.aliexpress.com/item/32913757229.html) | 1 | 0,99€ | 20T Bore 5mm |
+| [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | [link](https://de.aliexpress.com/item/4000891798197.html) | 5 | 2,71€ | Select MR117ZZ 7x11x3mm |
+| [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://de.aliexpress.com/item/32913757229.html) | 1 | 0,99€ | Select 20T Bore 5mm |
 | [RAIL_MGN12_L225](./Mechanical%20Parts/RAIL_MGN12_L225.stl) | 1 | [link](https://amzn.eu/2NGfXpa) | 1 | 18,99€ | 250mm MGN12C |
 | [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 | [link](https://amzn.eu/760DXVj) | 1 | 20,99€ | 250mm MGN9C |
 | [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | [link](https://www.ebay.de/itm/234306987115?var=533899872753) / [link](https://amzn.eu/d/6ZlV0k4) | 1 | 19,40€ | 250mm MGW9C |
