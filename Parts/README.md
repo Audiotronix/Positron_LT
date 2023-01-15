@@ -48,7 +48,7 @@
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | 1 | [link](https://de.aliexpress.com/item/33029492417.html) | 1 | 1,12€ | Select 2x5 10P |
 | [6_PIN_MAGNETIC_POGO](./Mechanical%20Parts/6_PIN_MAGNETIC_POGO.stl) | 1 | [link](https://de.aliexpress.com/item/1005002669709542.html) | 1 | 3,30€ | Select 6pin Straight |
 | [C7_PLUG-IN](./Mechanical%20Parts/C7_PLUG-IN.stl) | 1 | [link](https://de.aliexpress.com/item/4001252791878.html) | 1 | 0,23€ |  |
-| [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | [link](https://amzn.eu/60yHlQZ) | 1 | 9,99€ |  |
+| [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | [link](https://amzn.eu/60yHlQZ) | 1 | 9,99€ | We recommend using a cable with a switch or an adapter like this: [link](https://de.aliexpress.com/item/1005002301827800.html) |
 | [EPP-200-24](./Mechanical%20Parts/EPP-200-24.stl) | 1 | [link](https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D) | 1 | 52,30€ | Meanwell EPP-220-24 |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | 2 | [link](https://de.aliexpress.com/item/32807610078.html) | 2 | 10,69€ | 24V Dual Ball XH2,54 |
 | [HEATED_GLASSBED_MUON-3D](./Mechanical%20Parts/HEATED_GLASSBED_MUON-3D.stl) | 1 | [link](https://muon3d.com/products/positron-v3-transparent-heated-bed) | 1 | 45,95€ | Highly recomended |
