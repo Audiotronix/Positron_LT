@@ -6,7 +6,7 @@ print('-Creating README')
 
 def pad_column(title: str, longest: int, factor=1.575):
     padding = ' ' * int(((longest-len(str(title)))) / 2 * factor)
-    return padding + title + padding
+    return padding + title.replace(' ',' ') + padding
 
 def write_printed(part_data) -> str:
     stl = '[STL](./Printed%20Parts/STL/'+str(part_data['cad_name'])+'.stl)'
