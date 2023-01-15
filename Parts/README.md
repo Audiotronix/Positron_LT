@@ -44,7 +44,7 @@
 
 ### ELECTRONICS:
 |                    Part Name                    |CAD Amount|      Link     |PCS | Price |                                            Note                                            |
-| --- | --- | :---: | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | 1 | [link](https://de.aliexpress.com/item/33029492417.html) | 1 | 1,12€ | Select 2x5 10P |
 | [6_PIN_MAGNETIC_POGO](./Mechanical%20Parts/6_PIN_MAGNETIC_POGO.stl) | 1 | [link](https://de.aliexpress.com/item/1005004194118658.html) | 1 | 2,48€ |  |
 | [C7_PLUG-IN](./Mechanical%20Parts/C7_PLUG-IN.stl) | 1 | [link](https://de.aliexpress.com/item/4001252791878.html) | 1 | 0,23€ |  |
@@ -59,7 +59,7 @@
 
 ### FASTENERS:
 |                    Part Name                    |CAD Amount|      Link     |PCS | Price |                                            Note                                            |
-| --- | --- | :---: | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | 2 | [link](https://de.aliexpress.com/item/1005003413546927.html) | 50 | 0,78€ |  |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,06€ |  |
 | [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | 40 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,28€ |  |
@@ -79,7 +79,7 @@
 ### MAKERBEAM:
 Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) . Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png)
 |                    Part Name                    |CAD Amount|      Link     |PCS | Price |                                            Note                                            |
-| --- | --- | :---: | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 | :small_red_triangle: | 25 | --- | Included with T-slot nut |
 | [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 | :small_red_triangle: | 25 | --- | Included with T-slot nut |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 12 | 17,95€ |  |
@@ -95,7 +95,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 
 ### MOTION:
 |                    Part Name                    |CAD Amount|      Link     |PCS | Price |                                            Note                                            |
-| --- | --- | :---: | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [CARRIAGE_MGN12-C](./Mechanical%20Parts/CARRIAGE_MGN12-C.stl) | 1 | :small_red_triangle: | --- | --- | Mostly includet with the rails |
 | [CARRIAGE_MGN9-C](./Mechanical%20Parts/CARRIAGE_MGN9-C.stl) | 1 | :small_red_triangle: | --- | --- | Mostly includet with the rails |
 | [CARRIAGE_MGW9-C](./Mechanical%20Parts/CARRIAGE_MGW9-C.stl) | 1 | :small_red_triangle: | --- | --- | Mostly includet with the rails |
@@ -116,7 +116,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | [link](https://www.ebay.de/itm/234306987115?var=533899872753) / [link](https://amzn.eu/d/6ZlV0k4) | 1 | --- | 250mm MGW9C |
 
 |                    Part Name                    |CAD Amount|      Link     |PCS | Price |                                            Note                                            |
-| --- | --- | :---: | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | [DIN_125_M4](./Mechanical%20Parts/DIN_125_M4.stl) | 7 | :small_red_triangle: | --- | --- |  |
 | [DIN_9012_M4](./Mechanical%20Parts/DIN_9012_M4.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 | :small_red_triangle: | --- | --- |  |
