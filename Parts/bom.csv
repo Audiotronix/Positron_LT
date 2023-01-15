@@ -34,10 +34,10 @@ mechanical,electronics,FAN_2510,2,"10,69€",2,https://de.aliexpress.com/item/32
 mechanical,electronics,HEAT_SINK_RPI_2MM,1,"5,72€",1,https://de.aliexpress.com/item/1005004772727034.html,,2mm height
 mechanical,electronics,LED_4X_15X15,1,"0,45€",1,https://de.aliexpress.com/item/1005002674028098.html,---,
 mechanical,electronics,MOTOR_17HM08-1204S,3,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,---,
-mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
+mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,"https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ",You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,---,
 category_info,fasteners,,,---,---,---,---,
-mechanical,fasteners,DIN_7979_M3X5X10,2,"1,12€",10,https://de.aliexpress.com/item/1005003413546927.html,---,"Select M3, 10mm x10pcs"
+mechanical,fasteners,DIN_7979_M3X5X10,2,"4,31€",5,https://de.aliexpress.com/i/1005003200850626.html,---,"Select M3 OD 4mm, 12mm (5pcs)"
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X14,40,"2,28€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X18,5,"2,99€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
@@ -76,7 +76,7 @@ mechanical,motion,GT2_16T_IDLER_SMOOTH,1,"0,55€",1,https://de.aliexpress.com/i
 mechanical,motion,GT2_BELT-3MM_L2000MM,1,---,---,---,---,
 mechanical,motion,GT2_BELT-6MM_L178MM,1,"1,07€",1,https://de.aliexpress.com/item/1005004100120790.html,---,
 mechanical,motion,LEADSCREW_NUT_T5X4,1,"1,49€",1,https://www.ebay.de/itm/165688561910?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201636033&widget_ver=artemis&media=COPY,---,Only needs to be bought if no screw is included with rod! Select T5x1x4 Brass/POM
-mechanical,motion,LEADSCREW_T5X4_L225,1,"10,15€",1,https://de.aliexpress.com/item/1005004583759873.html,https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY,"Select 250mm, Pitch 1mm Lead 4mm | Second link has no screw!"
+mechanical,motion,LEADSCREW_T5X4_L225,1,"10,15€",1,https://de.aliexpress.com/item/1005004583759873.html,https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY,"Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw!"
 mechanical,motion,MF85_BEARING,2,"0,72€",1,https://de.aliexpress.com/item/1005004881583203.html,---,
 mechanical,motion,MR115_BEARING,1,"0,94€",10,https://de.aliexpress.com/item/32995122493.html,---,
 mechanical,motion,MR117_2Z_BEARING,10,"2,85€",5,https://de.aliexpress.com/item/4000891798197.html,---,
