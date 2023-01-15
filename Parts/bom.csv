@@ -81,9 +81,9 @@ mechanical,motion,MF85_BEARING,2,"0,72€",1,https://de.aliexpress.com/item/1005
 mechanical,motion,MR115_BEARING,1,"0,94€",10,https://de.aliexpress.com/item/32995122493.html,---,
 mechanical,motion,MR117_2Z_BEARING,10,"2,85€",5,https://de.aliexpress.com/item/4000891798197.html,---,
 mechanical,motion,PULLEY_T20_LOWPROFILE,4,---,---,https://de.aliexpress.com/item/32913757229.html,---,20T Bore 5mm
-mechanical,motion,RAIL_MGN12_L225,1,---,---,---,---,
-mechanical,motion,RAIL_MGN9_L227,1,---,---,---,---,
-mechanical,motion,RAIL_MGW9_L227,1,---,---,---,---,
+mechanical,motion,RAIL_MGN12_L225,1,"18,99€",1,https://amzn.eu/2NGfXpa,---,250mm MGN12C
+mechanical,motion,RAIL_MGN9_L227,1,"20,99€",1,https://amzn.eu/760DXVj,---,250mm MGN9C
+mechanical,motion,RAIL_MGW9_L227,1,---,1,https://www.ebay.de/itm/234306987115?var=533899872753,https://amzn.eu/d/6ZlV0k4,250mm MGW9C
 mechanical,,DIN_125_M4,7,---,---,---,---,
 mechanical,,DIN_9012_M4,2,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
