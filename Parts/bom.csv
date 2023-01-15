@@ -32,9 +32,10 @@ mechanical,electronics,C7_PLUG-IN,1,"0,23€",1,https://de.aliexpress.com/item/4
 mechanical,electronics,CABLE_C7_SWITCH,1,---,---,---,---,
 mechanical,electronics,EPP-200-24,1,"52,30€",1,https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D,---,Meanwell EPP-220-24
 mechanical,electronics,FAN_2510,2,"10,69€",2,https://de.aliexpress.com/item/32807610078.html,---,"24V Dual Ball XH2,54"
+mechanical,electronics,HEAT_SINK_RPI_2MM,1,---,---,https://de.aliexpress.com/item/1005004772727034.html,2mm height,
 mechanical,electronics,LED_4X_15X15,1,"0,45€",1,https://de.aliexpress.com/item/1005002674028098.html,---,
 mechanical,electronics,MOTOR_17HM08-1204S,3,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,---,
-mechanical,electronics,RPI_ZERO_2W,1,22.50€,1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,"https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ",You can also use an Bananapi Pi M2 Zero as substituion. Special thanks to HarryLoud! https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
+mechanical,electronics,RPI_ZERO_2W,1,22.50€,1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ,You can also use an Bananapi Pi M2 Zero as substituion. Special thanks to HarryLoud! https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,---,
 category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X5X10,2,0.78€,50,https://de.aliexpress.com/item/1005003413546927.html,---,
@@ -67,8 +68,10 @@ mechanical,makerbeam,MAKERBEAM_L30,1,->,---,https://www.makerbeam.com/makerbeam/
 mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,32,14.98€,25,https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html,---,You need 2 sets
 category_info,motion,,,---,---,---,---,
 mechanical,motion,CARRIAGE_MGN12-C,1,---,---,---,---,Mostly includet with the rails
+mechanical,motion,CARRIAGE_MGN9-C,1,---,---,---,---,Mostly includet with the rails
 mechanical,motion,CARRIAGE_MGW9-C,1,---,---,---,---,Mostly includet with the rails
 mechanical,motion,DIN_988_7X13X02,40,"3,79€",50,https://de.aliexpress.com/item/1005003108530857.html,---,
+mechanical,motion,F5-10_BEARING,2,---,---,---,---,
 mechanical,motion,F683_OPEN_BEARING-H25-,28,"30,76€",100,https://de.aliexpress.com/item/33044580486.html,---,"F683 3x7x2,5mm open"
 mechanical,motion,GT2_16T_IDLER_SMOOTH,1,---,---,---,---,
 mechanical,motion,GT2_BELT-3MM_L2000MM,1,---,---,---,---,
@@ -79,14 +82,11 @@ mechanical,motion,MF85_BEARING,2,"5,22€",5,---,---,
 mechanical,motion,MR115_BEARING,1,---,---,---,---,
 mechanical,motion,MR117_2Z_BEARING,10,---,---,---,---,
 mechanical,motion,PULLEY_T20_LOWPROFILE,4,---,---,https://de.aliexpress.com/item/32913757229.html,---,20T Bore 5mm
+mechanical,motion,RAIL_MGN12_L225,1,---,---,---,---,
 mechanical,motion,RAIL_MGN9_L227,1,---,---,---,---,
 mechanical,motion,RAIL_MGW9_L227,1,---,---,---,---,
-mechanical,motion,CARRIAGE_MGN9-C,1,---,---,---,---,Mostly includet with the rails
 mechanical,,DIN_125_M4,7,---,---,---,---,
 mechanical,,DIN_9012_M4,2,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
-mechanical,motion,F5-10_BEARING,2,---,---,---,---,
 mechanical,,HEATED_GLASSBED_MUON-3D,1,---,---,https://muon3d.com/products/positron-v3-transparent-heated-bed,---,Highly recomended
-mechanical,electronics,HEAT_SINK_RPI_2MM,1,---,---,https://de.aliexpress.com/item/1005004772727034.html,2mm height,
-mechanical,motion,RAIL_MGN12_L225,1,---,---,---,---,
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
