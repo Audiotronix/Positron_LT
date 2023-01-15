@@ -26,7 +26,7 @@ def write_mechanical(part_data) -> str:
     note = short_urls(str(part_data['note']))
 
     part_name = '['+str(part_data['cad_name'])+'](./Mechanical%20Parts/'+str(part_data['cad_name'])+'.stl)'
-    link = ('[link]('+str(part_data['link'])+')') if str(part_data['link']) not in ['','---'] else ':small_red_triangle:'
+    link = ('[link]('+str(part_data['link'])+')') if str(part_data['link']) not in ['','---'] else ':radio_button:'
 
     #add alt link to link
     if part_data['alt_link'] not in ['','---']:
@@ -97,7 +97,7 @@ mechanical_table = ''
 
 #create table header strings
 printed_header = '|'+pad_column('Part Name', column_lengths['printed']['cad_name'], 2)+'| STL | STEP |'+pad_column('Amount', column_lengths['printed']['amount'])+'| Print Time | Weight (g)|\n| --- | --- | --- | --- | --- | --- |\n'
-mechanical_header = '|'+pad_column('Part Name', column_lengths['mechanical']['cad_name'], 2)+'|'+pad_column('CAD', column_lengths['mechanical']['amount'])+'| '+pad_column('Link', column_lengths['mechanical']['link'])+'|'+pad_column('PCS', column_lengths['mechanical']['pcs'])+' |'+pad_column('Price', column_lengths['mechanical']['price'], 2.5)+'|'+pad_column('Note', column_lengths['mechanical']['note'])+'|\n| --- | --- | :---: | :---: | :---: | :--- |\n'
+mechanical_header = '|'+pad_column('Part Name', column_lengths['mechanical']['cad_name'], 2)+'|'+pad_column('CAD', column_lengths['mechanical']['amount'])+'| '+pad_column('Link', column_lengths['mechanical']['link'])+'|'+pad_column('PCS', column_lengths['mechanical']['pcs'])+' |'+pad_column('Price', column_lengths['mechanical']['price'], 2.5)+'| fin Price |'+pad_column('Note', column_lengths['mechanical']['note'])+'|\n| --- | --- | :---: | :---: | :---: | :--- |\n'
 
 #create category title + table header
 for category in categories:
