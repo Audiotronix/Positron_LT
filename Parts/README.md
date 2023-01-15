@@ -51,7 +51,7 @@
 | [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [EPP-200-24](./Mechanical%20Parts/EPP-200-24.stl) | 1 | [link](https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D) | 1 | 52,30€ | Meanwell EPP-220-24 |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | 2 | [link](https://de.aliexpress.com/item/32807610078.html) | 2 | 10,69€ | 24V Dual Ball XH2,54 |
-| [HEAT_SINK_RPI_2MM](./Mechanical%20Parts/HEAT_SINK_RPI_2MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004772727034.html) / [link](2mm height) | --- | --- |  |
+| [HEAT_SINK_RPI_2MM](./Mechanical%20Parts/HEAT_SINK_RPI_2MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004772727034.html) / [link]() | --- | --- | 2mm height |
 | [LED_4X_15X15](./Mechanical%20Parts/LED_4X_15X15.stl) | 1 | [link](https://de.aliexpress.com/item/1005002674028098.html) | 1 | 0,45€ |  |
 | [MOTOR_17HM08-1204S](./Mechanical%20Parts/MOTOR_17HM08-1204S.stl) | 3 | [link](https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s) | 1 | 8,28€ |  |
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) / [link](https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ) | 1 | 22.50€ | You can also use an Bananapi Pi M2 Zero as substituion. Special thanks to HarryLoud! [link](https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd) |
