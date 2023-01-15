@@ -100,12 +100,17 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | --- | --- | --- | --- | --- | --- |
 | [CARRIAGE_MGN12-C](./Mechanical%20Parts/CARRIAGE_MGN12-C.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [CARRIAGE_MGW9-C](./Mechanical%20Parts/CARRIAGE_MGW9-C.stl) | 1 | :small_red_triangle: | --- | --- |  |
+| [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | :small_red_triangle: | --- | --- |  |
+| [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | :small_red_triangle: | --- | --- |  |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [LEADSCREW_NUT_T5X4](./Mechanical%20Parts/LEADSCREW_NUT_T5X4.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | :small_red_triangle: | --- | --- |  |
+| [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [MGN12_L225](./Mechanical%20Parts/MGN12_L225.stl) | 1 | :small_red_triangle: | --- | --- |  |
+| [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | :small_red_triangle: | --- | --- |  |
+| [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | :small_red_triangle: | --- | --- |  |
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | :small_red_triangle: | --- | --- |  |
 | [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
 | [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | :small_red_triangle: | --- | --- |  |
@@ -114,14 +119,9 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | --- | --- | --- | --- | --- | --- |
 | [DIN_125_M4](./Mechanical%20Parts/DIN_125_M4.stl) | 7 | :small_red_triangle: | --- | --- |  |
 | [DIN_9012_M4](./Mechanical%20Parts/DIN_9012_M4.stl) | 2 | :small_red_triangle: | --- | --- |  |
-| [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | :small_red_triangle: | --- | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 | :small_red_triangle: | --- | --- |  |
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | :small_red_triangle: | --- | --- |  |
-| [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | :small_red_triangle: | --- | --- |  |
 | [HEAT_SINK_1](./Mechanical%20Parts/HEAT_SINK_1.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | :small_red_triangle: | --- | --- |  |
-| [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | :small_red_triangle: | --- | --- |  |
-| [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | :small_red_triangle: | --- | --- |  |
 | [SPACER_PRINTBED_NEED-TO-CHANGEDR](./Mechanical%20Parts/SPACER_PRINTBED_NEED-TO-CHANGEDR.stl) | 2 | :small_red_triangle: | --- | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
