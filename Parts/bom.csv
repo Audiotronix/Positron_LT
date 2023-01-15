@@ -48,6 +48,8 @@ mechanical,fasteners,DIN_912_M3X20,5,"1,48€",10,https://de.aliexpress.com/item
 mechanical,fasteners,DIN_912_M3X6,10,"0,78€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_934_M3,2,"1,36€",50,https://de.aliexpress.com/item/1005003106199633.html,---,
 mechanical,fasteners,M3_INSERT,18,"0,35€",50,https://de.aliexpress.com/item/1005004879644825.html,https://amzn.eu/4a0yax7,"Select M3(OD4.5mm), Length 5mm 50pcs"
+mechanical,fasteners,THUMBSCREW_M6X16,1,---,---,---,---,
+mechanical,fasteners,THUMBSCREW_M6X20,1,---,---,---,---,
 mechanical,fasteners,WAFERHEAD_M3X10,19,"1,97€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 mechanical,fasteners,WAFERHEAD_M3X14,4,"2,10€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 mechanical,fasteners,WAFERHEAD_M3X20,3,"2,54€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
@@ -73,6 +75,12 @@ mechanical,motion,GT2_BELT-6MM_L178MM,1,"1,07€",1,https://de.aliexpress.com/it
 mechanical,motion,LEADSCREW_NUT_T5X4,1,"1,49€",1,https://www.ebay.de/itm/165688561910?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201636033&widget_ver=artemis&media=COPY,---,Only needs to be bought if no screw is included with rod! Select T5x1x4 Brass/POM
 mechanical,motion,LEADSCREW_T5X4_L225,1,"10,15€",1,https://de.aliexpress.com/item/1005004583759873.html,https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY,"Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw!"
 mechanical,motion,MF85_BEARING,2,"0,72€",1,https://de.aliexpress.com/item/1005004881583203.html,---,Select MF85ZZ 5X8X2.5mm
+mechanical,motion,MGN12-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
+mechanical,motion,MGN12_RAIL_L225,1,"18,99€",1,https://amzn.eu/2NGfXpa,---,250mm MGN12C
+mechanical,motion,MGN9-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
+mechanical,motion,MGN9_RAIL_L227,1,"20,99€",1,https://amzn.eu/760DXVj,---,250mm MGN9C
+mechanical,motion,MGW9-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
+mechanical,motion,MGW9_RAIL_L227,1,"19,40€",1,https://www.ebay.de/itm/234306987115?var=533899872753,https://amzn.eu/d/6ZlV0k4,250mm MGW9C
 mechanical,motion,MR115_BEARING,1,"0,94€",10,https://de.aliexpress.com/item/32995122493.html,---,
 mechanical,motion,MR117_2Z_BEARING,10,"2,71€",5,https://de.aliexpress.com/item/4000891798197.html,---,Select MR117ZZ 7x11x3mm
 mechanical,motion,PULLEY_T20_LOWPROFILE,4,"0,99€",1,https://de.aliexpress.com/item/32913757229.html,---,Select 20T Bore 5mm
@@ -81,13 +89,5 @@ mechanical,,DIN_433_M3,12,---,---,---,---,
 mechanical,,DIN_7979_M3X4X10,2,---,---,---,---,
 mechanical,,DIN_988_M4X02,8,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
-mechanical,motion,MGN12-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
-mechanical,motion,MGN12_RAIL_L225,1,"18,99€",1,https://amzn.eu/2NGfXpa,---,250mm MGN12C
-mechanical,motion,MGN9-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
-mechanical,motion,MGN9_RAIL_L227,1,"20,99€",1,https://amzn.eu/760DXVj,---,250mm MGN9C
-mechanical,motion,MGW9-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
-mechanical,motion,MGW9_RAIL_L227,1,"19,40€",1,https://www.ebay.de/itm/234306987115?var=533899872753,https://amzn.eu/d/6ZlV0k4,250mm MGW9C
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
-mechanical,fasteners,THUMBSCREW_M6X16,1,---,---,---,---,
-mechanical,fasteners,THUMBSCREW_M6X20,1,---,---,---,---,
 mechanical,,X-RAIL_ENDCAP,2,---,---,---,---,

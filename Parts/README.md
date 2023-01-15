@@ -48,7 +48,7 @@
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | 1 | [link](https://de.aliexpress.com/item/33029492417.html) | 1 | 1,12€ | Select 2x5 10P |
 | [6_PIN_MAGNETIC_POGO](./Mechanical%20Parts/6_PIN_MAGNETIC_POGO.stl) | 1 | [link](https://de.aliexpress.com/item/1005002669709542.html) | 1 | 3,30€ | Select 6pin Straight |
 | [C7_PLUG-IN](./Mechanical%20Parts/C7_PLUG-IN.stl) | 1 | [link](https://de.aliexpress.com/item/4001252791878.html) | 1 | 0,23€ |  |
-| [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | [link](https://amzn.eu/60yHlQZ) | 1 | 9,99€ |  |
+| [CABLE_C7_SWITCH](./Mechanical%20Parts/CABLE_C7_SWITCH.stl) | 1 | [link](https://amzn.eu/60yHlQZ) | 1 | 9,99€ | We recommend using a cable with a switch or an adapter like this: [link](https://de.aliexpress.com/item/1005002301827800.html) |
 | [EPP-200-24](./Mechanical%20Parts/EPP-200-24.stl) | 1 | [link](https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D) | 1 | 52,30€ | Meanwell EPP-220-24 |
 | [FAN_2510](./Mechanical%20Parts/FAN_2510.stl) | 2 | [link](https://de.aliexpress.com/item/32807610078.html) | 2 | 10,69€ | 24V Dual Ball XH2,54 |
 | [HEATED_GLASSBED_MUON-3D](./Mechanical%20Parts/HEATED_GLASSBED_MUON-3D.stl) | 1 | [link](https://muon3d.com/products/positron-v3-transparent-heated-bed) | 1 | 45,95€ | Highly recomended |
@@ -61,18 +61,18 @@
 ### FASTENERS:
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
-| [DIN_7979_M3X5X10](./Mechanical%20Parts/DIN_7979_M3X5X10.stl) | 2 | [link](https://de.aliexpress.com/i/1005003200850626.html) | 5 | 4,31€ | Select M3 OD 4mm, 12mm (5pcs) |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,06€ |  |
 | [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | 40 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,28€ |  |
 | [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | 5 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,99€ |  |
 | [DIN_7991_M3X25](./Mechanical%20Parts/DIN_7991_M3X25.stl) | 5 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 3,68€ |  |
 | [DIN_7991_M3X35](./Mechanical%20Parts/DIN_7991_M3X35.stl) | 10 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 4,72€ |  |
-| [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | 6 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 1,58€ |  |
+| [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | 5 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 1,58€ |  |
 | [DIN_912_M3X20](./Mechanical%20Parts/DIN_912_M3X20.stl) | 5 | [link](https://de.aliexpress.com/item/1005003106092326.html) | 10 | 1,48€ |  |
 | [DIN_912_M3X6](./Mechanical%20Parts/DIN_912_M3X6.stl) | 10 | [link](https://de.aliexpress.com/item/1005003106092326.html) | 10 | 0,78€ |  |
 | [DIN_934_M3](./Mechanical%20Parts/DIN_934_M3.stl) | 2 | [link](https://de.aliexpress.com/item/1005003106199633.html) | 50 | 1,36€ |  |
 | [M3_INSERT](./Mechanical%20Parts/M3_INSERT.stl) | 18 | [link](https://de.aliexpress.com/item/1005004879644825.html) / [link](https://amzn.eu/4a0yax7) | 50 | 0,35€ | Select M3(OD4.5mm), Length 5mm 50pcs |
-| [M6X16_PLASTIC_THUMBSCREW](./Mechanical%20Parts/M6X16_PLASTIC_THUMBSCREW.stl) | 2 | [link](https://de.aliexpress.com/item/1005004651298319.html) | 2 | 1,90€ | Select M6, 16mm |
+| [THUMBSCREW_M6X16](./Mechanical%20Parts/THUMBSCREW_M6X16.stl) | 1 |  | --- | --- |  |
+| [THUMBSCREW_M6X20](./Mechanical%20Parts/THUMBSCREW_M6X20.stl) | 1 |  | --- | --- |  |
 | [WAFERHEAD_M3X10](./Mechanical%20Parts/WAFERHEAD_M3X10.stl) | 19 | [link](https://de.aliexpress.com/item/1005004510664424.html) | 20 | 1,97€ |  |
 | [WAFERHEAD_M3X14](./Mechanical%20Parts/WAFERHEAD_M3X14.stl) | 4 | [link](https://de.aliexpress.com/item/1005004510664424.html) | 20 | 2,10€ |  |
 | [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | 3 | [link](https://de.aliexpress.com/item/1005004510664424.html) | 20 | 2,54€ |  |
@@ -82,7 +82,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 |  | 25 | --- | Included with T-slot nut |
-| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 |  | 25 | --- | Included with T-slot nut |
+| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 2 |  | 25 | --- | Included with T-slot nut |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 12 | 17,95€ |  |
 | [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | 1 |  | 0 | --- | Included in previous cube order. |
 | [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | 7 | [link](https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637) | 12 | 6,95€ |  |
@@ -97,31 +97,33 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 ### MOTION:
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
-| [CARRIAGE_MGN12-C](./Mechanical%20Parts/CARRIAGE_MGN12-C.stl) | 1 |  | 1 | --- | Mostly includet with the rails |
-| [CARRIAGE_MGN9-C](./Mechanical%20Parts/CARRIAGE_MGN9-C.stl) | 1 |  | 1 | --- | Mostly includet with the rails |
-| [CARRIAGE_MGW9-C](./Mechanical%20Parts/CARRIAGE_MGW9-C.stl) | 1 |  | 1 | --- | Mostly includet with the rails |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://de.aliexpress.com/item/1005002046188859.html) | 50 | 1,91€ | Select 50pcs M7x13xThick, Thick 0.2mm |
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/4000211452548.html) | 1 | 0,27€ |  |
 | [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://de.aliexpress.com/item/4000760591738.html) / [link](https://de.aliexpress.com/item/33044580486.html) | 5 | 2,94€ | F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | [link](https://de.aliexpress.com/item/32971394035.html) | 1 | 0,55€ | Select 16T W6 B3 Without T |
-| [GT2_BELT-3MM_L2000MM](./Mechanical%20Parts/GT2_BELT-3MM_L2000MM.stl) | 1 | [link](https://www.ebay.de/itm/283457733982?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=s1yXsbT2Tsa&sssrc=2047675&ssuid=92txqbporsy&var=585183190920&widget_ver=artemis&media=COPY) / [link](https://www.ebay.de/itm/283737019090?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=s1yXsbT2Tsa&sssrc=2047675&ssuid=92txqbporsy&var=585146884974&widget_ver=artemis&media=COPY) | 1 | 4,67€ | 2m |
 | [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004100120790.html) | 1 | 1,07€ | Select 2GT-178, Belt Width 6mm 1pcs |
 | [LEADSCREW_NUT_T5X4](./Mechanical%20Parts/LEADSCREW_NUT_T5X4.stl) | 1 | [link](https://www.ebay.de/itm/165688561910?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201636033&widget_ver=artemis&media=COPY) | 1 | 1,49€ | Only needs to be bought if no screw is included with rod! Select T5x1x4 Brass/POM |
 | [LEADSCREW_T5X4_L225](./Mechanical%20Parts/LEADSCREW_T5X4_L225.stl) | 1 | [link](https://de.aliexpress.com/item/1005004583759873.html) / [link](https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY) | 1 | 10,15€ | Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw! |
 | [MF85_BEARING](./Mechanical%20Parts/MF85_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/1005004881583203.html) | 1 | 0,72€ | Select MF85ZZ 5X8X2.5mm |
+| [MGN12-C_CARRIAGE](./Mechanical%20Parts/MGN12-C_CARRIAGE.stl) | 1 |  | 1 | --- | Mostly includet with the rails |
+| [MGN12_RAIL_L225](./Mechanical%20Parts/MGN12_RAIL_L225.stl) | 1 | [link](https://amzn.eu/2NGfXpa) | 1 | 18,99€ | 250mm MGN12C |
+| [MGN9-C_CARRIAGE](./Mechanical%20Parts/MGN9-C_CARRIAGE.stl) | 1 |  | 1 | --- | Mostly includet with the rails |
+| [MGN9_RAIL_L227](./Mechanical%20Parts/MGN9_RAIL_L227.stl) | 1 | [link](https://amzn.eu/760DXVj) | 1 | 20,99€ | 250mm MGN9C |
+| [MGW9-C_CARRIAGE](./Mechanical%20Parts/MGW9-C_CARRIAGE.stl) | 1 |  | 1 | --- | Mostly includet with the rails |
+| [MGW9_RAIL_L227](./Mechanical%20Parts/MGW9_RAIL_L227.stl) | 1 | [link](https://www.ebay.de/itm/234306987115?var=533899872753) / [link](https://amzn.eu/d/6ZlV0k4) | 1 | 19,40€ | 250mm MGW9C |
 | [MR115_BEARING](./Mechanical%20Parts/MR115_BEARING.stl) | 1 | [link](https://de.aliexpress.com/item/32995122493.html) | 10 | 0,94€ |  |
 | [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | [link](https://de.aliexpress.com/item/4000891798197.html) | 5 | 2,71€ | Select MR117ZZ 7x11x3mm |
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://de.aliexpress.com/item/32913757229.html) | 1 | 0,99€ | Select 20T Bore 5mm |
-| [RAIL_MGN12_L225](./Mechanical%20Parts/RAIL_MGN12_L225.stl) | 1 | [link](https://amzn.eu/2NGfXpa) | 1 | 18,99€ | 250mm MGN12C |
-| [RAIL_MGN9_L227](./Mechanical%20Parts/RAIL_MGN9_L227.stl) | 1 | [link](https://amzn.eu/760DXVj) | 1 | 20,99€ | 250mm MGN9C |
-| [RAIL_MGW9_L227](./Mechanical%20Parts/RAIL_MGW9_L227.stl) | 1 | [link](https://www.ebay.de/itm/234306987115?var=533899872753) / [link](https://amzn.eu/d/6ZlV0k4) | 1 | 19,40€ | 250mm MGW9C |
 
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
-| [DIN_125_M4](./Mechanical%20Parts/DIN_125_M4.stl) | 7 |  | --- | --- |  |
-| [DIN_9012_M4](./Mechanical%20Parts/DIN_9012_M4.stl) | 2 |  | --- | --- |  |
+| [DIN_125_M5](./Mechanical%20Parts/DIN_125_M5.stl) | 2 |  | --- | --- |  |
+| [DIN_433_M3](./Mechanical%20Parts/DIN_433_M3.stl) | 12 |  | --- | --- |  |
+| [DIN_7979_M3X4X10](./Mechanical%20Parts/DIN_7979_M3X4X10.stl) | 2 |  | --- | --- |  |
+| [DIN_988_M4X02](./Mechanical%20Parts/DIN_988_M4X02.stl) | 8 |  | --- | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 |  | --- | --- |  |
 | [SPACER_PRINTBED_WIP](./Mechanical%20Parts/SPACER_PRINTBED_WIP.stl) | 2 |  | --- | --- |  |
+| [X-RAIL_ENDCAP](./Mechanical%20Parts/X-RAIL_ENDCAP.stl) | 2 |  | --- | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
