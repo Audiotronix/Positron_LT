@@ -38,24 +38,22 @@ mechanical,electronics,MOTOR_17HM08-1204S,3,"8,28€",1,https://www.omc-steppero
 mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,"https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ",You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,---,
 category_info,fasteners,,,---,---,---,---,
-mechanical,fasteners,DIN_7979_M3X5X10,2,"4,31€",5,https://de.aliexpress.com/i/1005003200850626.html,---,"Select M3 OD 4mm, 12mm (5pcs)"
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X14,40,"2,28€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X18,5,"2,99€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X25,5,"3,68€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X35,10,"4,72€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
-mechanical,fasteners,DIN_7991_M3X8,6,"1,58€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
+mechanical,fasteners,DIN_7991_M3X8,5,"1,58€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_912_M3X20,5,"1,48€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_912_M3X6,10,"0,78€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_934_M3,2,"1,36€",50,https://de.aliexpress.com/item/1005003106199633.html,---,
 mechanical,fasteners,M3_INSERT,18,"0,35€",50,https://de.aliexpress.com/item/1005004879644825.html,https://amzn.eu/4a0yax7,"Select M3(OD4.5mm), Length 5mm 50pcs"
-mechanical,fasteners,M6X16_PLASTIC_THUMBSCREW,2,"1,90€",2,https://de.aliexpress.com/item/1005004651298319.html,---,"Select M6, 16mm"
 mechanical,fasteners,WAFERHEAD_M3X10,19,"1,97€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 mechanical,fasteners,WAFERHEAD_M3X14,4,"2,10€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 mechanical,fasteners,WAFERHEAD_M3X20,3,"2,54€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 category_info,makerbeam,,,---,---,---,---,Since Makerbeam does not sell beams with the needed length; they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  https://www.makerbeam.com/cut-and-tap-for-10x10mm.html . Either way; you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,makerbeam,DIN_34805_M3X4,4,---,25,---,---,Included with T-slot nut
-mechanical,makerbeam,DIN_7991_M3X4,3,---,25,---,---,Included with T-slot nut
+mechanical,makerbeam,DIN_7991_M3X4,2,---,25,---,---,Included with T-slot nut
 mechanical,makerbeam,MAKERBEAM-CUBE,3,"17,95€",12,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,
 mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,0,,---,Included in previous cube order.
 mechanical,makerbeam,MAKERBEAM_L-BRACKET_100304,7,"6,95€",12,https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637,---,
@@ -67,14 +65,10 @@ mechanical,makerbeam,MAKERBEAM_L250,3,->,---,https://www.makerbeam.com/makerbeam
 mechanical,makerbeam,MAKERBEAM_L30,1,->,---,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf
 mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,32,"14,98€",25,https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html,---,You need 2 sets
 category_info,motion,,,---,---,---,---,
-mechanical,motion,CARRIAGE_MGN12-C,1,---,1,---,---,Mostly includet with the rails
-mechanical,motion,CARRIAGE_MGN9-C,1,---,1,---,---,Mostly includet with the rails
-mechanical,motion,CARRIAGE_MGW9-C,1,---,1,---,---,Mostly includet with the rails
 mechanical,motion,DIN_988_7X13X02,40,"1,91€",50,https://de.aliexpress.com/item/1005002046188859.html,---,"Select 50pcs M7x13xThick, Thick 0.2mm"
 mechanical,motion,F5-10_BEARING,2,"0,27€",1,https://de.aliexpress.com/item/4000211452548.html,---,
 mechanical,motion,F683_OPEN_BEARING-H25-,28,"2,94€",5,https://de.aliexpress.com/item/4000760591738.html,https://de.aliexpress.com/item/33044580486.html,F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open
 mechanical,motion,GT2_16T_IDLER_SMOOTH,1,"0,55€",1,https://de.aliexpress.com/item/32971394035.html,---,Select 16T W6 B3 Without T
-mechanical,motion,GT2_BELT-3MM_L2000MM,1,"4,67€",1,https://www.ebay.de/itm/283457733982?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=s1yXsbT2Tsa&sssrc=2047675&ssuid=92txqbporsy&var=585183190920&widget_ver=artemis&media=COPY,https://www.ebay.de/itm/283737019090?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=s1yXsbT2Tsa&sssrc=2047675&ssuid=92txqbporsy&var=585146884974&widget_ver=artemis&media=COPY,2m
 mechanical,motion,GT2_BELT-6MM_L178MM,1,"1,07€",1,https://de.aliexpress.com/item/1005004100120790.html,---,"Select 2GT-178, Belt Width 6mm 1pcs"
 mechanical,motion,LEADSCREW_NUT_T5X4,1,"1,49€",1,https://www.ebay.de/itm/165688561910?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201636033&widget_ver=artemis&media=COPY,---,Only needs to be bought if no screw is included with rod! Select T5x1x4 Brass/POM
 mechanical,motion,LEADSCREW_T5X4_L225,1,"10,15€",1,https://de.aliexpress.com/item/1005004583759873.html,https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY,"Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw!"
@@ -82,10 +76,18 @@ mechanical,motion,MF85_BEARING,2,"0,72€",1,https://de.aliexpress.com/item/1005
 mechanical,motion,MR115_BEARING,1,"0,94€",10,https://de.aliexpress.com/item/32995122493.html,---,
 mechanical,motion,MR117_2Z_BEARING,10,"2,71€",5,https://de.aliexpress.com/item/4000891798197.html,---,Select MR117ZZ 7x11x3mm
 mechanical,motion,PULLEY_T20_LOWPROFILE,4,"0,99€",1,https://de.aliexpress.com/item/32913757229.html,---,Select 20T Bore 5mm
-mechanical,motion,RAIL_MGN12_L225,1,"18,99€",1,https://amzn.eu/2NGfXpa,---,250mm MGN12C
-mechanical,motion,RAIL_MGN9_L227,1,"20,99€",1,https://amzn.eu/760DXVj,---,250mm MGN9C
-mechanical,motion,RAIL_MGW9_L227,1,"19,40€",1,https://www.ebay.de/itm/234306987115?var=533899872753,https://amzn.eu/d/6ZlV0k4,250mm MGW9C
-mechanical,,DIN_125_M4,7,---,---,---,---,
-mechanical,,DIN_9012_M4,2,---,---,---,---,
+mechanical,,DIN_125_M5,2,---,---,---,---,
+mechanical,,DIN_433_M3,12,---,---,---,---,
+mechanical,,DIN_7979_M3X4X10,2,---,---,---,---,
+mechanical,,DIN_988_M4X02,8,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
+mechanical,motion,MGN12-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
+mechanical,motion,MGN12_RAIL_L225,1,"18,99€",1,https://amzn.eu/2NGfXpa,---,250mm MGN12C
+mechanical,motion,MGN9-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
+mechanical,motion,MGN9_RAIL_L227,1,"20,99€",1,https://amzn.eu/760DXVj,---,250mm MGN9C
+mechanical,motion,MGW9-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
+mechanical,motion,MGW9_RAIL_L227,1,"19,40€",1,https://www.ebay.de/itm/234306987115?var=533899872753,https://amzn.eu/d/6ZlV0k4,250mm MGW9C
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
+mechanical,fasteners,THUMBSCREW_M6X16,1,---,---,---,---,
+mechanical,fasteners,THUMBSCREW_M6X20,1,---,---,---,---,
+mechanical,,X-RAIL_ENDCAP,2,---,---,---,---,
