@@ -135,6 +135,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 |                    Part Name                    |CAD|      Link     | PCS  | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [10PIN_FEMALE_CONNECTOR](./Mechanical%20Parts/10PIN_FEMALE_CONNECTOR.stl) | 1 |  | --- | --- |  |
+| [ANGLED_EXTRUDER_MOD](./Mechanical%20Parts/ANGLED_EXTRUDER_MOD.stl) | 1 |  | --- | --- |  |
 | [BUFFER_BOTTON](./Mechanical%20Parts/BUFFER_BOTTON.stl) | 4 |  | --- | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 |  | --- | --- |  |
 | [PCB_SCREEN_ADAPTER](./Mechanical%20Parts/PCB_SCREEN_ADAPTER.stl) | 1 |  | --- | --- |  |
