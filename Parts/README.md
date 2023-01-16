@@ -65,6 +65,7 @@ We currently can not guarantee that all parts fit / work as expected
 ### FASTENERS:
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
+| [DIN_7979_M3X4X10](./Mechanical%20Parts/DIN_7979_M3X4X10.stl) | 2 | [link](https://de.aliexpress.com/item/1005003200850626.html) | 5 | 4,30€ | Select M3 (OD 4mm), 12mm (5pcs) |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,06€ |  |
 | [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | 40 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,28€ |  |
 | [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | 5 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,99€ |  |
@@ -101,7 +102,6 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 ### MOTION:
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
-| [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://de.aliexpress.com/item/1005002046188859.html) | 50 | 1,91€ | Select 50pcs M7x13xThick, Thick 0.2mm |
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/4000211452548.html) | 1 | 0,27€ |  |
 | [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://de.aliexpress.com/item/4000760591738.html) / [link](https://de.aliexpress.com/item/33044580486.html) | 5 | 2,94€ | F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | [link](https://de.aliexpress.com/item/32971394035.html) | 1 | 0,55€ | Select 16T W6 B3 Without T |
@@ -119,12 +119,16 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [MR117_2Z_BEARING](./Mechanical%20Parts/MR117_2Z_BEARING.stl) | 10 | [link](https://de.aliexpress.com/item/4000891798197.html) | 5 | 2,71€ | Select MR117ZZ 7x11x3mm |
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://de.aliexpress.com/item/32913757229.html) | 1 | 0,99€ | Select 20T Bore 5mm |
 
+### SHIMS:
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
-| [DIN_125_M5](./Mechanical%20Parts/DIN_125_M5.stl) | 2 |  | --- | --- |  |
-| [DIN_433_M3](./Mechanical%20Parts/DIN_433_M3.stl) | 12 |  | --- | --- |  |
-| [DIN_7979_M3X4X10](./Mechanical%20Parts/DIN_7979_M3X4X10.stl) | 2 |  | --- | --- |  |
-| [DIN_988_M4X02](./Mechanical%20Parts/DIN_988_M4X02.stl) | 8 |  | --- | --- |  |
+| [DIN_125_M5](./Mechanical%20Parts/DIN_125_M5.stl) | 2 | [link](https://de.aliexpress.com/item/1005002148389665.html) | 25 | 1,48€ | Select M5(25PCS) |
+| [DIN_433_M3](./Mechanical%20Parts/DIN_433_M3.stl) | 12 | [link](https://de.aliexpress.com/item/4001213983709.html) | 100 | 2,21€ | Select 3x6x0.5 |
+| [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://de.aliexpress.com/item/1005002046188859.html) | 50 | 1,91€ | Select 50pcs M7x13xThick, Thick 0.2mm |
+
+|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+| --- | --- | :---: | :---: | :---: | :--- |
+| [DIN_988_M4X02](./Mechanical%20Parts/DIN_988_M4X02.stl) | 8 | [link](https://de.aliexpress.com/item/1005001878233881.html) | 50 | 1,26€ | Select M3x6xThick 50pcs, 0.2mm thick |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 |  | --- | --- |  |
 | [SPACER_PRINTBED_WIP](./Mechanical%20Parts/SPACER_PRINTBED_WIP.stl) | 2 |  | --- | --- |  |
 | [X-RAIL_ENDCAP](./Mechanical%20Parts/X-RAIL_ENDCAP.stl) | 2 |  | --- | --- |  |
