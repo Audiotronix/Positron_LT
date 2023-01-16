@@ -16,3 +16,5 @@
 | Layer height | Infill | Supports | Perimeters | Horizontal shells | 
 | --- | --- | --- | --- | --- |
 | 0.2mm | 40% | On build plate only | 5 (min) | Top: 9, Bot: 8 |
+
+> Note: Some links might be affiliate links!
