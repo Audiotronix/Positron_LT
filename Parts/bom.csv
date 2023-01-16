@@ -25,18 +25,18 @@ printed,,XY-SPACER_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,Z-BLOCK_HOLDER_V01,1,---,1,---,---,[t: --- |w: --- ]
 category_info,electronics,,,---,---,---,---,
-mechanical,electronics,10PIN_EXP_MALE_1,1,"1,12€",1,https://de.aliexpress.com/item/33029492417.html,---,Select 2x5 10P
+mechanical,electronics,10PIN_EXP_MALE_1,1,"1,12€",1,https://de.aliexpress.com/item/33029492417.html,https://amzn.to/3XzUQMl,Select 2x5 10pin
 mechanical,electronics,6_PIN_MAGNETIC_POGO,1,"3,30€",1,https://de.aliexpress.com/item/1005002669709542.html,---,Select 6pin Straight
 mechanical,electronics,C7_PLUG-IN,1,"0,23€",1,https://de.aliexpress.com/item/4001252791878.html,---,
-mechanical,electronics,CABLE_C7_SWITCH,1,"9,99€",1,https://amzn.eu/60yHlQZ,---,We recommend using a cable with a switch or an adapter like this: https://de.aliexpress.com/item/1005002301827800.html
-mechanical,electronics,EPP-200-24,1,"52,30€",1,https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D,---,Meanwell EPP-220-24
-mechanical,electronics,FAN_2510,2,"10,69€",2,https://de.aliexpress.com/item/32807610078.html,---,"24V Dual Ball XH2,54"
+mechanical,electronics,CABLE_C7_SWITCH,1,"9,99€",1,https://amzn.to/3w4nDgk,https://amzn.to/3XzU6qx,We recommend using a cable with a switch or an adapter like this: https://de.aliexpress.com/item/1005002301827800.html / https://amzn.to/3XzSGfH
+mechanical,electronics,EPP-200-24,1,"52,30€",1,https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D,https://amzn.to/3WfsBS9,Meanwell EPP-220-24
+mechanical,electronics,FAN_2510,2,"10,69€",2,https://de.aliexpress.com/item/32807610078.html,https://amzn.to/3iCEaVR,"24V Dual Ball XH2,54"
 mechanical,electronics,HEATED_GLASSBED_MUON-3D,1,"45,95€",1,https://muon3d.com/products/positron-v3-transparent-heated-bed,---,Highly recomended
 mechanical,electronics,HEAT_SINK_RPI_2MM,1,"5,72€",1,https://de.aliexpress.com/item/1005004772727034.html,,2mm height
 mechanical,electronics,LED_4X_15X15,1,"0,45€",1,https://de.aliexpress.com/item/1005002674028098.html,---,Select 4Bit Rectangular
-mechanical,electronics,MOTOR_17HM08-1204S,3,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,---,
-mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://www.reichelt.de/banana-pi-m2-zero-1-2-ghz-quad-core-512-mb-ddr3-banana-pi-zero-p218297.html?PROVID=2788&gclid=CjwKCAiAwomeBhBWEiwAM43YIARZq36VRIg7-PRursEfgWff_YJSRzCyoL4evtOkE6-Srb7SY0emYxoCKLsQAvD_BwE ,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
-mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,---,
+mechanical,electronics,MOTOR_17HM08-1204S,3,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,https://amzn.to/3iEKg85,
+mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://amzn.to/3IR9ASM,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
+mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,https://amzn.to/3QKw7Tj,
 category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X14,40,"2,28€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
@@ -47,7 +47,7 @@ mechanical,fasteners,DIN_7991_M3X8,5,"1,58€",50,https://de.aliexpress.com/item
 mechanical,fasteners,DIN_912_M3X20,5,"1,48€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_912_M3X6,10,"0,78€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_934_M3,2,"1,36€",50,https://de.aliexpress.com/item/1005003106199633.html,---,
-mechanical,fasteners,M3_INSERT,18,"0,35€",50,https://de.aliexpress.com/item/1005004879644825.html,https://amzn.eu/4a0yax7,"Select M3(OD4.5mm), Length 5mm 50pcs"
+mechanical,fasteners,M3_INSERT,18,"0,35€",50,https://de.aliexpress.com/item/1005004879644825.html,https://amzn.to/3CRKrUf,"Select M3(OD4.5mm), Length 5mm 50pcs"
 mechanical,fasteners,THUMBSCREW_M6X16,1,"1,90€",2,https://de.aliexpress.com/item/1005004651298319.html,---,"Select M6 2pcs, 16mm"
 mechanical,fasteners,THUMBSCREW_M6X20,1,"2,00€",2,https://de.aliexpress.com/item/1005004651298319.html,---,"Select M6 2pcs, 20mm"
 mechanical,fasteners,WAFERHEAD_M3X10,19,"1,97€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
@@ -76,11 +76,11 @@ mechanical,motion,LEADSCREW_NUT_T5X4,1,"1,49€",1,https://www.ebay.de/itm/16568
 mechanical,motion,LEADSCREW_T5X4_L225,1,"10,15€",1,https://de.aliexpress.com/item/1005004583759873.html,https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY,"Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw!"
 mechanical,motion,MF85_BEARING,2,"0,72€",1,https://de.aliexpress.com/item/1005004881583203.html,---,Select MF85ZZ 5X8X2.5mm
 mechanical,motion,MGN12-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
-mechanical,motion,MGN12_RAIL_L225,1,"18,99€",1,https://amzn.eu/2NGfXpa,---,250mm MGN12C
+mechanical,motion,MGN12_RAIL_L225,1,"18,99€",1,https://amzn.to/3H8WS0A,---,250mm MGN12C
 mechanical,motion,MGN9-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
-mechanical,motion,MGN9_RAIL_L227,1,"20,99€",1,https://amzn.eu/760DXVj,---,250mm MGN9C
+mechanical,motion,MGN9_RAIL_L227,1,"20,99€",1,https://amzn.to/3Wfy7UH,---,250mm MGN9C
 mechanical,motion,MGW9-C_CARRIAGE,1,---,1,---,---,Mostly includet with the rails
-mechanical,motion,MGW9_RAIL_L227,1,"19,40€",1,https://www.ebay.de/itm/234306987115?var=533899872753,https://amzn.eu/d/6ZlV0k4,250mm MGW9C
+mechanical,motion,MGW9_RAIL_L227,1,"19,40€",1,https://www.ebay.de/itm/234306987115?var=533899872753,https://amzn.to/3Xxt5Uz,250mm MGW9C
 mechanical,motion,MR115_BEARING,1,"0,94€",10,https://de.aliexpress.com/item/32995122493.html,---,
 mechanical,motion,MR117_2Z_BEARING,10,"2,71€",5,https://de.aliexpress.com/item/4000891798197.html,---,Select MR117ZZ 7x11x3mm
 mechanical,motion,PULLEY_T20_LOWPROFILE,4,"0,99€",1,https://de.aliexpress.com/item/32913757229.html,---,Select 20T Bore 5mm
