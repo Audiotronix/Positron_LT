@@ -8,8 +8,10 @@ printed,,BASEPLATE_BACK_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,BEDHOLDER_CONNECTOR_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,BED_HOLDER_MAIN_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,BELT-TENSIONER_Z_V01,1,---,1,---,---,[t: --- |w: --- ]
+printed,,BOTTON_COVER_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,COVER_ROUND_V01,2,---,1,---,---,[t: --- |w: --- ]
 printed,,DISTANCE_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
+printed,,ENDCAP_BED-EXTRUSION_V01,2,---,---,---,---,[t: --- |w: --- ]
 printed,,END_HOLDER_BLOCK_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,EXTRUDER_BASEPLATE_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,LEADSCREW_NUT_MOUNT_V01,1,---,1,---,---,[t: --- |w: --- ]
@@ -21,6 +23,7 @@ printed,,PICO_MOUNT_PRE-SKETCH_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,SCREWMOUNT_BOTTOM_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,SIDE_PANEL_LEFT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,SIDE_PANEL_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
+printed,,X-RAIL_ENDCAP_V01,2,---,---,---,---,[t: --- |w: --- ]
 printed,,XY-SPACER_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,Z-BLOCK_HOLDER_V01,1,---,1,---,---,[t: --- |w: --- ]
@@ -40,7 +43,7 @@ mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/prod
 category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X4X12,2,"4,30€",5,https://de.aliexpress.com/item/1005003200850626.html,---,"Select M3 (OD 4mm), 12mm (5pcs)"
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
-mechanical,fasteners,DIN_7991_M3X14,40,"2,28€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
+mechanical,fasteners,DIN_7991_M3X14,41,"2,28€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X18,5,"2,99€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X25,5,"3,68€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X35,10,"4,72€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
@@ -49,8 +52,7 @@ mechanical,fasteners,DIN_912_M3X20,5,"1,48€",10,https://de.aliexpress.com/item
 mechanical,fasteners,DIN_912_M3X6,10,"0,78€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_934_M3,2,"1,36€",50,https://de.aliexpress.com/item/1005003106199633.html,---,
 mechanical,fasteners,M3_INSERT,18,"0,35€",50,https://de.aliexpress.com/item/1005004879644825.html,https://amzn.to/3CRKrUf,"Select M3(OD4.5mm), Length 5mm 50pcs"
-mechanical,fasteners,THUMBSCREW_M6X16,1,"1,90€",2,https://de.aliexpress.com/item/1005004651298319.html,---,"Select M6 2pcs, 16mm"
-mechanical,fasteners,THUMBSCREW_M6X20,1,"2,00€",2,https://de.aliexpress.com/item/1005004651298319.html,---,"Select M6 2pcs, 20mm"
+mechanical,fasteners,THUMBSCREW_M6X16,2,"1,90€",2,https://de.aliexpress.com/item/1005004651298319.html,---,"Select M6 2pcs, 16mm"
 mechanical,fasteners,WAFERHEAD_M3X10,19,"1,97€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 mechanical,fasteners,WAFERHEAD_M3X14,4,"2,10€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 mechanical,fasteners,WAFERHEAD_M3X20,3,"2,54€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
@@ -66,7 +68,7 @@ mechanical,makerbeam,MAKERBEAM_L230,1,->,---,https://www.makerbeam.com/makerbeam
 mechanical,makerbeam,MAKERBEAM_L240,2,->,---,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf
 mechanical,makerbeam,MAKERBEAM_L250,3,->,---,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf
 mechanical,makerbeam,MAKERBEAM_L30,1,->,---,https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/,---,You can find an optimized cutting plan here: https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf
-mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,32,"14,98€",25,https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html,---,You need 2 sets
+mechanical,makerbeam,MAKERBEAM_T-NUT_101619-1,33,"14,98€",25,https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html,---,You need 2 sets
 category_info,motion,,,---,---,---,---,
 mechanical,motion,F5-10_BEARING,2,"0,27€",1,https://de.aliexpress.com/item/4000211452548.html,---,
 mechanical,motion,F683_OPEN_BEARING-H25-,28,"2,94€",5,https://de.aliexpress.com/item/4000760591738.html,https://de.aliexpress.com/item/33044580486.html,F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open
@@ -89,6 +91,7 @@ mechanical,shims,DIN_125_M5,2,"1,48€",25,https://de.aliexpress.com/item/100500
 mechanical,shims,DIN_433_M3,12,"2,21€",100,https://de.aliexpress.com/item/4001213983709.html,---,Select 3x6x0.5
 mechanical,shims,DIN_988_7X13X02,40,"1,91€",50,https://de.aliexpress.com/item/1005002046188859.html,---,"Select 50pcs M7x13xThick, Thick 0.2mm"
 mechanical,shims,DIN_988_M3X02,8,"1,26€",50,https://de.aliexpress.com/item/1005001878233881.html,---,"Select M3x6xThick 50pcs, 0.2mm thick"
+mechanical,,BUFFER_BOTTON,4,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
+mechanical,motion,GT2_BELT-3MM_L2000MM,1,---,---,---,---,
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
-mechanical,,X-RAIL_ENDCAP,2,---,---,---,---,
