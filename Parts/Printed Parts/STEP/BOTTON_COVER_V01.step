@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'BOTTON_COVER_V01.step',
-/* time_stamp */ '2023-01-16T21:50:49+01:00',
+/* time_stamp */ '2023-01-16T22:40:15+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
@@ -1810,7 +1810,7 @@ POSITIVE_RATIO_MEASURE(7850.),#1396);
 #1775=DIRECTION('center_axis',(0.,0.,-1.));
 #1776=DIRECTION('ref_axis',(-1.,0.,0.));
 #1777=DIRECTION('center_axis',(0.,0.,-1.));
-#1778=DIRECTION('ref_axis',(-1.,1.184237892933E-14,0.));
+#1778=DIRECTION('ref_axis',(-1.,0.,0.));
 #1779=DIRECTION('center_axis',(0.,0.,1.));
 #1780=DIRECTION('ref_axis',(0.,1.,0.));
 #1781=DIRECTION('center_axis',(0.,0.,1.));

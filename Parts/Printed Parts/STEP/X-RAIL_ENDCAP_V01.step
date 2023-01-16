@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'X-RAIL_ENDCAP_V01.step',
-/* time_stamp */ '2023-01-16T21:51:08+01:00',
+/* time_stamp */ '2023-01-16T22:40:19+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
@@ -1102,7 +1102,7 @@ POSITIVE_RATIO_MEASURE(7850.),#716);
 #813=DIRECTION('ref_axis',(1.42108547152E-13,0.,-1.));
 #814=DIRECTION('',(0.,0.,-1.));
 #815=DIRECTION('center_axis',(0.,-1.,0.));
-#816=DIRECTION('ref_axis',(1.,0.,0.));
+#816=DIRECTION('ref_axis',(1.,0.,1.06581410364E-13));
 #817=DIRECTION('',(1.,0.,0.));
 #818=DIRECTION('',(0.,0.,1.));
 #819=DIRECTION('',(1.,0.,0.));

@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'MOTORBRACKET_RIGHT_V01.step',
-/* time_stamp */ '2023-01-16T21:50:56+01:00',
+/* time_stamp */ '2023-01-16T22:40:20+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
@@ -18,7 +18,7 @@ FILE_NAME(
 
 /* authorisation */ '');
 
-FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
+FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }','INTEGRATED_CNC_SCHEMA'));
 ENDSEC;
 
 DATA;

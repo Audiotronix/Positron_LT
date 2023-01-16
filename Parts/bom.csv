@@ -1,27 +1,31 @@
 type,category,cad_name,amount,price,pcs,link,alt_link,note
 printed,,BASECOVER_LEFT_V01,1,---,1,---,---,[t: --- |w: 41 ]
 printed,,BASECOVER_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
+printed,,BASEPART_BACK_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BASEPART_FRONT_V01,1,---,1,---,---,[t: --- |w: 32 ]
 printed,,BASEPART_LEFT_V01,1,---,1,---,---,[t: --- |w: 35 ]
 printed,,BASEPART_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
-printed,,BASEPLATE_BACK_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,BEDHOLDER_CONNECTOR_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,BED_HOLDER_MAIN_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,BELT-TENSIONER_Z_V01,1,---,1,---,---,[t: --- |w: --- ]
+printed,,BELT_TENSIONER_XY_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BOTTON_COVER_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,COVER_ROUND_V01,2,---,1,---,---,[t: --- |w: --- ]
+printed,,DISTANCE_LEFT_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,DISTANCE_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
-printed,,END_HOLDER_BLOCK_V01,1,---,1,---,---,[t: --- |w: 6 ]
+printed,,ENDCAP_BED-EXTRUSION_V01,2,---,---,---,---,[t: --- |w: --- ]
 printed,,EXTRUDER_BASEPLATE_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,LEADSCREW_NUT_MOUNT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,LED_INDICATOR_MOUNT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,MOTORBRACKET_LEFT_V01,1,---,1,---,---,[t: --- |w: 25 ]
 printed,,MOTORBRACKET_RIGHT_V01,1,---,1,---,---,[t: --- |w: 25 ]
-printed,,MOTORMOUNT_DISTANCE_LEFT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,PICO_MOUNT_PRE-SKETCH_V01,1,---,1,---,---,[t: --- |w: --- ]
+printed,,SCREEN_BASE,1,---,---,---,---,[t: --- |w: --- ]
+printed,,SCREEN_LID,1,---,---,---,---,[t: --- |w: --- ]
 printed,,SCREWMOUNT_BOTTOM_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,SIDE_PANEL_LEFT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,SIDE_PANEL_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
+printed,,X-RAIL_ENDCAP_V01,2,---,---,---,---,[t: --- |w: --- ]
 printed,,XY-SPACER_V01,1,---,1,---,---,[t: --- |w: 2 ]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,Z-BLOCK_HOLDER_V01,1,---,1,---,---,[t: --- |w: 999 ]
@@ -35,7 +39,6 @@ mechanical,electronics,FAN_2510,2,"10,69€",2,https://de.aliexpress.com/item/32
 mechanical,electronics,HEATED_GLASSBED_MUON-3D,1,"45,95€",1,https://muon3d.com/products/positron-v3-transparent-heated-bed,---,Highly recomended
 mechanical,electronics,HEAT_SINK_RPI_2MM,1,"5,72€",1,https://de.aliexpress.com/item/1005004772727034.html,,2mm height
 mechanical,electronics,LED_4X_15X15,1,"0,45€",1,https://de.aliexpress.com/item/1005002674028098.html,---,Select 4Bit Rectangular
-mechanical,electronics,MOTOR_17HM08-1204S,3,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,https://amzn.to/3iEKg85,"When choosing the country of origin, pay attention to the delivery costs."
 mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://amzn.to/3IR9ASM,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,https://amzn.to/3QKw7Tj,
 category_info,fasteners,,,---,---,---,---,
@@ -45,7 +48,7 @@ mechanical,fasteners,DIN_7991_M3X14,41,"2,28€",50,https://de.aliexpress.com/it
 mechanical,fasteners,DIN_7991_M3X18,5,"2,99€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X25,5,"3,68€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X35,10,"4,72€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
-mechanical,fasteners,DIN_7991_M3X8,5,"1,58€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
+mechanical,fasteners,DIN_7991_M3X8,6,"1,58€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_912_M3X20,5,"1,48€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_912_M3X6,10,"0,78€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_934_M3,2,"1,36€",50,https://de.aliexpress.com/item/1005003106199633.html,---,
@@ -56,7 +59,7 @@ mechanical,fasteners,WAFERHEAD_M3X14,4,"2,10€",20,https://de.aliexpress.com/it
 mechanical,fasteners,WAFERHEAD_M3X20,3,"2,54€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 category_info,makerbeam,,,---,---,---,---,Since Makerbeam does not sell beams with the needed length; they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  https://www.makerbeam.com/cut-and-tap-for-10x10mm.html . Either way; you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,makerbeam,DIN_34805_M3X4,4,---,25,---,---,Included with T-slot nut
-mechanical,makerbeam,DIN_7991_M3X4,2,---,25,---,---,Included with T-slot nut
+mechanical,makerbeam,DIN_7991_M3X4,3,---,25,---,---,Included with T-slot nut
 mechanical,makerbeam,MAKERBEAM-CUBE,3,"17,95€",12,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,
 mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,0,,---,Included in previous cube order.
 mechanical,makerbeam,MAKERBEAM_L-BRACKET_100304,7,"6,95€",12,https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637,---,
@@ -90,6 +93,10 @@ mechanical,shims,DIN_125_M5,2,"1,48€",25,https://de.aliexpress.com/item/100500
 mechanical,shims,DIN_433_M3,12,"2,21€",100,https://de.aliexpress.com/item/4001213983709.html,---,Select 3x6x0.5
 mechanical,shims,DIN_988_7X13X02,40,"1,91€",50,https://de.aliexpress.com/item/1005002046188859.html,---,"Select 50pcs M7x13xThick, Thick 0.2mm"
 mechanical,shims,DIN_988_M3X02,8,"1,26€",50,https://de.aliexpress.com/item/1005001878233881.html,---,"Select M3x6xThick 50pcs, 0.2mm thick"
+mechanical,,10PIN_FEMALE_CONNECTOR,1,---,---,---,---,
 mechanical,,BUFFER_BOTTON,4,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
+mechanical,electronics,MOTOR_17HS08-1004S,3,,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,https://amzn.to/3iEKg85,"When choosing the country of origin, pay attention to the delivery costs."
+mechanical,,PCB_SCREEN_ADAPTER,1,---,---,---,---,
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
+mechanical,,TFT_35,1,---,---,---,---,
