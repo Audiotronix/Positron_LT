@@ -125,10 +125,10 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [DIN_125_M5](./Mechanical%20Parts/DIN_125_M5.stl) | 2 | [link](https://de.aliexpress.com/item/1005002148389665.html) | 25 | 1,48€ | Select M5(25PCS) |
 | [DIN_433_M3](./Mechanical%20Parts/DIN_433_M3.stl) | 12 | [link](https://de.aliexpress.com/item/4001213983709.html) | 100 | 2,21€ | Select 3x6x0.5 |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://de.aliexpress.com/item/1005002046188859.html) | 50 | 1,91€ | Select 50pcs M7x13xThick, Thick 0.2mm |
+| [DIN_988_M4X02](./Mechanical%20Parts/DIN_988_M4X02.stl) | 8 | [link](https://de.aliexpress.com/item/1005001878233881.html) | 50 | 1,26€ | Select M3x6xThick 50pcs, 0.2mm thick |
 
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
-| [DIN_988_M4X02](./Mechanical%20Parts/DIN_988_M4X02.stl) | 8 | [link](https://de.aliexpress.com/item/1005001878233881.html) | 50 | 1,26€ | Select M3x6xThick 50pcs, 0.2mm thick |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 |  | --- | --- |  |
 | [SPACER_PRINTBED_WIP](./Mechanical%20Parts/SPACER_PRINTBED_WIP.stl) | 2 |  | --- | --- |  |
 | [X-RAIL_ENDCAP](./Mechanical%20Parts/X-RAIL_ENDCAP.stl) | 2 |  | --- | --- |  |
