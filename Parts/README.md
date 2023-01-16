@@ -1,7 +1,9 @@
 # The parts that make the Positron LT so great (BOM) [<sub>(back)</sub>](../../../)
 >Note: None of these parts need to be machined! Everything can be bought, some parts might need to be shortened with a saw, and some holes need to be drilled, so only basic tools are required.
 
-:exclamation: **These parts are not complete. Heatbed, Printhead and Extruder assemblies are missing.** :exclamation:
+:exclamation: **These parts are not complete. Printhead and Extruder assemblies are missing.** :exclamation:
+
+[Check if all tools are present before ordering the parts](../Assembly/)
 
 **You can also find the "bill of materials" (BOM) as a .CSV [here](./bom.csv).**
 
