@@ -7,6 +7,8 @@
 
 **You can also find the "bill of materials" (BOM) as a .CSV [here](./bom.csv).**
 
+We currently can not guarantee that all parts fit / work as expected
+
 ## [Printed Parts](./Printed%20Parts)
 
 |                      Part Name                      | STL | STEP |Amount| Print Time | Weight (g)|
