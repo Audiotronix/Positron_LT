@@ -129,14 +129,14 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 ``Price is based on the first/main link of each product``
 
 ## Total
-| Category | Total |
-| --- | --- |
-| Electronics | |
-| Fasteners | |
-| Makerbeams| |
-| Remaining Parts | |
+| Category | Total | Exact Price |
+| --- | --- | --- |
+| Electronics | 207,08€ | 207,08€ |
+| Fasteners | 31,79€ | 10,07€ |
+| Makerbeams| 54,86€ + 27,50€ | 27,71€ + 27,50€ |
+| Motion | 104,49€ | 102,08€ |
 | | |
-| Total | |
+| Total | 425,72€ | 374,44€ |
 
 
 > Note: Some links might be affiliate links!
