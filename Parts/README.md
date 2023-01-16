@@ -65,7 +65,7 @@ We currently can not guarantee that all parts fit / work as expected
 ### FASTENERS:
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
-| [DIN_7979_M3X4X10](./Mechanical%20Parts/DIN_7979_M3X4X10.stl) | 2 | [link](https://de.aliexpress.com/item/1005003200850626.html) | 5 | 4,30€ | Select M3 (OD 4mm), 12mm (5pcs) |
+| [DIN_7979_M3X4X12](./Mechanical%20Parts/DIN_7979_M3X4X12.stl) | 2 | [link](https://de.aliexpress.com/item/1005003200850626.html) | 5 | 4,30€ | Select M3 (OD 4mm), 12mm (5pcs) |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,06€ |  |
 | [DIN_7991_M3X14](./Mechanical%20Parts/DIN_7991_M3X14.stl) | 40 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,28€ |  |
 | [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | 5 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,99€ |  |
@@ -125,7 +125,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [DIN_125_M5](./Mechanical%20Parts/DIN_125_M5.stl) | 2 | [link](https://de.aliexpress.com/item/1005002148389665.html) | 25 | 1,48€ | Select M5(25PCS) |
 | [DIN_433_M3](./Mechanical%20Parts/DIN_433_M3.stl) | 12 | [link](https://de.aliexpress.com/item/4001213983709.html) | 100 | 2,21€ | Select 3x6x0.5 |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://de.aliexpress.com/item/1005002046188859.html) | 50 | 1,91€ | Select 50pcs M7x13xThick, Thick 0.2mm |
-| [DIN_988_M4X02](./Mechanical%20Parts/DIN_988_M4X02.stl) | 8 | [link](https://de.aliexpress.com/item/1005001878233881.html) | 50 | 1,26€ | Select M3x6xThick 50pcs, 0.2mm thick |
+| [DIN_988_M3X02](./Mechanical%20Parts/DIN_988_M3X02.stl) | 8 | [link](https://de.aliexpress.com/item/1005001878233881.html) | 50 | 1,26€ | Select M3x6xThick 50pcs, 0.2mm thick |
 
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
