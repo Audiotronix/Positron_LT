@@ -11,31 +11,35 @@ We currently can not guarantee that all parts fit / work as expected
 
 ## [Printed Parts](./Printed%20Parts)
 
-|                      Part Name                      | STL | STEP |Amount| Print Time | Weight (g)|
+|                   Part Name                   | STL | STEP |Amount| Print Time | Weight (g)|
 | --- | --- | --- | --- | --- | --- |
 | BASECOVER_LEFT_V01 | [STL](./Printed%20Parts/STL/BASECOVER_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT_V01.step) | 1 |  ---  |  41  |
 | BASECOVER_RIGHT_V01 | [STL](./Printed%20Parts/STL/BASECOVER_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_RIGHT_V01.step) | 1 |  ---  |  ---  |
+| BASEPART_BACK_V01 | [STL](./Printed%20Parts/STL/BASEPART_BACK_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_BACK_V01.step) | 1 |  ---  |  ---  |
 | BASEPART_FRONT_V01 | [STL](./Printed%20Parts/STL/BASEPART_FRONT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_FRONT_V01.step) | 1 |  ---  |  32  |
 | BASEPART_LEFT_V01 | [STL](./Printed%20Parts/STL/BASEPART_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_LEFT_V01.step) | 1 |  ---  |  35  |
 | BASEPART_RIGHT_V01 | [STL](./Printed%20Parts/STL/BASEPART_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPART_RIGHT_V01.step) | 1 |  ---  |  ---  |
-| BASEPLATE_BACK_V01 | [STL](./Printed%20Parts/STL/BASEPLATE_BACK_V01.stl) | [STEP](./Printed%20Parts/STEP/BASEPLATE_BACK_V01.step) | 1 |  ---  |  ---  |
 | BEDHOLDER_CONNECTOR_V01 | [STL](./Printed%20Parts/STL/BEDHOLDER_CONNECTOR_V01.stl) | [STEP](./Printed%20Parts/STEP/BEDHOLDER_CONNECTOR_V01.step) | 1 |  ---  |  ---  |
 | BED_HOLDER_MAIN_V01 | [STL](./Printed%20Parts/STL/BED_HOLDER_MAIN_V01.stl) | [STEP](./Printed%20Parts/STEP/BED_HOLDER_MAIN_V01.step) | 1 |  ---  |  ---  |
 | BELT-TENSIONER_Z_V01 | [STL](./Printed%20Parts/STL/BELT-TENSIONER_Z_V01.stl) | [STEP](./Printed%20Parts/STEP/BELT-TENSIONER_Z_V01.step) | 1 |  ---  |  ---  |
+| BELT_TENSIONER_XY_V01 | [STL](./Printed%20Parts/STL/BELT_TENSIONER_XY_V01.stl) | [STEP](./Printed%20Parts/STEP/BELT_TENSIONER_XY_V01.step) | 1 |  ---  |  ---  |
 | BOTTON_COVER_V01 | [STL](./Printed%20Parts/STL/BOTTON_COVER_V01.stl) | [STEP](./Printed%20Parts/STEP/BOTTON_COVER_V01.step) | 1 |  ---  |  ---  |
 | COVER_ROUND_V01 | [STL](./Printed%20Parts/STL/COVER_ROUND_V01.stl) | [STEP](./Printed%20Parts/STEP/COVER_ROUND_V01.step) | 2 |  ---  |  ---  |
+| DISTANCE_LEFT_V01 | [STL](./Printed%20Parts/STL/DISTANCE_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/DISTANCE_LEFT_V01.step) | 1 |  ---  |  ---  |
 | DISTANCE_RIGHT_V01 | [STL](./Printed%20Parts/STL/DISTANCE_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/DISTANCE_RIGHT_V01.step) | 1 |  ---  |  ---  |
-| END_HOLDER_BLOCK_V01 | [STL](./Printed%20Parts/STL/END_HOLDER_BLOCK_V01.stl) | [STEP](./Printed%20Parts/STEP/END_HOLDER_BLOCK_V01.step) | 1 |  ---  |  6  |
+| ENDCAP_BED-EXTRUSION_V01 | [STL](./Printed%20Parts/STL/ENDCAP_BED-EXTRUSION_V01.stl) | [STEP](./Printed%20Parts/STEP/ENDCAP_BED-EXTRUSION_V01.step) | 2 |  ---  |  ---  |
 | EXTRUDER_BASEPLATE_V01 | [STL](./Printed%20Parts/STL/EXTRUDER_BASEPLATE_V01.stl) | [STEP](./Printed%20Parts/STEP/EXTRUDER_BASEPLATE_V01.step) | 1 |  ---  |  ---  |
 | LEADSCREW_NUT_MOUNT_V01 | [STL](./Printed%20Parts/STL/LEADSCREW_NUT_MOUNT_V01.stl) | [STEP](./Printed%20Parts/STEP/LEADSCREW_NUT_MOUNT_V01.step) | 1 |  ---  |  ---  |
 | LED_INDICATOR_MOUNT_V01 | [STL](./Printed%20Parts/STL/LED_INDICATOR_MOUNT_V01.stl) | [STEP](./Printed%20Parts/STEP/LED_INDICATOR_MOUNT_V01.step) | 1 |  ---  |  ---  |
 | MOTORBRACKET_LEFT_V01 | [STL](./Printed%20Parts/STL/MOTORBRACKET_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_LEFT_V01.step) | 1 |  ---  |  25  |
 | MOTORBRACKET_RIGHT_V01 | [STL](./Printed%20Parts/STL/MOTORBRACKET_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/MOTORBRACKET_RIGHT_V01.step) | 1 |  ---  |  25  |
-| MOTORMOUNT_DISTANCE_LEFT_V01 | [STL](./Printed%20Parts/STL/MOTORMOUNT_DISTANCE_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/MOTORMOUNT_DISTANCE_LEFT_V01.step) | 1 |  ---  |  ---  |
 | PICO_MOUNT_PRE-SKETCH_V01 | [STL](./Printed%20Parts/STL/PICO_MOUNT_PRE-SKETCH_V01.stl) | [STEP](./Printed%20Parts/STEP/PICO_MOUNT_PRE-SKETCH_V01.step) | 1 |  ---  |  ---  |
+| SCREEN_BASE | [STL](./Printed%20Parts/STL/SCREEN_BASE.stl) | [STEP](./Printed%20Parts/STEP/SCREEN_BASE.step) | 1 |  ---  |  ---  |
+| SCREEN_LID | [STL](./Printed%20Parts/STL/SCREEN_LID.stl) | [STEP](./Printed%20Parts/STEP/SCREEN_LID.step) | 1 |  ---  |  ---  |
 | SCREWMOUNT_BOTTOM_V01 | [STL](./Printed%20Parts/STL/SCREWMOUNT_BOTTOM_V01.stl) | [STEP](./Printed%20Parts/STEP/SCREWMOUNT_BOTTOM_V01.step) | 1 |  ---  |  ---  |
 | SIDE_PANEL_LEFT_V01 | [STL](./Printed%20Parts/STL/SIDE_PANEL_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_LEFT_V01.step) | 1 |  ---  |  ---  |
 | SIDE_PANEL_RIGHT_V01 | [STL](./Printed%20Parts/STL/SIDE_PANEL_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/SIDE_PANEL_RIGHT_V01.step) | 1 |  ---  |  ---  |
+| X-RAIL_ENDCAP_V01 | [STL](./Printed%20Parts/STL/X-RAIL_ENDCAP_V01.stl) | [STEP](./Printed%20Parts/STEP/X-RAIL_ENDCAP_V01.step) | 2 |  ---  |  ---  |
 | XY-SPACER_V01 | [STL](./Printed%20Parts/STL/XY-SPACER_V01.stl) | [STEP](./Printed%20Parts/STEP/XY-SPACER_V01.step) | 1 |  ---  |  2  |
 | Z-AXIS-ENDSTOP_V01 | [STL](./Printed%20Parts/STL/Z-AXIS-ENDSTOP_V01.stl) | [STEP](./Printed%20Parts/STEP/Z-AXIS-ENDSTOP_V01.step) | 1 |  ---  |  ---  |
 | Z-BLOCK_HOLDER_V01 | [STL](./Printed%20Parts/STL/Z-BLOCK_HOLDER_V01.stl) | [STEP](./Printed%20Parts/STEP/Z-BLOCK_HOLDER_V01.step) | 1 |  ---  |  999  |
@@ -48,7 +52,7 @@ We currently can not guarantee that all parts fit / work as expected
 ## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     | PCS  | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [10PIN_EXP_MALE_1](./Mechanical%20Parts/10PIN_EXP_MALE_1.stl) | 1 | [link](https://de.aliexpress.com/item/33029492417.html) / [link](https://amzn.to/3XzUQMl) | 1 | 1,12€ | Select 2x5 10pin |
 | [6_PIN_MAGNETIC_POGO](./Mechanical%20Parts/6_PIN_MAGNETIC_POGO.stl) | 1 | [link](https://de.aliexpress.com/item/1005002669709542.html) | 1 | 3,30€ | Select 6pin Straight |
@@ -59,12 +63,12 @@ We currently can not guarantee that all parts fit / work as expected
 | [HEATED_GLASSBED_MUON-3D](./Mechanical%20Parts/HEATED_GLASSBED_MUON-3D.stl) | 1 | [link](https://muon3d.com/products/positron-v3-transparent-heated-bed) | 1 | 45,95€ | Highly recomended |
 | [HEAT_SINK_RPI_2MM](./Mechanical%20Parts/HEAT_SINK_RPI_2MM.stl) | 1 | [link](https://de.aliexpress.com/item/1005004772727034.html) | 1 | 5,72€ | 2mm height |
 | [LED_4X_15X15](./Mechanical%20Parts/LED_4X_15X15.stl) | 1 | [link](https://de.aliexpress.com/item/1005002674028098.html) | 1 | 0,45€ | Select 4Bit Rectangular |
-| [MOTOR_17HM08-1204S](./Mechanical%20Parts/MOTOR_17HM08-1204S.stl) | 3 | [link](https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s) / [link](https://amzn.to/3iEKg85) | 1 | 8,28€ | When choosing the country of origin, pay attention to the delivery costs. |
+| [MOTOR_17HS08-1004S](./Mechanical%20Parts/MOTOR_17HS08-1004S.stl) | 3 | [link](1) / [link](https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s) | 8,28€ |  | [link](https://amzn.to/3iEKg85) |
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) / [link](https://amzn.to/3IR9ASM) | 1 | 22,50€ | You can also use an Bananapi Pi M2 Zero as substituion: [link](https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd) |
 | [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | 1 | [link](https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE) / [link](https://amzn.to/3QKw7Tj) | 1 | 29,99€ |  |
 
 ### FASTENERS:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     | PCS  | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_7979_M3X4X12](./Mechanical%20Parts/DIN_7979_M3X4X12.stl) | 2 | [link](https://de.aliexpress.com/item/1005003200850626.html) | 5 | 4,30€ | Select M3 (OD 4mm), 12mm (5pcs) |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,06€ |  |
@@ -72,7 +76,7 @@ We currently can not guarantee that all parts fit / work as expected
 | [DIN_7991_M3X18](./Mechanical%20Parts/DIN_7991_M3X18.stl) | 5 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 2,99€ |  |
 | [DIN_7991_M3X25](./Mechanical%20Parts/DIN_7991_M3X25.stl) | 5 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 3,68€ |  |
 | [DIN_7991_M3X35](./Mechanical%20Parts/DIN_7991_M3X35.stl) | 10 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 4,72€ |  |
-| [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | 5 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 1,58€ |  |
+| [DIN_7991_M3X8](./Mechanical%20Parts/DIN_7991_M3X8.stl) | 6 | [link](https://de.aliexpress.com/item/1005003107985358.html) | 50 | 1,58€ |  |
 | [DIN_912_M3X20](./Mechanical%20Parts/DIN_912_M3X20.stl) | 5 | [link](https://de.aliexpress.com/item/1005003106092326.html) | 10 | 1,48€ |  |
 | [DIN_912_M3X6](./Mechanical%20Parts/DIN_912_M3X6.stl) | 10 | [link](https://de.aliexpress.com/item/1005003106092326.html) | 10 | 0,78€ |  |
 | [DIN_934_M3](./Mechanical%20Parts/DIN_934_M3.stl) | 2 | [link](https://de.aliexpress.com/item/1005003106199633.html) | 50 | 1,36€ |  |
@@ -84,10 +88,10 @@ We currently can not guarantee that all parts fit / work as expected
 
 ### MAKERBEAM:
 Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) . Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png)
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     | PCS  | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 |  | 25 | --- | Included with T-slot nut |
-| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 2 |  | 25 | --- | Included with T-slot nut |
+| [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 |  | 25 | --- | Included with T-slot nut |
 | [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 12 | 17,95€ |  |
 | [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | 1 |  | 0 | --- | Included in previous cube order. |
 | [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | 7 | [link](https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637) | 12 | 6,95€ |  |
@@ -100,7 +104,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | 33 | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) | 25 | 14,98€ | You need 2 sets |
 
 ### MOTION:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     | PCS  | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | [link](https://de.aliexpress.com/item/4000211452548.html) | 1 | 0,27€ |  |
 | [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://de.aliexpress.com/item/4000760591738.html) / [link](https://de.aliexpress.com/item/33044580486.html) | 5 | 2,94€ | F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open |
@@ -121,18 +125,21 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://de.aliexpress.com/item/32913757229.html) | 1 | 0,99€ | Select 20T Bore 5mm |
 
 ### SHIMS:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     | PCS  | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_125_M5](./Mechanical%20Parts/DIN_125_M5.stl) | 2 | [link](https://de.aliexpress.com/item/1005002148389665.html) | 25 | 1,48€ | Select M5(25PCS) |
 | [DIN_433_M3](./Mechanical%20Parts/DIN_433_M3.stl) | 12 | [link](https://de.aliexpress.com/item/4001213983709.html) | 100 | 2,21€ | Select 3x6x0.5 |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://de.aliexpress.com/item/1005002046188859.html) | 50 | 1,91€ | Select 50pcs M7x13xThick, Thick 0.2mm |
 | [DIN_988_M3X02](./Mechanical%20Parts/DIN_988_M3X02.stl) | 8 | [link](https://de.aliexpress.com/item/1005001878233881.html) | 50 | 1,26€ | Select M3x6xThick 50pcs, 0.2mm thick |
 
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     | PCS  | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
+| [10PIN_FEMALE_CONNECTOR](./Mechanical%20Parts/10PIN_FEMALE_CONNECTOR.stl) | 1 |  | --- | --- |  |
 | [BUFFER_BOTTON](./Mechanical%20Parts/BUFFER_BOTTON.stl) | 4 |  | --- | --- |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 |  | --- | --- |  |
+| [PCB_SCREEN_ADAPTER](./Mechanical%20Parts/PCB_SCREEN_ADAPTER.stl) | 1 |  | --- | --- |  |
 | [SPACER_PRINTBED_WIP](./Mechanical%20Parts/SPACER_PRINTBED_WIP.stl) | 2 |  | --- | --- |  |
+| [TFT_35](./Mechanical%20Parts/TFT_35.stl) | 1 |  | --- | --- |  |
 
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
