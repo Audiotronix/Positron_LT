@@ -38,7 +38,7 @@ mechanical,electronics,MOTOR_17HM08-1204S,3,"8,28€",1,https://www.omc-steppero
 mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://amzn.to/3IR9ASM,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,https://amzn.to/3QKw7Tj,
 category_info,fasteners,,,---,---,---,---,
-mechanical,fasteners,DIN_7979_M3X4X10,2,"4,30€",5,https://de.aliexpress.com/item/1005003200850626.html,---,"Select M3 (OD 4mm), 12mm (5pcs)"
+mechanical,fasteners,DIN_7979_M3X4X12,2,"4,30€",5,https://de.aliexpress.com/item/1005003200850626.html,---,"Select M3 (OD 4mm), 12mm (5pcs)"
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X14,40,"2,28€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X18,5,"2,99€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
@@ -88,7 +88,7 @@ category_info,shims,,,---,---,---,---,
 mechanical,shims,DIN_125_M5,2,"1,48€",25,https://de.aliexpress.com/item/1005002148389665.html,---,Select M5(25PCS)
 mechanical,shims,DIN_433_M3,12,"2,21€",100,https://de.aliexpress.com/item/4001213983709.html,---,Select 3x6x0.5
 mechanical,shims,DIN_988_7X13X02,40,"1,91€",50,https://de.aliexpress.com/item/1005002046188859.html,---,"Select 50pcs M7x13xThick, Thick 0.2mm"
-mechanical,shims,DIN_988_M4X02,8,"1,26€",50,https://de.aliexpress.com/item/1005001878233881.html,---,"Select M3x6xThick 50pcs, 0.2mm thick"
+mechanical,shims,DIN_988_M3X02,8,"1,26€",50,https://de.aliexpress.com/item/1005001878233881.html,---,"Select M3x6xThick 50pcs, 0.2mm thick"
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
 mechanical,,X-RAIL_ENDCAP,2,---,---,---,---,
