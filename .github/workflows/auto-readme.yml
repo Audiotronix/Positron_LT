@@ -1,5 +1,5 @@
 name: auto-readme
-on: push
+on: manual
 jobs:
   readme:
     runs-on: ubuntu-latest
