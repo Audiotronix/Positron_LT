@@ -4,8 +4,16 @@ jobs:
   freecad_test:
     runs-on: ubuntu-latest
     steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
       - name: Install freecad
         run: |
           sudo add-apt-repository -y ppa:freecad-maintainers/freecad-stable
           sudo apt-get update
           sudo apt-get install -y freecad-python3
+      - name: explode step
+        run: python ./.github/workflows/explode_cad.py
