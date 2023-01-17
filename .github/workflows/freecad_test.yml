@@ -1,0 +1,14 @@
+name: freecad_test
+on: push
+jobs:
+  freecad_test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Format BOM
+        run: sudo apt-get install freecad
