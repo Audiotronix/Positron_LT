@@ -1,5 +1,5 @@
 name: freecad test
-on: push
+on: [workflow_dispatch]
 jobs:
   freecad_test:
     runs-on: ubuntu-latest
