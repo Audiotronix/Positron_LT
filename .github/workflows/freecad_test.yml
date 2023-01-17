@@ -1,0 +1,8 @@
+name: freecad test
+on: push
+jobs:
+  freecad_test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install freecad
+        run: ./.github/workflows/freecad.bash
