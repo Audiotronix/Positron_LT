@@ -4,7 +4,7 @@ jobs:
   freecad_test:
     runs-on: ubuntu-latest
     steps:
+      - name: update
+        run: apt-get update
       - name: Install freecad
-        run: |
-        apt-get update
-        sudo apt-get install freecad
+        run: sudo apt-get install freecad
