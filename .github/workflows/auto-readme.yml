@@ -1,5 +1,5 @@
 name: auto-readme
-on: manual
+on: [workflow_dispatch]
 jobs:
   readme:
     runs-on: ubuntu-latest
