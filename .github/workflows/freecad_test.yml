@@ -1,8 +1,0 @@
-name: freecad_test
-on: push
-jobs:
-  freecad_test:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Install freecad
-        run: sudo apt-get install freecad --fix-missing
