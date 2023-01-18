@@ -1,5 +1,8 @@
 name: auto-readme
-on: push
+on:
+  push:
+    paths:
+        - Parts/bom.csv
 jobs:
   readme:
     runs-on: ubuntu-latest
