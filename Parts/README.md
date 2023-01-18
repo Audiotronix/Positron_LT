@@ -1,7 +1,7 @@
 # The parts that make the Positron LT so great (BOM) [<sub>(back)</sub>](../../../)
 >Note: None of these parts need to be machined! Everything can be bought, some parts might need to be shortened with a saw, and some holes need to be drilled, so only basic tools are required.
 
-| [BOM as .CSV](/bom.csv) | [Required Tools](../Assembly/#required-tools) | [Filaments](./Printed%20Parts#recommended-filaments) |
+| [BOM as .CSV](./bom.csv) | [Required Tools](../Assembly/#required-tools) | [Filaments](./Printed%20Parts#recommended-filaments) |
 | --- | --- | --- |
 
 :exclamation: **These parts are not complete. Printhead and Extruder assemblies are missing.** :exclamation:
