@@ -4,7 +4,7 @@
 
 # Positron LT
 
-<img src="https://user-images.githubusercontent.com/35639879/211760379-3e9ea957-46ea-49e6-94e3-4d412e4e3aec.png" width="350" height="350">
+<img src="https://user-images.githubusercontent.com/35639879/213271292-8dee41b2-8bbe-4148-a9ee-8af22a739404.gif" width="350" height="350">!
 
 | **Navigation:**| [All Parts (BOM)](/Parts) | [Assembly](/Assembly) | [Software](/Software) | [Gallery](/Gallery) | 
 | --- | --- | --- | --- | --- |
