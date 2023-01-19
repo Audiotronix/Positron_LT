@@ -15,9 +15,18 @@ The Positron-LT is a printer made for everyone, especially hobbyists and profess
 This Printer is a [RepRap](https://reprap.org/wiki/RepRap) version based on the innovative [Positron V3 Pinter](https://github.com/KRALYN/PositronV3) formfactor and motion-system which was created by [KRALYN](https://github.com/KRALYN/PositronV3).
 **It can still be taken apart and folded so that it fits into a filament carton!**
 
-# Advantages 
+<br>
+
+## LT
+**LT** stands for **L**igh**T** 
+Since the printer is made of printed parts instead of machined parts, it is lighter than the original Positron V3. 
+Lighter to source
+Lighter to build
+Lighter to transport
 
 <br>
+
+## Advantages 
 
 - No Machined Part
 -	All mechanical parts can be sourced on websites like AliExpress, Amazon or your local hardware store.
@@ -31,31 +40,23 @@ This Printer is a [RepRap](https://reprap.org/wiki/RepRap) version based on the 
 
 <br>
 
-### RepRap
-RepRap means that most parts of the printer can be printed and nothing needs to be machined. Only basic tools like a drill or a saw are needed. All other parts are readily available and can be bought online or might even be available in a hardware store.
-
-<br>
-
-### LT
-**LT** stands for **L**igh**T** 
-Since the printer is made of printed parts instead of machined parts, it is lighter than the original Positron V3. 
-Lighter to source
-Lighter to build
-Lighter to transport
-
-<br>
-
 ## specs
 
-	Max Print Speed: 250mm/s (under investigation)
-	Max Travel Speed: 350mm/s (under investigation)
-	Acceleration: 9800mm/s^2 (under investigation)
-	Build Volume: 180x180x180mm
-	Weight: 2300-2500g (with integrated PSU)
-	Hotend max temp: 250C
-	Build Plate Max temp: 80-100C
-	Power supply: 24V; 200W
-	Footprint: ~200mmx200mm
+-	Max Print Speed: 250mm/s (under investigation)
+-	Max Travel Speed: 350mm/s (under investigation)
+-	Acceleration: 9800mm/s^2 (under investigation)
+-	Build Volume: 180x180x180mm
+-	Weight: 2300-2500g (with integrated PSU)
+-	Hotend max temp: 250C
+-	Build Plate Max temp: 80-100C
+-	Power supply: 24V; 200W
+-	Footprint: ~200mmx200mm
+
+<br>
+
+# RepRap
+RepRap means that most parts of the printer can be printed and nothing needs to be machined. Only basic tools like a drill or a saw are needed. All other parts are readily available and can be bought online or might even be available in a hardware store.
+
 
 
 <br>
