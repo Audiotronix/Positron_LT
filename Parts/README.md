@@ -5,6 +5,7 @@
 | --- | --- | --- | --- |
 
 :exclamation: **These parts are not complete. Printhead and Extruder assemblies may be missing or are in Work.** :exclamation:
+
 :exclamation: **There are various Display types available. please make sure you are using the right one** :exclamation:
 
 We currently can not guarantee that all parts fit / work as expected
