@@ -8,6 +8,7 @@ printed,,BASEPART_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,BEDHOLDER_CONNECTOR_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,BED_HOLDER_MAIN_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,BELT-TENSIONER_Z_V01,1,---,1,---,---,[t: --- |w: --- ]
+printed,,BELT_CONNECTOR_V01_WIP,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BELT_TENSIONER_XY_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,BOTTON_COVER_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,COVER_ROUND_V01,2,---,1,---,---,[t: --- |w: --- ]
@@ -15,13 +16,14 @@ printed,,DISTANCE_LEFT_V01,1,---,---,---,---,[t: --- |w: --- ]
 printed,,DISTANCE_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,ENDCAP_BED-EXTRUSION_V01,2,---,---,---,---,[t: --- |w: --- ]
 printed,,EXTRUDER_BASEPLATE_V01,1,---,1,---,---,[t: --- |w: --- ]
+printed,,INTERCONNECT_V02_WIP,1,---,---,---,---,[t: --- |w: --- ]
 printed,,LEADSCREW_NUT_MOUNT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,LED_INDICATOR_MOUNT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,MOTORBRACKET_LEFT_V01,1,---,1,---,---,[t: --- |w: 25 ]
 printed,,MOTORBRACKET_RIGHT_V01,1,---,1,---,---,[t: --- |w: 25 ]
 printed,,PICO_MOUNT_PRE-SKETCH_V01,1,---,1,---,---,[t: --- |w: --- ]
-printed,,SCREEN_BASE,1,---,---,---,---,[t: --- |w: --- ]
-printed,,SCREEN_LID,1,---,---,---,---,[t: --- |w: --- ]
+printed,,SCREEN_BASE_V01_WIP,1,---,---,---,---,[t: --- |w: --- ]
+printed,,SCREEN_LID_V01_WIP,1,---,---,---,---,[t: --- |w: --- ]
 printed,,SCREWMOUNT_BOTTOM_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,SIDE_PANEL_LEFT_V01,1,---,1,---,---,[t: --- |w: --- ]
 printed,,SIDE_PANEL_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- ]
@@ -46,17 +48,17 @@ category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X4X12,2,"4,30€",5,https://de.aliexpress.com/item/1005003200850626.html,---,"Select M3 (OD 4mm), 12mm (5pcs)"
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X14,41,"2,28€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
-mechanical,fasteners,DIN_7991_M3X18,5,"2,99€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
-mechanical,fasteners,DIN_7991_M3X25,5,"3,68€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
-mechanical,fasteners,DIN_7991_M3X35,10,"4,72€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
-mechanical,fasteners,DIN_7991_M3X8,6,"1,58€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
+mechanical,fasteners,DIN_7991_M3X18,6,"2,99€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
+mechanical,fasteners,DIN_7991_M3X25,6,"3,68€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
+mechanical,fasteners,DIN_7991_M3X35,12,"4,72€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
+mechanical,fasteners,DIN_7991_M3X8,8,"1,58€",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_912_M3X20,5,"1,48€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_912_M3X6,10,"0,78€",10,https://de.aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_934_M3,2,"1,36€",50,https://de.aliexpress.com/item/1005003106199633.html,---,
-mechanical,fasteners,M3_INSERT,18,"0,35€",50,https://de.aliexpress.com/item/1005004879644825.html,https://amzn.to/3CRKrUf,"Select M3(OD4.5mm), Length 5mm 50pcs"
-mechanical,fasteners,THUMBSCREW_M6X16,2,"1,90€",2,https://de.aliexpress.com/item/1005004651298319.html,---,"Select M6 2pcs, 16mm"
+mechanical,fasteners,M3_INSERT,23,"0,35€",50,https://de.aliexpress.com/item/1005004879644825.html,https://amzn.to/3CRKrUf,"Select M3(OD4.5mm), Length 5mm 50pcs"
+mechanical,fasteners,THUMBSCREW_M6X16,1,"1,90€",2,https://de.aliexpress.com/item/1005004651298319.html,---,"Select M6 2pcs, 16mm"
 mechanical,fasteners,WAFERHEAD_M3X10,19,"1,97€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
-mechanical,fasteners,WAFERHEAD_M3X14,4,"2,10€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
+mechanical,fasteners,WAFERHEAD_M3X14,6,"2,10€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 mechanical,fasteners,WAFERHEAD_M3X20,3,"2,54€",20,https://de.aliexpress.com/item/1005004510664424.html,---,
 category_info,makerbeam,,,---,---,---,---,Since Makerbeam does not sell beams with the needed length; they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  https://www.makerbeam.com/cut-and-tap-for-10x10mm.html . Either way; you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png
 mechanical,makerbeam,DIN_34805_M3X4,4,---,25,---,---,Included with T-slot nut
@@ -95,9 +97,18 @@ mechanical,shims,DIN_433_M3,12,"2,21€",100,https://de.aliexpress.com/item/4001
 mechanical,shims,DIN_988_7X13X02,40,"1,91€",50,https://de.aliexpress.com/item/1005002046188859.html,---,"Select 50pcs M7x13xThick, Thick 0.2mm"
 mechanical,shims,DIN_988_M3X02,8,"1,26€",50,https://de.aliexpress.com/item/1005001878233881.html,---,"Select M3x6xThick 50pcs, 0.2mm thick"
 mechanical,,10PIN_FEMALE_CONNECTOR,1,---,---,---,---,
+mechanical,,30MM_FAN_MOCKUP_3010_V5_V1_1,1,---,---,---,---,
 mechanical,,ANGLED_EXTRUDER_MOD,1,---,---,---,---,
 mechanical,,BUFFER_BOTTON,4,---,---,---,---,
+mechanical,,CAPRICORN_PTFE_TUBE_1,1,---,---,---,---,
+mechanical,,DIN_7991_M3X16,4,---,---,---,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
+mechanical,,FAN_5015,1,---,---,---,---,
+mechanical,,HEATER_CARTRIGE_1,1,---,---,---,---,
+mechanical,,HOTEND_COMPLETE,1,---,---,---,---,
+mechanical,,M3X4,2,---,---,---,---,
+mechanical,,MINI_IR_SENSOR,1,---,---,---,---,
 mechanical,,PCB_SCREEN_ADAPTER,1,---,---,---,---,
+mechanical,,SILICONE_SOCK_1,1,---,---,---,---,
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
 mechanical,,TFT_35,1,---,---,---,---,
