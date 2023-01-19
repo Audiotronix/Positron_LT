@@ -1,11 +1,12 @@
 # The parts that make the Positron LT so great (BOM) [<sub>(back)</sub>](../../../)
 >Note: None of these parts need to be machined! Everything can be bought, some parts might need to be shortened with a saw, and some holes need to be drilled, so only basic tools are required.
 
-:exclamation: **These parts are not complete. Printhead and Extruder assemblies are missing.** :exclamation:
+| [BOM as .CSV](./bom.csv) | [Required Tools](../Assembly/#required-tools) | [Recommended Filaments](./Printed%20Parts#recommended-filaments) | [Download PrintParts](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fliens/Positron_LT/tree/main/Parts/Printed%20Parts&fileName=Printed_Parts) |
+| --- | --- | --- | --- |
 
-[Check if all tools are present before ordering the parts](../Assembly/)
+:exclamation: **These parts are not complete. Printhead and Extruder assemblies may be missing or are in Work.** :exclamation:
 
-**You can also find the "bill of materials" (BOM) as a .CSV [here](./bom.csv).**
+:exclamation: **There are various Display types available. please make sure you are using the right one** :exclamation:
 
 We currently can not guarantee that all parts fit / work as expected
 
@@ -87,7 +88,7 @@ We currently can not guarantee that all parts fit / work as expected
 | [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | 3 | [link](https://de.aliexpress.com/item/1005004510664424.html) | 20 | 2,54€ |  |
 
 ### MAKERBEAM:
-Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) . Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/MakerbeamCuts.png)
+Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) . Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf)
 |                    Part Name                    |CAD|      Link     | PCS  | Price |                                                            Note                                                            |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 4 |  | 25 | --- | Included with T-slot nut |

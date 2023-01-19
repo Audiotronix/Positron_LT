@@ -1,7 +1,10 @@
-name: auto-readme
-on: push
+name: AutoFormat
+on:
+  push:
+    paths:
+        - Parts/bom.csv
 jobs:
-  readme:
+  AutoFormat:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content

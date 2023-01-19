@@ -1,5 +1,8 @@
 # Printing the Positron LT parts
->Note: These are suggestions, I designed the LT with these in mind but other settings might work aswell. The Design based on an 0.4mm Nozzle
+| [Download 3D Files](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fliens/Positron_LT/tree/main/Parts/Printed%20Parts&fileName=Printed_Parts) |
+| --- |
+
+>Note: These are suggestions, I designed the LT with these in mind but other settings might work aswell. The Design is based on an 0.4mm Nozzle
 
 ## Recommended Filaments:
 
