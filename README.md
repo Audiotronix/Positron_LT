@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/35639879/213271292-8dee41b2-8bbe-4148-a9ee-8af22a739404.gif" width="350" height="350">
 
-| **Navigation:**| [All Parts (BOM)](/Parts) | [Assembly](/Assembly) | [Software](/Software) | [Gallery](/Gallery) | [Download Repo](https://github.com/Fliens/Positron_LT/archive/refs/heads/main.zip)
+| **Navigation:**| [All Parts (BOM)](/Parts) | [Assembly](/Assembly) | [Software](/Software) | [Gallery](/Gallery) | [Download Repo](../../archive/refs/heads/main.zip)
 | --- | --- | --- | --- | --- | --- |
 
 <br>
