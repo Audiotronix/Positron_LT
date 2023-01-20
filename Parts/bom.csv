@@ -5,7 +5,7 @@ printed,,BASEPART_BACK_V01,1,---,---,---,---,[t: --- |w: --- |s: No supports nee
 printed,,BASEPART_FRONT_V01,1,---,1,---,---,[t: --- |w: 32 |s: No supports needed |]
 printed,,BASEPART_LEFT_V01,1,---,1,---,---,[t: --- |w: 35 |s: Supports on build plate only |]
 printed,,BASEPART_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- |s: Supports on build plate only |]
-printed,,BEDHOLDER_CONNECTOR_V01,1,---,1,---,---,[t: --- |w: --- |s: --- |]
+printed,,BEDHOLDER_CONNECTOR_V01,1,---,1,---,---,[t: --- |w: --- |s: No supports needed |]
 printed,,BED_HOLDER_MAIN_V01,1,---,1,---,---,[t: --- |w: --- |s: Supports on build plate only |]
 printed,,BELT-TENSIONER_Z_V01,1,---,1,---,---,[t: --- |w: --- |s: No supports needed |]
 printed,,BELT_CONNECTOR_V01_WIP,1,---,---,---,---,[t: --- |w: --- |s: --- |]
@@ -29,7 +29,7 @@ printed,,SIDE_PANEL_LEFT_V01,1,---,1,---,---,[t: --- |w: --- |s: No supports nee
 printed,,SIDE_PANEL_RIGHT_V01,1,---,1,---,---,[t: --- |w: --- |s: No supports needed |]
 printed,,X-RAIL_ENDCAP_V01,2,---,---,---,---,[t: --- |w: --- |s: No supports needed |]
 printed,,XY-SPACER_V01,1,---,1,---,---,[t: --- |w: 2 |s: No supports needed |]
-printed,,Z-AXIS-ENDSTOP_V01,1,---,1,---,---,[t: --- |w: --- |s: --- |]
+printed,,Z-AXIS-ENDSTOP_V01,1,---,1,---,---,[t: --- |w: --- |s: Supports on build plate only |]
 printed,,Z-BLOCK_HOLDER_V01,1,---,1,---,---,[t: --- |w: 999 |s: No supports needed |]
 category_info,electronics,,,---,---,---,---,
 mechanical,electronics,10PIN_EXP_MALE_1,1,"1,12€",1,https://aliexpress.com/item/33029492417.html,https://amzn.to/3XzUQMl,Select 2x5 10pin
@@ -84,7 +84,7 @@ category_info,motion,,,---,---,---,---,
 mechanical,motion,F5-10_BEARING,2,"0,27€",1,https://aliexpress.com/item/4000211452548.html,---,
 mechanical,motion,F683_OPEN_BEARING-H25-,28,"2,94€",5,https://aliexpress.com/item/4000760591738.html,https://aliexpress.com/item/33044580486.html,F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open
 mechanical,motion,GT2_16T_IDLER_SMOOTH,1,"0,55€",1,https://aliexpress.com/item/32971394035.html,---,Select 16T W6 B3 Without T
-mechanical,motion,GT2_BELT-3MM_L2000MM,1,---,---,---,---,
+mechanical,motion,GT2_BELT-3MM_L2000MM,1,"5,00€",1,https://www.ebay.de/itm/283457733982?var=585183190920,---,Select x 2m (Y32)
 mechanical,motion,GT2_BELT-6MM_L178MM,1,"1,07€",1,https://aliexpress.com/item/1005004100120790.html,---,"Select 2GT-178, Belt Width 6mm 1pcs"
 mechanical,motion,LEADSCREW_NUT_T5X4,1,"1,49€",1,https://www.ebay.de/itm/165688561910?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201636033&widget_ver=artemis&media=COPY,---,Only needs to be bought if no screw is included with rod! Select T5x1x4 Brass/POM
 mechanical,motion,LEADSCREW_T5X4_L225,1,"10,15€",1,https://aliexpress.com/item/1005004583759873.html,https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY,"Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw!"
