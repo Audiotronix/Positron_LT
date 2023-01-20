@@ -48,7 +48,7 @@
 | Z-BLOCK_HOLDER_V01 | [STL](./Printed%20Parts/STL/Z-BLOCK_HOLDER_V01.stl) | [STEP](./Printed%20Parts/STEP/Z-BLOCK_HOLDER_V01.step) | 1 |  ---  |  999  |
 
 ``Click on the links to be redirected to the file``<br>
-``Print time and part weight are a result of slicing the parts in slicer x with quality x for printer x``
+``Print time and part weight are a result of slicing the parts in PrusaSlicer with .20 layer height for the PrusaMini``
 
 <br>
 
@@ -157,6 +157,8 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
 
+> Note: Some links might be affiliate links!
+
 ## Total
 | Category | Total | Exact Price |
 | --- | --- | --- |
@@ -166,6 +168,3 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | Motion | 104,49€ | 102,08€ |
 | | |
 | Total | 425,72€ | 374,44€ |
-
-
-> Note: Some links might be affiliate links!
