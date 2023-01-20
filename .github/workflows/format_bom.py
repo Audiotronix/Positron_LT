@@ -1,6 +1,9 @@
 print('-FORMATTING BOM .csv')
 
-import csv, collections
+import csv, collections, re
+
+def remove_lang_link(text):
+    return re.sub('(?<=https://)(.*)(?=aliexpress.com)','',text,flags=re.DOTALL)
 
 def write_part_to_csv(name, this_part, old_part, writer):
     writer.writerow({
@@ -10,9 +13,10 @@ def write_part_to_csv(name, this_part, old_part, writer):
         'amount': this_part.get('amount',''),
         'price': old_part.get('price', '---'),
         'pcs': old_part.get('pcs', '---'),
-        'link': old_part.get('link', '---'),
-        'alt_link': old_part.get('alt_link', '---'),
-        'note': (str(this_part.get('note','')) if old_part.get('note','') == '' else str(old_part.get('note','')))})
+        'link': remove_lang_link(old_part.get('link', '---')),
+        'alt_link': remove_lang_link(old_part.get('alt_link', '---')),
+        'note': remove_lang_link((str(this_part.get('note','')) if old_part.get('note','') == '' else str(old_part.get('note',''))))
+        })
 
 in_csv = {}
 try:
