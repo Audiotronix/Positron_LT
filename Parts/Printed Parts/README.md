@@ -24,8 +24,8 @@
 
 ## Printing:
 | Part Name | Orientation | Supports | Inserts |
-| --- | --- | --- | --- |
-|[BASECOVER_LEFT_V01](./STL/BASECOVER_LEFT_V01.stl) | <img src="../../Gallery/Sliced/BASECOVER_LEFT_V01.png" width="300"> |  ---  | <img src="../../Gallery/Preped/BASECOVER_LEFT_V01.png" width="300">|
+| :---: | --- | --- | --- |
+|[BASECOVER_LEFT_V01](./STL/BASECOVER_LEFT_V01.stl) | <img src="../../Gallery/Sliced/BASECOVER_LEFT_V01.png" width="300"> |  Supports on build plate only  | <img src="../../Gallery/Preped/BASECOVER_LEFT_V01.png" width="300">|
 |[BASECOVER_RIGHT_V01](./STL/BASECOVER_RIGHT_V01.stl) | <img src="../../Gallery/Sliced/BASECOVER_RIGHT_V01.png" width="300"> |  ---  | <img src="../../Gallery/Preped/BASECOVER_RIGHT_V01.png" width="300">|
 |[BASEPART_BACK_V01](./STL/BASEPART_BACK_V01.stl) | <img src="../../Gallery/Sliced/BASEPART_BACK_V01.png" width="300"> |  ---  | <img src="../../Gallery/Preped/BASEPART_BACK_V01.png" width="300">|
 |[BASEPART_FRONT_V01](./STL/BASEPART_FRONT_V01.stl) | <img src="../../Gallery/Sliced/BASEPART_FRONT_V01.png" width="300"> |  ---  | <img src="../../Gallery/Preped/BASEPART_FRONT_V01.png" width="300">|
