@@ -41,7 +41,7 @@ mechanical,electronics,FAN_2510,2,"10,69€",2,https://de.aliexpress.com/item/32
 mechanical,electronics,HEATED_GLASSBED_MUON-3D,1,"45,95€",1,https://muon3d.com/products/positron-v3-transparent-heated-bed,---,Highly recomended
 mechanical,electronics,HEAT_SINK_RPI_2MM,1,"5,72€",1,https://de.aliexpress.com/item/1005004772727034.html,,2mm height
 mechanical,electronics,LED_4X_15X15,1,"0,45€",1,https://de.aliexpress.com/item/1005002674028098.html,---,Select 4Bit Rectangular
-mechanical,electronics,MOTOR_17HS08-1004S,3,,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,https://amzn.to/3iEKg85
+mechanical,electronics,MOTOR_17HS08-1004S,3,"8,28€",1,https://www.omc-stepperonline.com/de/nema-17-bipolar-0-9deg-11ncm-15-6oz-in-1-2a-3-6v-42x42x21mm-4-draehte-17hm08-1204s,https://amzn.to/3iEKg85,
 mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://amzn.to/3IR9ASM,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,https://amzn.to/3QKw7Tj,
 category_info,fasteners,,,---,---,---,---,
@@ -96,19 +96,19 @@ mechanical,shims,DIN_125_M5,2,"1,48€",25,https://de.aliexpress.com/item/100500
 mechanical,shims,DIN_433_M3,12,"2,21€",100,https://de.aliexpress.com/item/4001213983709.html,---,Select 3x6x0.5
 mechanical,shims,DIN_988_7X13X02,40,"1,91€",50,https://de.aliexpress.com/item/1005002046188859.html,---,"Select 50pcs M7x13xThick, Thick 0.2mm"
 mechanical,shims,DIN_988_M3X02,8,"1,26€",50,https://de.aliexpress.com/item/1005001878233881.html,---,"Select M3x6xThick 50pcs, 0.2mm thick"
-mechanical,,10PIN_FEMALE_CONNECTOR,1,---,---,---,---,
-mechanical,,30MM_FAN_MOCKUP_3010_V5_V1_1,1,---,---,---,---,
-mechanical,,ANGLED_EXTRUDER_MOD,1,---,---,---,---,
-mechanical,,BUFFER_BOTTON,4,---,---,---,---,
-mechanical,,CAPRICORN_PTFE_TUBE_1,1,---,---,---,---,
-mechanical,,DIN_7991_M3X16,4,---,---,---,---,
+mechanical,electronics,10PIN_FEMALE_CONNECTOR,1,"0,88€",10,https://de.aliexpress.com/item/1005002431897617.html,---,Select 10P
+mechanical,electronics,30MM_FAN_MOCKUP_3010_V5_V1_1,1,"3,59€",1,https://de.aliexpress.com/item/1005002568592831.html?,---,Select 24V xh2.54 2pin
+mechanical,,ANGLED_EXTRUDER_MOD,1,---,---,---,---,WIP
+mechanical,,BUFFER_BOTTON,4,"1,06",100,https://de.aliexpress.com/item/1005001559607723.html,---,
+mechanical,,CAPRICORN_PTFE_TUBE_1,1,"8,25",1,https://de.aliexpress.com/item/1005003433217588.html,https://www.amazon.de/dp/B079P92HN9,About 60cm required
+mechanical,fasteners,DIN_7991_M3X16,4,"2,04",50,https://de.aliexpress.com/item/1005003107985358.html,---,
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
-mechanical,,FAN_5015,1,---,---,---,---,
-mechanical,,HEATER_CARTRIGE_1,1,---,---,---,---,
+mechanical,electronics,FAN_5015,1,"8,67€",1,https://de.aliexpress.com/item/1005002517858129.html,https://de.aliexpress.com/item/32844339310.html,Select 24V model
+mechanical,electronics,HEATER_CARTRIGE_1,1,"1,27",1,https://de.aliexpress.com/item/32843289523.html,---,Select 24V 50W 1M
 mechanical,,HOTEND_COMPLETE,1,---,---,---,---,
 mechanical,,M3X4,2,---,---,---,---,
-mechanical,,MINI_IR_SENSOR,1,---,---,---,---,
-mechanical,,PCB_SCREEN_ADAPTER,1,---,---,---,---,
-mechanical,,SILICONE_SOCK_1,1,---,---,---,---,
+mechanical,electronics,MINI_IR_SENSOR,1,"18,20€",1,https://de.aliexpress.com/item/32995184975.html,---,
+mechanical,,PCB_SCREEN_ADAPTER,1,---,---,---,---,"Custom PCB, WIP"
+mechanical,,SILICONE_SOCK_1,1,---,---,---,---,Needs to be molded by yourself (WIP)
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
-mechanical,,TFT_35,1,---,---,---,---,
+mechanical,electronics,TFT_35,1,"17,34€",1,https://de.aliexpress.com/item/1005004864671870.html,---,
