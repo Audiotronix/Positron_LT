@@ -165,7 +165,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | --- | --- | --- |
 | Electronics | 257,03€ | 256,24€ |
 | Fasteners | 36,13€ | 11,65€ |
-| Makerbeam | 54,86€ + 10,0€ | 28,31€ + 10,0€ |
+| Makerbeams | 54,86€ + 10,00€ | 28,31€ + 10,00€ |
 | Motion | 107,58€ | 105,55€ |
 | Shims | 6,86€ | 2,12€ |
 | Other | 9,31€ | 8,29€ |
