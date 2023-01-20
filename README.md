@@ -72,8 +72,6 @@ RepRap means that most parts of the printer can be printed and nothing needs to 
 
 License usage: CC-BY
 
-If you are manufacturing this 3D printer or a close derivative, please put KRALYN Design Logo visibily on your product and designate KRALYN as the inventor of this product. You can find the file inside the logos folder.
-
 All hardware materials and designs provided here are licensed under the CC-BY-SA-4.0 hardware license. All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.0 license.
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
