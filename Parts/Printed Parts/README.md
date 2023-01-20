@@ -31,7 +31,7 @@
 |[BASEPART_FRONT_V01](./STL/BASEPART_FRONT_V01.stl) | <img src="../../Gallery/Sliced/BASEPART_FRONT_V01.png" width="300"> |  No supports needed  | <img src="../../Gallery/Preped/BASEPART_FRONT_V01.jpg" width="300">|
 |[BASEPART_LEFT_V01](./STL/BASEPART_LEFT_V01.stl) | <img src="../../Gallery/Sliced/BASEPART_LEFT_V01.png" width="300"> |  Supports on build plate only  | <img src="../../Gallery/Preped/BASEPART_LEFT_V01.jpg" width="300">|
 |[BASEPART_RIGHT_V01](./STL/BASEPART_RIGHT_V01.stl) | <img src="../../Gallery/Sliced/BASEPART_RIGHT_V01.png" width="300"> |  Supports on build plate only  | <img src="../../Gallery/Preped/BASEPART_RIGHT_V01.jpg" width="300">|
-|[BEDHOLDER_CONNECTOR_V01](./STL/BEDHOLDER_CONNECTOR_V01.stl) | <img src="../../Gallery/Sliced/BEDHOLDER_CONNECTOR_V01.png" width="300"> |  ---  | <img src="../../Gallery/Preped/BEDHOLDER_CONNECTOR_V01.jpg" width="300">|
+|[BEDHOLDER_CONNECTOR_V01](./STL/BEDHOLDER_CONNECTOR_V01.stl) | <img src="../../Gallery/Sliced/BEDHOLDER_CONNECTOR_V01.png" width="300"> |  No supports needed  | <img src="../../Gallery/Preped/BEDHOLDER_CONNECTOR_V01.jpg" width="300">|
 |[BED_HOLDER_MAIN_V01](./STL/BED_HOLDER_MAIN_V01.stl) | <img src="../../Gallery/Sliced/BED_HOLDER_MAIN_V01.png" width="300"> |  Supports on build plate only  | <img src="../../Gallery/Preped/BED_HOLDER_MAIN_V01.jpg" width="300">|
 |[BELT-TENSIONER_Z_V01](./STL/BELT-TENSIONER_Z_V01.stl) | <img src="../../Gallery/Sliced/BELT-TENSIONER_Z_V01.png" width="300"> |  No supports needed  | <img src="../../Gallery/Preped/BELT-TENSIONER_Z_V01.jpg" width="300">|
 |[BELT_CONNECTOR_V01_WIP](./STL/BELT_CONNECTOR_V01_WIP.stl) | <img src="../../Gallery/Sliced/BELT_CONNECTOR_V01_WIP.png" width="300"> |  ---  | <img src="../../Gallery/Preped/BELT_CONNECTOR_V01_WIP.jpg" width="300">|
@@ -55,6 +55,6 @@
 |[SIDE_PANEL_RIGHT_V01](./STL/SIDE_PANEL_RIGHT_V01.stl) | <img src="../../Gallery/Sliced/SIDE_PANEL_RIGHT_V01.png" width="300"> |  No supports needed  | <img src="../../Gallery/Preped/SIDE_PANEL_RIGHT_V01.jpg" width="300">|
 |[X-RAIL_ENDCAP_V01](./STL/X-RAIL_ENDCAP_V01.stl) | <img src="../../Gallery/Sliced/X-RAIL_ENDCAP_V01.png" width="300"> |  No supports needed  | <img src="../../Gallery/Preped/X-RAIL_ENDCAP_V01.jpg" width="300">|
 |[XY-SPACER_V01](./STL/XY-SPACER_V01.stl) | <img src="../../Gallery/Sliced/XY-SPACER_V01.png" width="300"> |  No supports needed  | <img src="../../Gallery/Preped/XY-SPACER_V01.jpg" width="300">|
-|[Z-AXIS-ENDSTOP_V01](./STL/Z-AXIS-ENDSTOP_V01.stl) | <img src="../../Gallery/Sliced/Z-AXIS-ENDSTOP_V01.png" width="300"> |  ---  | <img src="../../Gallery/Preped/Z-AXIS-ENDSTOP_V01.jpg" width="300">|
+|[Z-AXIS-ENDSTOP_V01](./STL/Z-AXIS-ENDSTOP_V01.stl) | <img src="../../Gallery/Sliced/Z-AXIS-ENDSTOP_V01.png" width="300"> |  Supports on build plate only  | <img src="../../Gallery/Preped/Z-AXIS-ENDSTOP_V01.jpg" width="300">|
 |[Z-BLOCK_HOLDER_V01](./STL/Z-BLOCK_HOLDER_V01.stl) | <img src="../../Gallery/Sliced/Z-BLOCK_HOLDER_V01.png" width="300"> |  No supports needed  | <img src="../../Gallery/Preped/Z-BLOCK_HOLDER_V01.jpg" width="300">|
 <div name='table_end'/>
