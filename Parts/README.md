@@ -49,7 +49,7 @@
 | Z-BLOCK_HOLDER_V01 | [STL](./Printed%20Parts/STL/Z-BLOCK_HOLDER_V01.stl) | [STEP](./Printed%20Parts/STEP/Z-BLOCK_HOLDER_V01.step) | 1 |  42m  |  5  |
 
 ``Click on the links to be redirected to the file``<br>
-``Print time and part weight are a result of slicing the parts in PrusaSlicer with .20 layer height for the PrusaMini``
+``Print time and part weight are a result of slicing the parts in PrusaSlicer with .20 layer height (quality) for the PrusaMini``
 
 <br>
 
