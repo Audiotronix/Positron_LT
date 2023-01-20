@@ -3,7 +3,6 @@ on:
   push:
     paths:
         - Parts/bom.csv
-        - 'Gallery/**'
 jobs:
   AutoFormat:
     runs-on: ubuntu-latest
@@ -25,5 +24,5 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -am 'Auto updated readme table'
+          git diff --quiet && git diff --staged --quiet || git commit -am 'Auto format'
           git push
