@@ -14,13 +14,13 @@
 | GreenTEC | extrudr | Pro Carbon | 49.99€ | [link](https://amzn.to/3ZJIYcK) | Hardened |
 | ASA | Prusament | Prusament ASA | 29.99€ | [link](https://www.prusa3d.com/category/prusament-asa/) | --- |
 
+> Note: Some links might be affiliate links!
+
 ## Slicing:
 
 | Layer height | Infill | Supports | Perimeters | Horizontal shells | 
 | --- | --- | --- | --- | --- |
 | 0.2mm | 40% | On build plate only | 5 (min) | Top: 9, Bot: 8 |
-
-> Note: Some links might be affiliate links!
 
 ## Printing:
 | Part Name | Orientation | Supports | Prepared |
