@@ -34,6 +34,33 @@ for part in in_csv:
     categories[p['category']]['real'] += calc_real_price(p)
     categories[p['category']]['exact'] += calc_exact_price(p)
 
-    print(p['cad_name'], p['amount'], p['price'], p['pcs'], calc_real_price(p), calc_exact_price(p))
+    #print(p['cad_name'], p['amount'], p['price'], p['pcs'], calc_real_price(p), calc_exact_price(p))
 
-print(categories)
+makerbeams = float(input('Makerbeams Price:').replace('€','').replace(',','.'))
+for cat in categories:
+    category = categories[cat]
+
+    real = str(round(category['real'],2)).replace('.',',')
+    exact = str(round(category['exact'],2)).replace('.',',')
+
+    if cat == 'makerbeam':
+        makerbeams_t = str(makerbeams).replace('.',',')
+        real += f'€ + {makerbeams_t}'
+        exact += f'€ + {makerbeams_t}'
+
+        # needed for total
+        category['real'] += makerbeams
+        category['exact'] += makerbeams
+
+    print(f'| {cat} | {real}€ | {exact}€ |')
+
+real_total, exact_total = 0, 0
+for cat in categories:
+    real_total += categories[cat]['real']
+    exact_total += categories[cat]['exact']
+
+real_total = str(round(real_total,2)).replace('.',',')
+exact = str(round(exact_total,2)).replace('.',',')
+
+print('| | | |')
+print(f'| Total | {real_total}€ | {exact_total}€ |')
