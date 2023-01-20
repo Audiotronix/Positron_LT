@@ -13,7 +13,7 @@
 
 ## [Printed Parts](./Printed%20Parts)
 
-|                   Part Name                   | STL | STEP |Amount| Print Time | Weight (g)|
+|                   Part Name                   | STL | STEP |Amount| Print Time | Used filament (g)|
 | --- | --- | --- | --- | --- | --- |
 | BASECOVER_LEFT_V01 | [STL](./Printed%20Parts/STL/BASECOVER_LEFT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_LEFT_V01.step) | 1 |  5h27m  |  52  |
 | BASECOVER_RIGHT_V01 | [STL](./Printed%20Parts/STL/BASECOVER_RIGHT_V01.stl) | [STEP](./Printed%20Parts/STEP/BASECOVER_RIGHT_V01.step) | 1 |  5h44m  |  54  |
