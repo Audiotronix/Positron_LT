@@ -23,7 +23,7 @@
 > Note: Some links might be affiliate links!
 
 ## Printing:
-| Part Name | Orientation | Supports | Inserts |
+| Part Name | Orientation | Supports | Prepared |
 | :---: | --- | --- | --- |
 |[BASECOVER_LEFT_V01](./STL/BASECOVER_LEFT_V01.stl) | <img src="../../Gallery/Sliced/BASECOVER_LEFT_V01.png" width="300"> |  Supports on build plate only  | <img src="../../Gallery/Preped/BASECOVER_LEFT_V01.png" width="300">|
 |[BASECOVER_RIGHT_V01](./STL/BASECOVER_RIGHT_V01.stl) | <img src="../../Gallery/Sliced/BASECOVER_RIGHT_V01.png" width="300"> |  ---  | <img src="../../Gallery/Preped/BASECOVER_RIGHT_V01.png" width="300">|
