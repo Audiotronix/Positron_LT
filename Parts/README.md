@@ -6,9 +6,9 @@
 
 :exclamation: **These parts are not complete. Printhead and Extruder assemblies may be missing or are currently being developed.** :exclamation:
 
-:exclamation: **There are various display types available. Please make sure you are using the right one** :exclamation:
+> There are various display types available. Please make sure you are using the right one
 
-We currently can not guarantee that all parts fit / work as expected
+> We currently can not guarantee that all parts fit / work as expected
 
 ## [Printed Parts](./Printed%20Parts)
 
