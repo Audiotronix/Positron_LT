@@ -22,6 +22,6 @@
 
 > Note: Some links might be affiliate links!
 
-## Printing
+## Printing:
 | Part Name | Orientation | Supports | Inserts |
 | --- | --- | --- | --- |
