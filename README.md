@@ -1,7 +1,3 @@
-> Note: This repository is still a work in progress!
-
-:exclamation: **Primary Desgin finished, updates and changes ar allways be possible** :exclamation:
-
 <div align="center">
 
 # Positron LT
@@ -20,6 +16,8 @@ The Positron-LT is a printer made for everyone, especially hobbyists and profess
 This printer is a [RepRap](https://reprap.org/wiki/RepRap) version based on the innovative [Positron V3](https://github.com/KRALYN/PositronV3) formfactor and motion-system which was created by [KRALYN](https://github.com/KRALYN/PositronV3).
 
 **Although the printer is printed, it can still be folded and thus still fits into a filament box. Thus, there are no disadvantages compared to the original, it may even have some improvements**
+
+> Note: This project is a work in progress! The primary design is ready, updates and changes are made continuously.
 
 <br>
 
