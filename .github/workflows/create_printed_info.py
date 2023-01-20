@@ -16,7 +16,7 @@ lines = None
 with open('./Parts/Printed Parts/README.md', "r") as f:
     lines = f.readlines()
 
-table_header = '| Part Name | Orientation | Supports | Inserts |\n| :---: | --- | --- | --- |\n'
+table_header = '| Part Name | Orientation | Supports | Prepared |\n| :---: | --- | --- | --- |\n'
 
 lines_iter = iter(lines)
 with open('./Parts/Printed Parts/README.md', "w") as f:
