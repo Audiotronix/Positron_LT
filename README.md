@@ -17,7 +17,7 @@ This printer is a [RepRap](https://reprap.org/wiki/RepRap) version based on the 
 
 **Although the printer is printed, it can still be folded and thus still fits into a filament box. Thus, there are no disadvantages compared to the original, it may even have some improvements**
 
-> Note: This project is a work in progress! The primary design is ready, updates and changes are made continuously.
+> Note: This project is a work in progress! The primary design is ready, updates and changes will be made continuously.
 
 <br>
 
