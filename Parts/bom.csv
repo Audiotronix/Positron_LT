@@ -10,13 +10,13 @@ printed,,BED_HOLDER_MAIN_V01,1,---,1,---,---,[t: 6h7m |w: 60 |s: Supports on bui
 printed,,BELT-TENSIONER_Z_V01,1,---,1,---,---,[t: 15m |w: 1 |s: No supports needed |]
 printed,,BELT_CONNECTOR_V01_WIP,1,---,---,---,---,[t: --- |w: --- |s: --- |]
 printed,,BELT_TENSIONER_XY_V01,1,---,---,---,---,[t: 44m |w: 6 |s: No supports needed |]
-printed,,BOTTON_COVER_V01,1,---,---,---,---,[t: 19m |w: 1 |s: --- |]
+printed,,BOTTOM_COVER_V01,1,---,---,---,---,[t: 19m |w: 1 |s: --- |]
 printed,,COVER_ROUND_V01,2,---,1,---,---,[t: 4m |w: 1 |s: No supports needed |]
 printed,,DISTANCE_LEFT_V01,1,---,---,---,---,[t: 1h44m |w: 13 |s: No supports needed |]
 printed,,DISTANCE_RIGHT_V01,1,---,1,---,---,[t: 59m |w: 8 |s: No supports needed |]
 printed,,ENDCAP_BED-EXTRUSION_V01,2,---,---,---,---,[t: 6m |w: 1 |s: No supports needed |]
 printed,,EXTRUDER_BASEPLATE_V01,1,---,1,---,---,[t: 7m |w: 1 |s: --- |]
-printed,,INTERCONNECT_V02_WIP,1,---,---,---,---,[t: 2h35m |w: 22 |s: --- |]
+printed,,INTERCONNECT_V03_WIP,1,---,---,---,---,[t: --- |w: --- |s: --- |]
 printed,,LEADSCREW_NUT_MOUNT_V01,1,---,1,---,---,[t: 1h2m |w: 6 |s: No supports needed |]
 printed,,LED_INDICATOR_MOUNT_V01,1,---,1,---,---,[t: 16m |w: 1 |s: No supports needed |]
 printed,,MOTORBRACKET_LEFT_V01,1,---,1,---,---,[t: 3h17m |w: 32 |s: No supports needed |]
@@ -32,14 +32,14 @@ printed,,XY-SPACER_V01,1,---,1,---,---,[t: 21m |w: 3 |s: No supports needed |]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,1,---,---,[t: 1h2m |w: 8 |s: Supports on build plate only |]
 printed,,Z-BLOCK_HOLDER_V01,1,---,1,---,---,[t: 42m |w: 5 |s: No supports needed |]
 category_info,electronics,,,---,---,---,---,
-mechanical,electronics,10PIN_EXP_MALE_1,1,"1,12€",1,https://aliexpress.com/item/33029492417.html,https://amzn.to/3XzUQMl,Select 2x5 10pin
-mechanical,electronics,10PIN_FEMALE_CONNECTOR,1,"0,88€",10,https://aliexpress.com/item/1005002431897617.html,---,Select 10P
-mechanical,electronics,30MM_FAN_MOCKUP_3010_V5_V1_1,1,"3,59€",1,https://aliexpress.com/item/1005002568592831.html?,---,Select 24V xh2.54 2pin
+mechanical,electronics,10PIN_EXP_FEMALE,1,"0,88€",10,https://aliexpress.com/item/1005002431897617.html,---,Select 10P
+mechanical,electronics,10PIN_MALE_CONNECTOR,1,"1,12€",1,https://aliexpress.com/item/33029492417.html,https://amzn.to/3XzUQMl,Select 2x5 10pin
 mechanical,electronics,6_PIN_MAGNETIC_POGO,1,"3,30€",1,https://aliexpress.com/item/1005002669709542.html,---,Select 6pin Straight
 mechanical,electronics,C7_PLUG-IN,1,"0,23€",1,https://aliexpress.com/item/4001252791878.html,---,
 mechanical,electronics,CABLE_C7_SWITCH,1,"9,99€",1,https://amzn.to/3w4nDgk,https://amzn.to/3XzU6qx,We recommend using a cable with a switch or an adapter like this: https://aliexpress.com/item/1005002301827800.html / https://amzn.to/3XzSGfH
 mechanical,electronics,EPP-200-24,1,"52,30€",1,https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D,https://amzn.to/3WfsBS9,Meanwell EPP-220-24
 mechanical,electronics,FAN_2510,2,"10,69€",2,https://aliexpress.com/item/32807610078.html,https://amzn.to/3iCEaVR,"24V Dual Ball XH2,54"
+mechanical,electronics,FAN_3010,1,"3,59€",1,https://aliexpress.com/item/1005002568592831.html?,---,Select 24V xh2.54 2pin
 mechanical,electronics,FAN_5015,1,"8,67€",1,https://aliexpress.com/item/1005002517858129.html,https://aliexpress.com/item/32844339310.html,Select 24V model
 mechanical,electronics,HEATED_GLASSBED_MUON-3D,1,"45,95€",1,https://muon3d.com/products/positron-v3-transparent-heated-bed,---,Highly recomended
 mechanical,electronics,HEATER_CARTRIGE_1,1,"1,27",1,https://aliexpress.com/item/32843289523.html,---,Select 24V 50W 1M
@@ -55,20 +55,20 @@ mechanical,fasteners,DIN_7979_M3X4X12,2,"4,30€",5,https://aliexpress.com/item/
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X14,41,"2,28€",50,https://aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X16,4,"2,04",50,https://aliexpress.com/item/1005003107985358.html,---,
-mechanical,fasteners,DIN_7991_M3X18,6,"2,99€",50,https://aliexpress.com/item/1005003107985358.html,---,
-mechanical,fasteners,DIN_7991_M3X25,6,"3,68€",50,https://aliexpress.com/item/1005003107985358.html,---,
+mechanical,fasteners,DIN_7991_M3X18,7,"2,99€",50,https://aliexpress.com/item/1005003107985358.html,---,
+mechanical,fasteners,DIN_7991_M3X25,5,"3,68€",50,https://aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X35,12,"4,72€",50,https://aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_7991_M3X8,8,"1,58€",50,https://aliexpress.com/item/1005003107985358.html,---,
 mechanical,fasteners,DIN_912_M3X20,5,"1,48€",10,https://aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_912_M3X6,10,"0,78€",10,https://aliexpress.com/item/1005003106092326.html,---,
 mechanical,fasteners,DIN_934_M3,2,"1,36€",50,https://aliexpress.com/item/1005003106199633.html,---,
-mechanical,fasteners,M3_INSERT,23,"0,35€",50,https://aliexpress.com/item/1005004879644825.html,https://amzn.to/3CRKrUf,"Select M3(OD4.5mm), Length 5mm 50pcs"
+mechanical,fasteners,M3_INSERT,22,"0,35€",50,https://aliexpress.com/item/1005004879644825.html,https://amzn.to/3CRKrUf,"Select M3(OD4.5mm), Length 5mm 50pcs"
 mechanical,fasteners,THUMBSCREW_M6X16,1,"1,90€",2,https://aliexpress.com/item/1005004651298319.html,---,"Select M6 2pcs, 16mm"
 mechanical,fasteners,WAFERHEAD_M3X10,19,"1,97€",20,https://aliexpress.com/item/1005004510664424.html,---,
-mechanical,fasteners,WAFERHEAD_M3X14,6,"2,10€",20,https://aliexpress.com/item/1005004510664424.html,---,
-mechanical,fasteners,WAFERHEAD_M3X20,3,"2,54€",20,https://aliexpress.com/item/1005004510664424.html,---,
+mechanical,fasteners,WAFERHEAD_M3X14,4,"2,10€",20,https://aliexpress.com/item/1005004510664424.html,---,
+mechanical,fasteners,WAFERHEAD_M3X20,5,"2,54€",20,https://aliexpress.com/item/1005004510664424.html,---,
 category_info,makerbeam,,,---,---,---,---,Since Makerbeam does not sell beams with the needed length; they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  https://www.makerbeam.com/cut-and-tap-for-10x10mm.html . Either way; you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf
-mechanical,makerbeam,DIN_34805_M3X4,4,---,25,---,---,Included with T-slot nut
+mechanical,makerbeam,DIN_34805_M3X4,7,---,25,---,---,Included with T-slot nut
 mechanical,makerbeam,DIN_7991_M3X4,3,---,25,---,---,Included with T-slot nut
 mechanical,makerbeam,MAKERBEAM-CUBE,3,"17,95€",12,https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589,---,
 mechanical,makerbeam,MAKERBEAM-CUBE_M6,1,---,0,,---,Included in previous cube order.
@@ -84,7 +84,7 @@ category_info,motion,,,---,---,---,---,
 mechanical,motion,F5-10_BEARING,2,"0,27€",1,https://aliexpress.com/item/4000211452548.html,---,
 mechanical,motion,F683_OPEN_BEARING-H25-,28,"2,94€",5,https://aliexpress.com/item/4000760591738.html,https://aliexpress.com/item/33044580486.html,F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open
 mechanical,motion,GT2_16T_IDLER_SMOOTH,1,"0,55€",1,https://aliexpress.com/item/32971394035.html,---,Select 16T W6 B3 Without T
-mechanical,motion,GT2_BELT-3MM_L2000MM,1,"5,00€",1,https://www.ebay.de/itm/283457733982?var=585183190920,---,Select x 2m (Y32)
+mechanical,motion,GT2_BELT-3MM_L1650MM,1,"5,00€",1,https://www.ebay.de/itm/283457733982?var=585183190920,---,Select x 2m (Y32)
 mechanical,motion,GT2_BELT-6MM_L178MM,1,"1,07€",1,https://aliexpress.com/item/1005004100120790.html,---,"Select 2GT-178, Belt Width 6mm 1pcs"
 mechanical,motion,LEADSCREW_NUT_T5X4,1,"1,49€",1,https://www.ebay.de/itm/165688561910?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201636033&widget_ver=artemis&media=COPY,---,Only needs to be bought if no screw is included with rod! Select T5x1x4 Brass/POM
 mechanical,motion,LEADSCREW_T5X4_L225,1,"10,15€",1,https://aliexpress.com/item/1005004583759873.html,https://www.ebay.de/itm/165688561901?mkcid=16&mkevt=1&mkrid=707-127634-2357-0&ssspo=hUnHhgpZQDS&sssrc=2047675&ssuid=92txqbporsy&var=465201385502&widget_ver=artemis&media=COPY,"Select 250mm, Pitch 1mm Lead 4mm / Second link has no screw!"
@@ -104,11 +104,11 @@ mechanical,shims,DIN_433_M3,12,"2,21€",100,https://aliexpress.com/item/4001213
 mechanical,shims,DIN_988_7X13X02,40,"1,91€",50,https://aliexpress.com/item/1005002046188859.html,---,"Select 50pcs M7x13xThick, Thick 0.2mm"
 mechanical,shims,DIN_988_M3X02,8,"1,26€",50,https://aliexpress.com/item/1005001878233881.html,---,"Select M3x6xThick 50pcs, 0.2mm thick"
 mechanical,,ANGLED_EXTRUDER_MOD,1,---,---,---,---,WIP
-mechanical,,BUFFER_BOTTON,4,"1,06",100,https://aliexpress.com/item/1005001559607723.html,---,
+mechanical,,BUFFER_BOTTOM,4,"1,06",100,https://aliexpress.com/item/1005001559607723.html,---,
 mechanical,,CAPRICORN_PTFE_TUBE_1,1,"8,25",1,https://aliexpress.com/item/1005003433217588.html,https://www.amazon.de/dp/B079P92HN9,About 60cm required
 mechanical,,DUST_COVER_85X52,2,---,---,---,---,
 mechanical,,HOTEND_COMPLETE,1,---,---,---,---,
-mechanical,,M3X4,2,---,---,---,---,
 mechanical,,PCB_SCREEN_ADAPTER,1,---,---,---,---,"Custom PCB, WIP"
 mechanical,,SILICONE_SOCK_1,1,---,---,---,---,Needs to be molded by yourself (WIP)
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,
+mechanical,,THERMISTOR_1,1,---,---,---,---,
