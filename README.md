@@ -1,7 +1,3 @@
-> Note: This repository is still a work in progress!
-
-:exclamation: **Primary Desgin finished, updates and changes ar allways be possible** :exclamation:
-
 <div align="center">
 
 # Positron LT
@@ -20,6 +16,8 @@ The Positron-LT is a printer made for everyone, especially hobbyists and profess
 This printer is a [RepRap](https://reprap.org/wiki/RepRap) version based on the innovative [Positron V3](https://github.com/KRALYN/PositronV3) formfactor and motion-system which was created by [KRALYN](https://github.com/KRALYN/PositronV3).
 
 **Although the printer is printed, it can still be folded and thus still fits into a filament box. Thus, there are no disadvantages compared to the original, it may even have some improvements**
+
+> Note: This project is a work in progress! The primary design is ready, updates and changes will be made continuously.
 
 <br>
 
@@ -47,7 +45,7 @@ Since the printer is made of printed parts instead of machined parts, it is ligh
 
 <br>
 
-## specs
+## Specs
 
 -	Max Print Speed: 250mm/s (under investigation)
 -	Max Travel Speed: 350mm/s (under investigation)
@@ -71,8 +69,6 @@ RepRap means that most parts of the printer can be printed and nothing needs to 
 ## License
 
 License usage: CC-BY
-
-If you are manufacturing this 3D printer or a close derivative, please put KRALYN Design Logo visibily on your product and designate KRALYN as the inventor of this product. You can find the file inside the logos folder.
 
 All hardware materials and designs provided here are licensed under the CC-BY-SA-4.0 hardware license. All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.0 license.
 

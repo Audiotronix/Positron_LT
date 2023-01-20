@@ -1,14 +1,14 @@
 # The parts that make the Positron LT so great (BOM) [<sub>(back)</sub>](../../../)
 >Note: None of these parts need to be machined! Everything can be bought, some parts might need to be shortened with a saw, and some holes need to be drilled, so only basic tools are required.
 
-| [BOM as .CSV](./bom.csv) | [Required Tools](../Assembly/#required-tools) | [Recommended Filaments](./Printed%20Parts#recommended-filaments) | [Download PrintParts](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fliens/Positron_LT/tree/main/Parts/Printed%20Parts&fileName=Printed_Parts) |
+| [BOM as .CSV](./bom.csv) | [Required Tools](../Assembly/#required-tools) | [Recommended Filaments](./Printed%20Parts#recommended-filaments) | [Download Printed Parts](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fliens/Positron_LT/tree/main/Parts/Printed%20Parts&fileName=Printed_Parts) |
 | --- | --- | --- | --- |
 
 :exclamation: **These parts are not complete. Printhead and Extruder assemblies may be missing or are currently being developed.** :exclamation:
 
-:exclamation: **There are various display types available. Please make sure you are using the right one** :exclamation:
+> There are various display types available. Please make sure you are using the right one
 
-We currently can not guarantee that all parts fit / work as expected
+> We currently can not guarantee that all parts fit / work as expected
 
 ## [Printed Parts](./Printed%20Parts)
 
@@ -48,7 +48,7 @@ We currently can not guarantee that all parts fit / work as expected
 | Z-BLOCK_HOLDER_V01 | [STL](./Printed%20Parts/STL/Z-BLOCK_HOLDER_V01.stl) | [STEP](./Printed%20Parts/STEP/Z-BLOCK_HOLDER_V01.step) | 1 |  ---  |  999  |
 
 ``Click on the links to be redirected to the file``<br>
-``Print time and part weight are a result of slicing the parts in slicer x with quality x for printer x``
+``Print time and part weight are a result of slicing the parts in PrusaSlicer with .20 layer height for the PrusaMini``
 
 <br>
 
@@ -157,6 +157,8 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 ``Click on the part name to see a 3D model of it (mechanical parts are not intedet to be printed!)``<br>
 ``Price is based on the first/main link of each product``
 
+> Note: Some links might be affiliate links!
+
 ## Total
 | Category | Total | Exact Price |
 | --- | --- | --- |
@@ -166,6 +168,3 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | Motion | 104,49€ | 102,08€ |
 | | |
 | Total | 425,72€ | 374,44€ |
-
-
-> Note: Some links might be affiliate links!
