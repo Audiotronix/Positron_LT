@@ -1,0 +1,28 @@
+name: AutoFormat
+on:
+  push:
+    paths:
+        - Parts/bom.csv
+jobs:
+  AutoFormat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: Format BOM
+        run: python ./.github/workflows/format_bom.py
+      - name: Create readme
+        run: python ./.github/workflows/create_readme.py
+      - name: Create printing info
+        run: python ./.github/workflows/create_printed_info.py
+      - name: Commit
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -am 'Auto format'
+          git push
