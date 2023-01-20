@@ -47,7 +47,7 @@ Since the printer is made of printed parts instead of machined parts, it is ligh
 
 <br>
 
-## specs
+## Specs
 
 -	Max Print Speed: 250mm/s (under investigation)
 -	Max Travel Speed: 350mm/s (under investigation)
