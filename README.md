@@ -2,27 +2,32 @@
 
 :exclamation: **Primary Desgin finished, updates and changes ar allways be possible** :exclamation:
 
+<div align="center">
+
 # Positron LT
 
 <img src="https://user-images.githubusercontent.com/35639879/213271292-8dee41b2-8bbe-4148-a9ee-8af22a739404.gif" width="350" height="350">
 
 | **Navigation:**| [All Parts (BOM)](/Parts) | [Assembly](/Assembly) | [Software](/Software) | [Gallery](/Gallery) | [Download Repo](../../archive/refs/heads/main.zip)
 | --- | --- | --- | --- | --- | --- |
+</div>
 
 <br>
 
 The Positron-LT is a printer made for everyone, especially hobbyists and professionals who don't want to or can't use machined parts.
-This Printer is a [RepRap](https://reprap.org/wiki/RepRap) version based on the innovative [Positron V3 Printer](https://github.com/KRALYN/PositronV3) formfactor and motion-system which was created by [KRALYN](https://github.com/KRALYN/PositronV3).
-**It can still be taken apart and folded so that it fits into a filament carton!**
+This printer is a [RepRap](https://reprap.org/wiki/RepRap) version based on the innovative [Positron V3](https://github.com/KRALYN/PositronV3) formfactor and motion-system which was created by [KRALYN](https://github.com/KRALYN/PositronV3).
+
+**Although the printer is printed, it can still be folded and thus still fits into a filament box. Thus, there are no disadvantages compared to the original, it may even have some improvements**
 
 <br>
 
 ## LT
 **LT** stands for **L**igh**T** 
-Since the printer is made of printed parts instead of machined parts, it is lighter than the original Positron V3. 
-Lighter to source
-Lighter to build
-Lighter to transport
+Since the printer is made of printed parts instead of machined parts, it is lighter than the original Positron V3.
+
+- Lighter to source
+- Lighter to build
+- Lighter to transport
 
 <br>
 
@@ -33,7 +38,7 @@ Lighter to transport
 - Much less parts to assemble than the V3
 - Integrated PSU (power supply unit) with 200W
 - 3mm GT2 timing belt on XY (cheaper and easier to source as the original Synchromesh wire)
-- The base chassis is made of 10x10 Makerbeam extrusions and other Makerbeam parts. **All other structural parts can be printed!**
+- The base chassis is made of 10x10 [Makerbeam](https://www.makerbeam.com/makerbeam/) extrusions and other [Makerbeam](https://www.makerbeam.com/makerbeam/) parts. **All other structural parts can be printed!**
 - Simplified Z axis by using a leadscrew. Easy to assemble by folding up
 - Improved toolhead cooling
 - could be used with larger XY Stepper motors up to 26mm

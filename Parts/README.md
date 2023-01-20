@@ -4,9 +4,9 @@
 | [BOM as .CSV](./bom.csv) | [Required Tools](../Assembly/#required-tools) | [Recommended Filaments](./Printed%20Parts#recommended-filaments) | [Download PrintParts](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fliens/Positron_LT/tree/main/Parts/Printed%20Parts&fileName=Printed_Parts) |
 | --- | --- | --- | --- |
 
-:exclamation: **These parts are not complete. Printhead and Extruder assemblies may be missing or are in Work.** :exclamation:
+:exclamation: **These parts are not complete. Printhead and Extruder assemblies may be missing or are currently being developed.** :exclamation:
 
-:exclamation: **There are various Display types available. please make sure you are using the right one** :exclamation:
+:exclamation: **There are various display types available. Please make sure you are using the right one** :exclamation:
 
 We currently can not guarantee that all parts fit / work as expected
 
