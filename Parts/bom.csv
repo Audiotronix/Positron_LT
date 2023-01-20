@@ -1,5 +1,5 @@
 type,category,cad_name,amount,price,pcs,link,alt_link,note
-printed,,BASECOVER_LEFT_V01,1,---,1,---,---,[t: 5h27m |w: 52 |s: Supports on build plate only |]
+printed,,BASECOVER_LEFT_V01,1,---,1,---,--- ,[t: 5h27m |w: 52 |s: Supports on build plate only |]
 printed,,BASECOVER_RIGHT_V01,1,---,1,---,---,[t: 5h44m |w: 54 |s: Supports on build plate only |]
 printed,,BASEPART_BACK_V01,1,---,---,---,---,[t: 6h7m |w: 60 |s: No supports needed |]
 printed,,BASEPART_FRONT_V01,1,---,1,---,---,[t: 4h38m |w: 43 |s: No supports needed |]
