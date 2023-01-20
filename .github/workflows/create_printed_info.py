@@ -35,7 +35,7 @@ with open('./Parts/Printed Parts/README.md', "w") as f:
         stl_link = '[' +str(part)+ '](./STL/' +str(part)+'.stl)'
         sliced_link = '"../../Gallery/Sliced/'+str(part)+'.png"'
         sliced_img = '<img src='+sliced_link+' width="300">'
-        preped_link = '"../../Gallery/Preped/'+str(part)+'.png"'
+        preped_link = '"../../Gallery/Preped/'+str(part)+'.jpg"'
         preped_img = '<img src='+preped_link+' width="300">'
         f.write('|'+stl_link+' | '+sliced_img+' | '+ str(csv_data[part]['support']) +' | '+preped_img+'|\n')
 
