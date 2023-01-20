@@ -2,6 +2,15 @@
 >Note: None of these parts need to be machined! Everything can be bought, some parts might need to be shortened with a saw, and some holes need to be drilled, so only basic tools are required.
 
 | [BOM as .CSV](./bom.csv) | [Required Tools](../Assembly/#required-tools) | [Recommended Filaments](./Printed%20Parts#recommended-filaments) | [Download Printed Parts](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fliens/Positron_LT/tree/main/Parts/Printed%20Parts&fileName=Printed_Parts) |
+| --- | --- | --- | --- |
+
+:exclamation: **These parts are not complete. Printhead and Extruder assemblies may be missing or are currently being developed.** :exclamation:
+
+> There are various display types available. Please make sure you are using the right one
+
+> We currently can not guarantee that all parts fit / work as expected
+
+## [Printed Parts](./Printed%20Parts)
 
 |                   Part Name                   | STL | STEP |Amount| Print Time | Weight (g)|
 | --- | --- | --- | --- | --- | --- |
