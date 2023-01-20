@@ -172,7 +172,7 @@ with open('./Parts/README.md', "w") as f:
     line = next(lines_iter)
 
     # Fing begining of printed table
-    while '##' not in line and 'Printed Parts' not in line:
+    while '## [Printed Parts]' not in line:
         f.write(line)
         line = next(lines_iter)
     f.write(line)
