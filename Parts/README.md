@@ -1,7 +1,7 @@
 # The parts that make the Positron LT so great (BOM) [<sub>(back)</sub>](../../../)
 >Note: None of these parts need to be machined! Everything can be bought, some parts might need to be shortened with a saw, and some holes need to be drilled, so only basic tools are required.
 
-| [BOM as .CSV](./bom.csv) | [Required Tools](../Assembly/#required-tools) | [Recommended Filaments](./Printed%20Parts#recommended-filaments) | [Download PrintParts](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fliens/Positron_LT/tree/main/Parts/Printed%20Parts&fileName=Printed_Parts) |
+| [BOM as .CSV](./bom.csv) | [Required Tools](../Assembly/#required-tools) | [Recommended Filaments](./Printed%20Parts#recommended-filaments) | [Download Printed Parts](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fliens/Positron_LT/tree/main/Parts/Printed%20Parts&fileName=Printed_Parts) |
 | --- | --- | --- | --- |
 
 :exclamation: **These parts are not complete. Printhead and Extruder assemblies may be missing or are currently being developed.** :exclamation:
