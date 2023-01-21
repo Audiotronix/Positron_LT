@@ -56,7 +56,7 @@
 ## [Mechanical Parts](./Mechanical%20Parts)
 
 ### ELECTRONICS:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                      Note                                                                      |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [10PIN_EXP_FEMALE](./Mechanical%20Parts/10PIN_EXP_FEMALE.stl) | 1 | [link](https://aliexpress.com/item/1005002431897617.html) | 10 | 0,88€ | Select 10P |
 | [10PIN_MALE_CONNECTOR](./Mechanical%20Parts/10PIN_MALE_CONNECTOR.stl) | 1 | [link](https://aliexpress.com/item/33029492417.html) / [link](https://amzn.to/3XzUQMl) | 1 | 1,12€ | Select 2x5 10pin |
@@ -78,7 +78,7 @@
 | [TFT_35](./Mechanical%20Parts/TFT_35.stl) | 1 | [link](https://aliexpress.com/item/1005004864671870.html) | 1 | 17,34€ |  |
 
 ### FASTENERS:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                      Note                                                                      |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_7979_M3X4X12](./Mechanical%20Parts/DIN_7979_M3X4X12.stl) | 2 | [link](https://aliexpress.com/item/1005003200850626.html) | 5 | 4,30€ | Select M3 (OD 4mm), 12mm (5pcs) |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://aliexpress.com/item/1005003107985358.html) | 50 | 2,06€ |  |
@@ -99,12 +99,12 @@
 
 ### MAKERBEAM:
 Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) . Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf)
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                      Note                                                                      |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 7 |  | 25 | --- | Included with T-slot nut |
 | [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 |  | 25 | --- | Included with T-slot nut |
-| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) | 12 | 17,95€ |  |
-| [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | 1 |  | 0 | --- | Included in previous cube order. |
+| [MAKERBEAM-CUBE](./Mechanical%20Parts/MAKERBEAM-CUBE.stl) | 3 | [link](https://www.makerbeam.com/makerbeam-corner-cubes-12p-black-for-makerbeam.html?id=24117589) / [link](https://amzn.eu/2M0ya10) | 12 | 17,95€ | You can buy single cubes here: [link](https://amzn.eu/2M0ya10) |
+| [MAKERBEAM-CUBE_M6](./Mechanical%20Parts/MAKERBEAM-CUBE_M6.stl) | 1 |  | --- | --- | Included in previous cube order if ordered from makerbeam; otherwise can be ordered here: [link](https://amzn.eu/2M0ya10) |
 | [MAKERBEAM_L-BRACKET_100304](./Mechanical%20Parts/MAKERBEAM_L-BRACKET_100304.stl) | 7 | [link](https://www.makerbeam.com/makerbeam-90-degree-brackets-12p.html?id=24117637) | 12 | 6,95€ |  |
 | [MAKERBEAM_L165](./Mechanical%20Parts/MAKERBEAM_L165.stl) | 2 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | --- | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf) |
 | [MAKERBEAM_L200](./Mechanical%20Parts/MAKERBEAM_L200.stl) | 2 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | --- | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf) |
@@ -112,10 +112,10 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [MAKERBEAM_L240](./Mechanical%20Parts/MAKERBEAM_L240.stl) | 2 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | --- | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf) |
 | [MAKERBEAM_L250](./Mechanical%20Parts/MAKERBEAM_L250.stl) | 3 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | --- | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf) |
 | [MAKERBEAM_L30](./Mechanical%20Parts/MAKERBEAM_L30.stl) | 1 | [link](https://www.makerbeam.com/makerbeam/makerbeam-10x10mm-profile-lengths-anodised-in-blac/) | --- | -> | You can find an optimized cutting plan here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf) |
-| [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | 33 | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) | 25 | 14,98€ | You need 2 sets |
+| [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | 33 | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) / [link](https://amzn.eu/d/7wUfAS0) | 25 | 14,98€ | Order the big pack: [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) and a small one: [link](https://www.makerbeam.com/linear-slide-kit-t-slot-nuts-5p-and-5mm-bolts-m3-1.html) / [link](https://amzn.eu/d/7wUfAS0) |
 
 ### MOTION:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                      Note                                                                      |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | [link](https://aliexpress.com/item/4000211452548.html) | 1 | 0,27€ |  |
 | [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://aliexpress.com/item/4000760591738.html) / [link](https://aliexpress.com/item/33044580486.html) | 5 | 2,94€ | F683zz 3x7x2.5mm 5pc (6 times) / F683 3x7x2.5mm open |
@@ -136,14 +136,14 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://aliexpress.com/item/32913757229.html) | 1 | 0,99€ | Select 20T Bore 5mm |
 
 ### SHIMS:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                      Note                                                                      |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_125_M5](./Mechanical%20Parts/DIN_125_M5.stl) | 2 | [link](https://aliexpress.com/item/1005002148389665.html) | 25 | 1,48€ | Select M5(25PCS) |
 | [DIN_433_M3](./Mechanical%20Parts/DIN_433_M3.stl) | 12 | [link](https://aliexpress.com/item/4001213983709.html) | 100 | 2,21€ | Select 3x6x0.5 |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://aliexpress.com/item/1005002046188859.html) | 50 | 1,91€ | Select 50pcs M7x13xThick, Thick 0.2mm |
 | [DIN_988_M3X02](./Mechanical%20Parts/DIN_988_M3X02.stl) | 8 | [link](https://aliexpress.com/item/1005001878233881.html) | 50 | 1,26€ | Select M3x6xThick 50pcs, 0.2mm thick |
 
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                            Note                                                            |
+|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                      Note                                                                      |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [ANGLED_EXTRUDER_MOD](./Mechanical%20Parts/ANGLED_EXTRUDER_MOD.stl) | 1 |  | --- | --- | WIP |
 | [BUFFER_BOTTOM](./Mechanical%20Parts/BUFFER_BOTTOM.stl) | 4 | [link](https://aliexpress.com/item/1005001559607723.html) | 100 | 1,06 |  |
