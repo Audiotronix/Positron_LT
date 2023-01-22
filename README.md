@@ -2,7 +2,7 @@
 
 # Positron LT
 
-<img src="https://user-images.githubusercontent.com/35639879/213271292-8dee41b2-8bbe-4148-a9ee-8af22a739404.gif" width="350" height="350">
+<img src="https://user-images.githubusercontent.com/35639879/213928234-fddfa075-c74c-4e65-8248-b939360a8843.gif" width="350" height="350">
 
 **Navigation**
 
@@ -13,6 +13,7 @@
 <br>
 
 ## About
+
 
 The Positron-LT is a printer made for everyone, especially hobbyists and professionals who don't want to or can't use machined parts.
 This printer is a [RepRap](https://reprap.org/wiki/RepRap) version based on the innovative [Positron V3](https://github.com/KRALYN/PositronV3) formfactor and motion-system which was created by [KRALYN](https://github.com/KRALYN/PositronV3).
