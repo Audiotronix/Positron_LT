@@ -31,6 +31,10 @@ printed,,X-RAIL_ENDCAP_V01,2,---,---,---,---,[t: 6m |w: 1 |s: No supports needed
 printed,,XY-SPACER_V01,1,---,1,---,---,[t: 21m |w: 3 |s: No supports needed |]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,1,---,---,[t: 1h2m |w: 8 |s: Supports on build plate only |]
 printed,,Z-BLOCK_HOLDER_V01,1,---,1,---,---,[t: 42m |w: 5 |s: No supports needed |]
+category_info,Extruder,,,---,---,---,---,
+mechanical,Extruder,ANGLED_EXTRUDER_MOD,1,---,---,https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp,---,Designed by HarryLoud: https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp
+mechanical,Extruder,CAPRICORN_PTFE_TUBE_1,1,"8,25€",1,https://aliexpress.com/item/1005003433217588.html,https://amzn.to/3jBuaMN,About 60cm required
+mechanical,Extruder,HOTEND_COMPLETE,1,"35,77€",1,https://aliexpress.com/item/1005004802238357.html,---,Funssor hotend complete / will be replaced with Phaetus hotend when available 
 category_info,electronics,,,---,---,---,---,
 mechanical,electronics,10PIN_EXP_FEMALE,1,"0,88€",10,https://aliexpress.com/item/1005002431897617.html,---,Select 10P
 mechanical,electronics,10PIN_MALE_CONNECTOR,1,"1,12€",1,https://aliexpress.com/item/33029492417.html,https://amzn.to/3XzUQMl,Select 2x5 10pin
@@ -50,6 +54,7 @@ mechanical,electronics,MOTOR_17HS08-1004S,3,"8,28€",1,https://www.omc-steppero
 mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://amzn.to/3IR9ASM,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,https://amzn.to/3QKw7Tj,
 mechanical,electronics,TFT_35,1,"17,34€",1,https://aliexpress.com/item/1005004864671870.html,https://amzn.to/3l8vAPt,
+mechanical,electronics,THERMISTOR_1,1,"2,17E",5,https://aliexpress.com/item/32812361274.html,https://amzn.to/3Y2qRxg,1000K
 category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X4X12,2,"4,30€",5,https://aliexpress.com/item/1005003200850626.html,---,"Select M3 (OD 4mm), 12mm (5pcs)"
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://aliexpress.com/item/1005003107985358.html,https://amzn.to/3lbRscQ,
@@ -103,12 +108,8 @@ mechanical,shims,DIN_125_M5,2,"1,48€",25,https://aliexpress.com/item/100500214
 mechanical,shims,DIN_433_M3,12,"2,21€",100,https://aliexpress.com/item/4001213983709.html,---,Select 3x6x0.5
 mechanical,shims,DIN_988_7X13X02,40,"1,91€",50,https://aliexpress.com/item/1005002046188859.html,https://amzn.to/3DF8rdF,"Select 50pcs M7x13xThick, Thick 0.2mm"
 mechanical,shims,DIN_988_M3X02,8,"1,26€",50,https://aliexpress.com/item/1005001878233881.html,https://amzn.to/3X3Y1LN,"Select M3x6xThick 50pcs, 0.2mm thick"
-mechanical,Extruder,ANGLED_EXTRUDER_MOD,1,---,---,https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp,---,Designed by HarryLoud: https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp
 mechanical,,BUFFER_BOTTOM,4,"1,06€",100,https://aliexpress.com/item/1005001559607723.html,---,
-mechanical,Extruder,CAPRICORN_PTFE_TUBE_1,1,"8,25€",1,https://aliexpress.com/item/1005003433217588.html,https://amzn.to/3jBuaMN,About 60cm required
-mechanical,,DUST_COVER_85X52,2,---,---,https://de.aliexpress.com/item/4001283014835.html,---,Highly recommended!  need to be cutted in 85x52mm and clued under the air shrout left and right
-mechanical,Extruder,HOTEND_COMPLETE,1,"35,77€",1,https://de.aliexpress.com/item/1005004802238357.html,---,"Funssor hotend complete / will be replaced with Phaetus hotend when available "
+mechanical,,DUST_COVER_85X52,2,---,---,https://aliexpress.com/item/4001283014835.html,---,Highly recommended!  need to be cutted in 85x52mm and clued under the air shrout left and right
 mechanical,,PCB_SCREEN_ADAPTER,1,---,---,---,---,"Custom PCB, WIP"
 mechanical,,SILICONE_SOCK_1,1,---,---,---,---,Needs to be molded by yourself (WIP)
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,Bed-End-Spacer WIP
-mechanical,electronics,THERMISTOR_1,1,"2,17E",5,https://aliexpress.com/item/32812361274.html,https://amzn.to/3Y2qRxg,1000K
