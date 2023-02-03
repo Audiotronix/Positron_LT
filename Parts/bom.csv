@@ -31,23 +31,17 @@ printed,,X-RAIL_ENDCAP_V01,2,---,---,---,---,[t: 6m |w: 1 |s: No supports needed
 printed,,XY-SPACER_V01,1,---,1,---,---,[t: 21m |w: 3 |s: No supports needed |]
 printed,,Z-AXIS-ENDSTOP_V01,1,---,1,---,---,[t: 1h2m |w: 8 |s: Supports on build plate only |]
 printed,,Z-BLOCK_HOLDER_V01,1,---,1,---,---,[t: 42m |w: 5 |s: No supports needed |]
-category_info,Extruder,,,---,---,---,---,
-mechanical,Extruder,ANGLED_EXTRUDER_MOD,1,---,---,https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp,---,Designed by HarryLoud: https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp
-mechanical,Extruder,CAPRICORN_PTFE_TUBE_1,1,"8,25€",1,https://aliexpress.com/item/1005003433217588.html,https://amzn.to/3jBuaMN,About 60cm required
-mechanical,Extruder,HOTEND_COMPLETE,1,"35,77€",1,https://aliexpress.com/item/1005004802238357.html,---,Funssor hotend complete / will be replaced with Phaetus hotend when available 
 category_info,electronics,,,---,---,---,---,
 mechanical,electronics,10PIN_EXP_FEMALE,1,"0,88€",10,https://aliexpress.com/item/1005002431897617.html,---,Select 10P
 mechanical,electronics,10PIN_MALE_CONNECTOR,1,"1,12€",1,https://aliexpress.com/item/33029492417.html,https://amzn.to/3XzUQMl,Select 2x5 10pin
 mechanical,electronics,6_PIN_MAGNETIC_POGO,1,"3,30€",1,https://aliexpress.com/item/1005002669709542.html,---,Select 6pin Straight
 mechanical,electronics,C7_PLUG-IN,1,"0,23€",1,https://aliexpress.com/item/4001252791878.html,---,
 mechanical,electronics,CABLE_C7_SWITCH,1,"9,99€",1,https://amzn.to/3w4nDgk,https://amzn.to/3XzU6qx,We recommend using a cable with a switch or an adapter like this: https://aliexpress.com/item/1005002301827800.html / https://amzn.to/3XzSGfH
-mechanical,electronics,EPP-200-24,1,"52,30€",1,https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D,https://amzn.to/3WfsBS9,"Meanwell EPP-220-24 !! Note from Muon3D: If theMuon3D heated bed is being used, the EPP-200-27 improves its performance by 30-40%. (70-80w at 24v, 90-100w at 27v).
-Also, recommend to turn the voltage via the potentiometer up to the max to further increase the voltage and increase heated bed performance."
+mechanical,electronics,EPP-200-24,1,"52,30€",1,https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D,https://amzn.to/3WfsBS9,"Meanwell EPP-220-24 !! Note from Muon3D: If theMuon3D heated bed is being used, the EPP-200-27 improves its performance by 30-40%. (70-80w at 24v, 90-100w at 27v). https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-27?qs=C9r8PV%2F%252BoWPXQf6mJFm6HA%3D%3D"
 mechanical,electronics,FAN_2510,2,"10,69€",2,https://aliexpress.com/item/32807610078.html,https://amzn.to/3iCEaVR,"24V Dual Ball XH2,54"
 mechanical,electronics,FAN_3010,1,"3,59€",1,https://aliexpress.com/item/1005002568592831.html?,---,Select 24V xh2.54 2pin
 mechanical,electronics,FAN_5015,1,"8,67€",1,https://aliexpress.com/item/1005002517858129.html,https://aliexpress.com/item/32844339310.html,Select 24V model
-mechanical,electronics,HEATED_GLASSBED_MUON-3D,1,"45,95€",1,https://muon3d.com/products/positron-v3-transparent-heated-bed,---,"Highly recomended !! Note from Muon3D: If theMuon3D heated bed is being used, the EPP-200-27 improves its performance by 30-40%. (70-80w at 24v, 90-100w at 27v).
-Also, recommend to turn the voltage via the potentiometer up to the max to further increase the voltage and increase heated bed performance."
+mechanical,electronics,HEATED_GLASSBED_MUON-3D,1,"45,95€",1,https://muon3d.com/products/positron-v3-transparent-heated-bed,---,"Highly recomended !! Note from Muon3D: If theMuon3D heated bed is being used, the EPP-200-27 improves its performance by 30-40%. (70-80w at 24v, 90-100w at 27v). https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-27?qs=C9r8PV%2F%252BoWPXQf6mJFm6HA%3D%3D"
 mechanical,electronics,HEATER_CARTRIGE_1,1,"1,27€",1,https://aliexpress.com/item/32843289523.html,---,Select 24V 50W 1M
 mechanical,electronics,HEAT_SINK_RPI_2MM,1,"5,72€",1,https://aliexpress.com/item/1005004772727034.html,,2mm height
 mechanical,electronics,LED_4X_15X15,1,"0,45€",1,https://aliexpress.com/item/1005002674028098.html,---,Select 4Bit Rectangular
@@ -56,7 +50,6 @@ mechanical,electronics,MOTOR_17HS08-1004S,3,"8,28€",1,https://www.omc-steppero
 mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://amzn.to/3IR9ASM,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,https://amzn.to/3QKw7Tj,
 mechanical,electronics,TFT_35,1,"17,34€",1,https://aliexpress.com/item/1005004864671870.html,https://amzn.to/3l8vAPt,
-mechanical,electronics,THERMISTOR_1,1,"2,17E",5,https://aliexpress.com/item/32812361274.html,https://amzn.to/3Y2qRxg,1000K
 category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X4X12,2,"4,30€",5,https://aliexpress.com/item/1005003200850626.html,---,"Select M3 (OD 4mm), 12mm (5pcs)"
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://aliexpress.com/item/1005003107985358.html,https://amzn.to/3lbRscQ,
@@ -110,8 +103,12 @@ mechanical,shims,DIN_125_M5,2,"1,48€",25,https://aliexpress.com/item/100500214
 mechanical,shims,DIN_433_M3,12,"2,21€",100,https://aliexpress.com/item/4001213983709.html,---,Select 3x6x0.5
 mechanical,shims,DIN_988_7X13X02,40,"1,91€",50,https://aliexpress.com/item/1005002046188859.html,https://amzn.to/3DF8rdF,"Select 50pcs M7x13xThick, Thick 0.2mm"
 mechanical,shims,DIN_988_M3X02,8,"1,26€",50,https://aliexpress.com/item/1005001878233881.html,https://amzn.to/3X3Y1LN,"Select M3x6xThick 50pcs, 0.2mm thick"
+mechanical,Extruder,ANGLED_EXTRUDER_MOD,1,---,---,https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp,---,Designed by HarryLoud: https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp
 mechanical,,BUFFER_BOTTOM,4,"1,06€",100,https://aliexpress.com/item/1005001559607723.html,---,
-mechanical,,DUST_COVER_85X52,2,---,---,https://aliexpress.com/item/4001283014835.html,---,Highly recommended!  need to be cutted in 85x52mm and clued under the air shrout left and right
+mechanical,Extruder,CAPRICORN_PTFE_TUBE_1,1,"8,25€",1,https://aliexpress.com/item/1005003433217588.html,https://amzn.to/3jBuaMN,About 60cm required
+mechanical,,DUST_COVER_85X52,2,---,---,https://de.aliexpress.com/item/4001283014835.html,---,Highly recommended!  need to be cutted in 85x52mm and clued under the air shrout left and right
+mechanical,Extruder,HOTEND_COMPLETE,1,"35,77€",1,https://de.aliexpress.com/item/1005004802238357.html,---,"Funssor hotend complete / will be replaced with Phaetus hotend when available "
 mechanical,,PCB_SCREEN_ADAPTER,1,---,---,---,---,"Custom PCB, WIP"
 mechanical,,SILICONE_SOCK_1,1,---,---,---,---,Needs to be molded by yourself (WIP)
 mechanical,,SPACER_PRINTBED_WIP,2,---,---,---,---,Bed-End-Spacer WIP
+mechanical,electronics,THERMISTOR_1,1,"2,17E",5,https://aliexpress.com/item/32812361274.html,https://amzn.to/3Y2qRxg,1000K
