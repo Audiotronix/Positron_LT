@@ -126,7 +126,7 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | [link](https://aliexpress.com/item/4000211452548.html) / [link](https://amzn.to/3l24CZH) | 1 | 0,27€ |  |
-| [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://aliexpress.com/i/32966483895.html) | 5 | 4,89€ | F683zz 3x7x2.5mm (3 times) |
+| [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://aliexpress.com/i/32966483895.html) | 10 | 4,89€ | F683zz 3x7x2.5mm (3 times) |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | [link](https://aliexpress.com/item/32971394035.html) / [link](https://amzn.to/3DF3bad) | 1 | 0,55€ | Select 16T W6 B3 Without T |
 | [GT2_BELT-3MM_L1650MM](./Mechanical%20Parts/GT2_BELT-3MM_L1650MM.stl) | 1 | [link](https://www.ebay.de/itm/283457733982?var=585183190920) / [link](https://amzn.to/3wUc9MT) | 1 | 5,00€ | Select x 2m (Y32) (You also can cut an 6mm belt in 2pieces. recommented cut at~2,8mm) |
 | [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [link](https://aliexpress.com/item/1005004100120790.html) / [link](https://amzn.to/3DIaihV) | 1 | 1,07€ | Select 2GT-178, Belt Width 6mm 1pcs |
