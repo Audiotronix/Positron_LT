@@ -170,11 +170,11 @@
 | EXTRUDER | 44,02€ | 44,02€ |
 | ELECTRONICS | 259,2€ | 256,67€ |
 | FASTENERS | 36,13€ | 11,67€ |
-| MAKERBEAM | 54,86€<br>+27,0€ | 28,31€<br>+27,0€ |
+| MAKERBEAM | 54,86€<br>+27,75€ | 28,31€<br>+27,75€ |
 | MOTION | 104,61€ | 102,78€ |
 | SHIMS | 6,86€ | 2,12€ |
 | OTHER | 1,06€ | 0,04€ |
 | | | |
-| Total | 533,74€ | 472,61€ |
+| Total | 534,49€ | 473,36€ |
 
 > Note: Prices were calculated 20.01.2023, so might no longer be accurate
