@@ -34,6 +34,44 @@ def write_mechanical(part_data) -> str:
 
     return '| '+part_name+' | '+str(part_data['amount'])+' | '+link+' | '+str(part_data['pcs'])+' | '+str(part_data['price'])+' | '+str(note)+' |\n'
 
+def isfloat(num):
+    try: float(num)
+    except ValueError: return False
+    return True
+
+def ceildiv(a, b):
+    return -(a // -b)
+
+def calc_prices(total_prices, part):
+    if part['type'] == 'printed': return
+
+    price = str(part['price']).replace(',','.').replace('€','')
+    if not isfloat(price): return
+    price = float(price)
+
+    category = str(part['category']).upper()
+
+    if category == '': category = 'OTHER'
+
+    #register category
+    if category not in total_prices:
+        total_prices[category] = {
+            "extra": 0,
+            "real_price": 0,
+            "exact_price": 0
+        }
+
+    if part['type'] == 'category_info':
+        total_prices[category]['extra'] = price
+        return
+
+    if not isfloat(part['pcs']): return
+
+    real_price = price * ceildiv(int(part['amount']), int(part['pcs']))
+    exact_price = int(part['amount']) * price / int(part['pcs'])
+
+    total_prices[category]['real_price'] = round(total_prices[category]['real_price'] + real_price, 2)
+    total_prices[category]['exact_price'] = round(total_prices[category]['exact_price'] + exact_price, 2)
 
 # read csv
 csv_data = {}
@@ -101,6 +139,7 @@ mechanical_header = '|'+pad_column('Part Name', column_lengths['mechanical']['ca
 
 #create category title + table header
 for category in categories:
+
     if categories[category] == 'printed':
 
         category_info_note = ''
@@ -111,6 +150,7 @@ for category in categories:
                 break
 
         printed_table += '\n### '+str(category).upper()+':\n' + category_info_note + printed_header
+
     if categories[category] == 'mechanical':
 
         category_info_note = ''
@@ -147,9 +187,13 @@ if 'mechanical' in categories.values():
 else:
     mechanical_table = '\n' + mechanical_header
 
+total_prices = {}
+
 #create table strings for parts without category
 for part in csv_data:
     part_data = csv_data[part]
+
+    calc_prices(total_prices, part_data)
 
     #skip if has category
     if part_data['category'] != '': continue
@@ -160,6 +204,29 @@ for part in csv_data:
     elif part_data['type'] == 'mechanical':
         mechanical_table += write_mechanical(part_data)
 
+#create total prices table
+total_prices_table = '| Category | Total | Exact Price |\n| --- | --- | --- |\n'
+
+total_real_price, total_exact_price = 0, 0
+for category in total_prices:
+    real_price = str(total_prices[category]['real_price']).replace('.',',')+'€'
+    exact_price = str(total_prices[category]['exact_price']).replace('.',',')+'€'
+
+    if total_prices[category]['extra'] != 0:
+        extra = str(total_prices[category]['extra']).replace('.',',')+'€'
+        real_price += '<br>+' + extra
+        exact_price += '<br>+' + extra
+
+        #add extra to each for total
+        total_prices[category]['real_price'] = round(total_prices[category]['real_price'] + total_prices[category]['extra'], 2)
+        total_prices[category]['exact_price'] = round(total_prices[category]['exact_price'] + total_prices[category]['extra'], 2)
+    
+    total_real_price = round(total_real_price + total_prices[category]['real_price'], 2)
+    total_exact_price = round(total_exact_price + total_prices[category]['exact_price'], 2)
+
+    total_prices_table += '| '+str(category)+' | '+real_price+' | '+exact_price+' |\n'
+
+total_prices_table += '| | | |\n| Total | '+str(total_real_price).replace('.',',')+'€ | '+str(total_exact_price).replace('.',',')+'€ |'
 
 # README update
 lines = None
@@ -200,6 +267,20 @@ with open('./Parts/README.md', "w") as f:
     while line[:2] != '``':
         line = next(lines_iter)
     f.write('\n')
+
+    # Fing begining of total table
+    while '##' not in line and 'Total' not in line:
+        f.write(line)
+        line = next(lines_iter)
+    
+    # write total table
+    for x in total_prices_table:
+        f.write(x)
+    
+    # find end of table
+    while line[:2] != '> ':
+        line = next(lines_iter)
+    f.write('\n\n')
 
     while line:
         f.write(line)
