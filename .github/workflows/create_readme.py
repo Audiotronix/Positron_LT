@@ -272,6 +272,7 @@ with open('./Parts/README.md', "w") as f:
     while '##' not in line and 'Total' not in line:
         f.write(line)
         line = next(lines_iter)
+    f.write(line)
     
     # write total table
     for x in total_prices_table:
