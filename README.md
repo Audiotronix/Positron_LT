@@ -11,7 +11,7 @@
 
 <br>
 
-![Discord Banner 2](https://discordapp.com/api/guilds/1067472931246047323/widget.png?style=banner2)
+[<img src="https://discordapp.com/api/guilds/1067472931246047323/widget.png?style=banner2">](https://discord.gg/TNKpfscccK)
 
 </div>
 
