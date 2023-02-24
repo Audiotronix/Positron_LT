@@ -230,11 +230,11 @@ total_prices_table += '| | | |\n| Total | '+str(total_real_price).replace('.',',
 
 # README update
 lines = None
-with open('./Parts/README.md', "r") as f:
+with open('./Parts/README.md', "r", encoding='utf-8') as f:
     lines = f.readlines()
 
 lines_iter = iter(lines)
-with open('./Parts/README.md', "w") as f:
+with open('./Parts/README.md', "w", encoding='utf-8') as f:
 
     line = next(lines_iter)
 
