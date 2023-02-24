@@ -36,7 +36,7 @@ except:
 parts = in_csv
 
 # create csv
-csvfile = open('./Parts/bom.csv', 'w', newline='')
+csvfile = open('./Parts/bom.csv', 'w', newline='', encoding='utf-8')
 fieldnames = ['type', 'category', 'cad_name', 'amount', 'price', 'pcs', 'link', 'alt_link', 'note']
 writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=',')
 
