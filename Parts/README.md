@@ -83,7 +83,7 @@
 | [RPI_ZERO_2W](./Mechanical%20Parts/RPI_ZERO_2W.stl) | 1 | [link](https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html) / [link](https://amzn.to/3IR9ASM) | 1 | 22,50€ | You can also use an Bananapi Pi M2 Zero as substituion: [link](https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd) |
 | [SKR-PICO](./Mechanical%20Parts/SKR-PICO.stl) | 1 | [link](https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE) / [link](https://amzn.to/3QKw7Tj) | 1 | 29,99€ |  |
 | [TFT_35](./Mechanical%20Parts/TFT_35.stl) | 1 | [link](https://aliexpress.com/item/1005004864671870.html) / [link](https://amzn.to/3l8vAPt) | 1 | 17,34€ |  |
-| [THERMISTOR_1](./Mechanical%20Parts/THERMISTOR_1.stl) | 1 | [link](https://aliexpress.com/item/32812361274.html) / [link](https://amzn.to/3Y2qRxg) | 5 | 2,17E | 1000K |
+| [THERMISTOR_1](./Mechanical%20Parts/THERMISTOR_1.stl) | 1 | [link](https://aliexpress.com/item/32812361274.html) / [link](https://amzn.to/3Y2qRxg) | 5 | 2,17€ | 1000K |
 
 ### FASTENERS:
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
@@ -164,16 +164,16 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 
 > Note: Some links might be affiliate links!
 
-## Total
 | Category | Total | Exact Price |
 | --- | --- | --- |
-| Electronics | 257,03€ | 256,24€ |
-| Fasteners | 36,13€ | 11,65€ |
-| Makerbeams | 54,86€ + 10,00€ | 28,31€ + 10,00€ |
-| Motion | 107,58€ | 105,55€ |
-| Shims | 6,86€ | 2,12€ |
-| Other | 9,31€ | 8,29€ |
+| EXTRUDER | 44,02€ | 44,02€ |
+| ELECTRONICS | 259,2€ | 256,67€ |
+| FASTENERS | 36,13€ | 11,67€ |
+| MAKERBEAM | 54,86€ | 28,31€ |
+| MOTION | 104,61€ | 102,78€ |
+| SHIMS | 6,86€ | 2,12€ |
+| OTHER | 1,06€ | 0,04€ |
 | | | |
-| Total | 481,77€ | 422.16€ |
+| Total | 506,74€ | 445,61€ |
 
 > Note: Prices were calculated 20.01.2023, so might no longer be accurate
