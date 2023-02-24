@@ -106,7 +106,7 @@
 | [WAFERHEAD_M3X20](./Mechanical%20Parts/WAFERHEAD_M3X20.stl) | 5 | [link](https://aliexpress.com/item/1005004510664424.html) | 20 | 2,54€ |  |
 
 ### MAKERBEAM:
-Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) . Either way, you need to buy beams that are able be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf)
+---
 |                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 7 |  | 25 | --- | Included with T-slot nut |
@@ -170,11 +170,11 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | EXTRUDER | 44,02€ | 44,02€ |
 | ELECTRONICS | 259,2€ | 256,67€ |
 | FASTENERS | 36,13€ | 11,67€ |
-| MAKERBEAM | 54,86€<br>+10,0€ | 28,31€<br>+10,0€ |
+| MAKERBEAM | 54,86€<br>+27,0€ | 28,31€<br>+27,0€ |
 | MOTION | 104,61€ | 102,78€ |
 | SHIMS | 6,86€ | 2,12€ |
 | OTHER | 1,06€ | 0,04€ |
 | | | |
-| Total | 516,74€ | 455,61€ |
+| Total | 533,74€ | 472,61€ |
 
 > Note: Prices were calculated 20.01.2023, so might no longer be accurate
