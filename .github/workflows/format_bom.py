@@ -62,7 +62,7 @@ for category in categories:
             if in_csv[part]['type'] == 'category_info' and in_csv[part]['category'] == category:
                 cat_info = in_csv[part]
                 break
-        write_part_to_csv('', {'type':'category_info'}, {'category': category, 'note':cat_info.get('note','')}, writer)
+        write_part_to_csv('', {'type':'category_info'}, {'category': category,'price': cat_info.get('price',''),'note':cat_info.get('note','')}, writer)
 
         for part in parts:
             if parts[part]['type'] == 'printed' and part in in_csv and in_csv[part]['category'] == category:
@@ -87,7 +87,7 @@ for category in categories:
             if in_csv[part]['type'] == 'category_info' and in_csv[part]['category'] == category:
                 cat_info = in_csv[part]
                 break
-        write_part_to_csv('', {'type':'category_info'}, {'category': category, 'note':cat_info.get('note','')}, writer)
+        write_part_to_csv('', {'type':'category_info'}, {'category': category,'price': cat_info.get('price',''),'note':cat_info.get('note','')}, writer)
 
         for part in parts:
             if parts[part]['type'] == 'mechanical' and part in in_csv and in_csv[part]['category'] == category:
