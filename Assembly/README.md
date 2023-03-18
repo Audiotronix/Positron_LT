@@ -1,36 +1,39 @@
-# Assembling the Positron LT
+# Building the Positron LT
 
-## Required tools:
-- Saw (aluminium & Steel)
-- Drill (aluminium)
-- Screwdriver
-- Soldering iron
+## Needed Tools
 
-## Optional tools:
-- Tap
+# Preparation
 
-<br>
+## Printing the parts
 
-# Preparation:
+## Inserting Heat-Set Inserts
+<table>
+<tr>
+<td><img src="https://www-objects.markforged.com/craft/common/_1200x630_crop_center-center_82_none/5bd2b3d28bfa5305ab59fcdd_heatsetinserts-6.jpg?mtime=1666708745", width=400px></td>
+<td>1. Do a <br> 2. Do b</td>
+</tr>
+</table>
 
-### Cutting everything to length:
+## Cutting the beams
 
-#### Makerbeams
-You can find a cutting plan [here](https://github.com/Fliens/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf)
+## Cutting the rails
 
-Required lengths:
-- 165mm x2
-- 200mm x2
-- 230mm x1
-- 240mm x2
-- 250mm x3
-- 30mm x1
+# Assembly
 
-#### Linear rails:
-MGN9_RAIL (250mm): 227mm
-MGW9_RAIL (250mm): 227mm
-MGN12_RAIL (250mm): 225mm
+## Base
 
-### Inserting inserts into the printed parts:
+### Frame
 
-> Images comming soon
+### Electronics
+
+### Movement
+
+## Z-Axis
+
+### Arm
+
+### Movement
+
+## Printbed
+
+## Printhead
