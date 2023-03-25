@@ -4,7 +4,7 @@
 
 ## Required Tools:
 - Saw (aluminium is recommended)
-- Clamps
+- Clamps/Vice
 - Makerbeam L-Bracket
 - Makerbeam T-Nuts
 
