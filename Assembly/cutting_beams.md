@@ -12,7 +12,7 @@
 - Makerbeam 900mm x2
 - Makerbeam 600mm x1
 
-## Lenghts:
+## Lengths:
 - 250mm x3
 - 240mm x2
 - 230mm x1
