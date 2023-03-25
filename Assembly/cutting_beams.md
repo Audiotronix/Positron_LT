@@ -25,12 +25,15 @@
 ## Cutting:
 >Note: Each cut has a tolerance of 10mm, so rather cut too long and sand/file it down later to the correct length. We germans like to say: cut twice.. still too short
 
->The red line displays where the cut should me bade
+The red line displays where the cut should me bade
+
+It's recommended to clamp the beams down or use a vice.
+Use the Makerbeam L-Brackets as guides so that you only have to cut along the bracket. You will have more guidance when you screw the bracket onto both sides.
 
 ### 250mm Beam:
 >The blue Line needs to be the side where the beams already have threads!
 
-![image](https://user-images.githubusercontent.com/35639879/227737300-c9772380-7ba0-4dad-991c-a46dd66d5389.png)
+![image](https://user-images.githubusercontent.com/35639879/227737606-d9dea101-44ca-4d2a-9a01-76bbb2c11fda.png)
 
 ### 240mm Beam:
 >The blue Line needs to be the side where the beams already have threads!
@@ -53,3 +56,6 @@
 ### 30mm Beam:
 
 ![image](https://user-images.githubusercontent.com/35639879/227737350-acfd15d9-7693-4aee-a3b6-636e4ea5d1c0.png)
+
+## Photos:
+![IMG_20220913_202254](https://user-images.githubusercontent.com/35639879/227737888-9dea04ea-6cc5-4a98-b6cb-d24dba62af21.jpg)
