@@ -16,6 +16,7 @@
 - 230mm Makerbeam x1
 - Makerbeam L-Brackets
 - Makerbeam T-Nuts
+- Makerbeam Cubes
 - m3 10mm screw x2
 - m3 20mm screw x2
 
@@ -81,6 +82,16 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/35639879/227796448-f7ed5343-596a-4e8e-a09c-6c150ed677fd.png" height="400">
+</div>
+
+- Now use a M6 Drill & Tap to drill trough a Makerbeam-Cube
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227797510-68da3935-e34d-40ef-afb9-f8b3f221fc4a.png" height="400">
+  
+  [I'm using a combo tap]
+  
+  To perfectly align everything, stick the tap trough one of the big holes and cut the thread on the opposite side (red circle)
 </div>
 
 ## Z-Tower
