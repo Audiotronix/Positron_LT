@@ -169,3 +169,43 @@
 ### Cubes
 
 - Take a 6mm drill and drill trough the whole cube (red circle)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227804811-0f2a890d-4be5-4e49-ad67-e544be271cea.png" width="400">
+</div>
+
+- Now screw the cube with a flathead screw that came with the L-Brackets onto the bottom of the Z-Tower
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227804935-df8be731-fcc3-4b5d-a0be-90bde5a80cc8.jpg" width="400">
+</div>
+
+- Now take 2 cubes and place them on the two outer beams of the Z-Tower.
+- Loosely fasten them to the beams using T-Nuts and flathead screws.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227805182-97ee8250-2e94-41bc-af2c-c5c28cbb753a.jpg" width="800">
+</div>
+
+### Complete frame assembly
+
+- Take the main-beam and the Z-Tower and put them together.
+- The two cubes of the Z-Tower should slot below the 30mm cross-bar.
+- If they do not fit, then you might have to use [.2mm washers](https://aliexpress.com/item/1005002046188859.html) between the cross-beam and the L-Brackets. If that doesn't improve anything, then you might have to use them also between the L-Brackets and the main-beam
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227805372-79ac1fa6-708c-4717-acdb-6ad6997c0e22.jpg" width="800">
+</div>
+
+- Make sure that there is no gap between the Z-Tower and the cross-bar.
+- Everything should sit completely flush.
+- If there are some gaps then loosen the cross-bar and the center cube and push everything firmly together.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227805786-039e9a19-8703-4311-8d9b-1e33fdd24900.jpg" width="800">
+</div>
+
+- You can now use the thumbscrew to hold everything together.
+- I like to loosen every screw of the hinge, tighten the thumbscrew and then tighten every screw so that every screw now has it's final position.
+
+This concludes the assembly of the frame.
