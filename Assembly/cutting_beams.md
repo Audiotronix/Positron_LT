@@ -3,7 +3,7 @@
 >Note: If you don't want to cut the beams yourself, you can have them cut by makerbeam. Each cut costs 3,50€
 
 ## Required Tools:
-- Saw (aluminium is recommended)
+- Saw (aluminium is recommended, other saws should also work)
 - Clamps/Vice
 - Makerbeam L-Bracket
 - Makerbeam T-Nuts
