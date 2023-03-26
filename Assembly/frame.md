@@ -22,6 +22,11 @@
 2. Take a L-Bracket and screw it onto the front.
 3. Take some more L-Brackets and screw them onto the main-beam using the T-Nuts so that the 3 makerbeams are beeing held firmly together. These extra Brackets should be on the oposing side the front L is pointing.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227791708-5830c9cb-d10d-4282-b482-ca99c85a4961.png" height="400">
+  <img src="https://user-images.githubusercontent.com/35639879/227791713-e9787c4f-f4fc-4474-a30e-a12baacfb3b0.png" height="400">
+</div>
+
 ### Drilling
 
 - Place two L-Brackets on each Side at the back of the main-beam.
@@ -35,7 +40,10 @@
 6. Tap the 2.5mm hole and drill a 2.5mm hole trough the hole on the other side into the middle beam.
 7. Tap the 2.5mm hole in the middle beam trough the 3mm hole.
 
-img
+<div align="center">
+  
+  ![image](https://user-images.githubusercontent.com/35639879/227791827-af6a194f-8a2f-4948-8d72-b1c9efeb8f90.png)
+</div>
 
 > You can use a T-Nut if you messed the tap up. The nut needs to be placed in the middle beam. This technique is not recommended but might save your day.
 
