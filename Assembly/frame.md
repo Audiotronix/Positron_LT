@@ -6,6 +6,9 @@
 - M2.5 Drill bit (2mm might also work)
 - M3 Drill bit
 - M3 Tap
+- M6 Tap
+
+> A tap is recommended, threading with a screw might also work, but the screw can easily break off!
 
 ### Required Materials:
 - 240mm Makerbeam x2
@@ -13,6 +16,8 @@
 - 230mm Makerbeam x1
 - Makerbeam L-Brackets
 - Makerbeam T-Nuts
+- m3 10mm screw x2
+- m3 20mm screw x2
 
 ## Main-Beam
 
@@ -41,23 +46,41 @@
 1. Drill on one side trough the first beam with a 3mm drill. Do the same on the other side but with a 2.5mm drill.
 2. Drill trough the side where you just drilled the 3mm hole a 2.5mm hole into the beam in the middle. Tap the 2.5mm hole on the other side.
 3. Tap the 2.5mm hole in the middle beam trough the 3mm hole.
-4. Fasten a 18mm m3 screw in the long hole and a 10mm m3 screw in the short hole.
+4. Fasten a 20mm m3 screw in the long hole and a 10mm m3 screw in the short hole.
 5. Unscrew on both sides the middle screw holding the L-Bracket (move the T-Nut tot he side). Drill a 2.5mm hole on the side of the long m3 screw. And a 3mm hole on the other side.
 6. Tap the 2.5mm hole and drill a 2.5mm hole trough the hole on the other side into the middle beam.
 7. Tap the 2.5mm hole in the middle beam trough the 3mm hole.
 
 <div align="center">
   
-  ![image](https://user-images.githubusercontent.com/35639879/227791827-af6a194f-8a2f-4948-8d72-b1c9efeb8f90.png)
-  
+  ![image](https://user-images.githubusercontent.com/35639879/227796811-fa0de517-8a40-4b5a-91ac-5f5694ad2d5d.png)
+
   This should result in holes that allow screws to be placed like this:
   
-  ![image](https://user-images.githubusercontent.com/35639879/227791961-e77d8270-78fa-4dc6-83da-2ee20b7706f5.png)
+  ![image](https://user-images.githubusercontent.com/35639879/227796844-10cc051e-9c46-48c7-bfb7-7416d8ca10dd.png)
 
 </div>
 
 > You can use a T-Nut if you messed the tap up. The nut needs to be placed in the middle beam. This technique is not recommended but might save your day.
 
 ### 30mm Cross-Beam
+
+- The 30mm beam should already have both ends threaded.
+
+1. Screw a L-Bracket onto the 30mm beam and fasten it with 2 screws and nuts on the outer holes.
+2. Drill with a 3mm drill trough the middle hole trough the whole beam.
+3. Rotate the beam and repeat both previous steps.
+4. The result should be a 30mm beam with holes on all 4 sides.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227794954-92cb48e3-475a-4265-85bb-c55a068f45c8.png" height="400">
+</div>
+
+- Now use two L-Brackets and fasten them to the back of the main-beam using the 4 holes drilled earlier and 2 m3 10mm and 20mm screws.
+- Place the 30mm beam between the two L-Brackets and fasten it with 2 screws that came with the brackets.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227796448-f7ed5343-596a-4e8e-a09c-6c150ed677fd.png" height="400">
+</div>
 
 ## Z-Tower
