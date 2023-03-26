@@ -94,4 +94,25 @@
   To perfectly align everything, stick the tap trough one of the big holes and cut the thread on the opposite side (red circle)
 </div>
 
+- Now use a T-Nut to fasten the cube under the 30mm Cross-Beam
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227797804-b2a6004b-e61e-4c5b-a6f9-919c81439db4.jpg" height="400">
+  
+  To properly align the cube in the center, you can use 2 spare cubes.
+  
+  <img src="https://user-images.githubusercontent.com/35639879/227797922-f419b6a1-ba2a-46f2-8925-ab96016f2a6b.jpg" height="400">
+
+</div>
+
+- Use a flathead screw that came with the Makerbeam L-Brackets to fasten the cube to the beam.
+- Stick the allen key trough the previous drilled hole in the cross-beam to properly tighten.
+
+> You can now check all screws that hold the L-Brackets and the cube and retighten them.
+
+> If the two spare cubes below the cross-bar are stuck, then you might have to use [.2mm washers](https://aliexpress.com/item/1005002046188859.html) between the cross-beam and the L-Brackets. If that doesn't improve anything, then you might have to use them also between the L-Brackets and the main-beam
+
+
+
+
 ## Z-Tower
