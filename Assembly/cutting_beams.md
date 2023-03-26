@@ -25,7 +25,7 @@
 ## Cutting:
 >Note: Each cut has a tolerance of 10mm, so rather cut too long and sand/file it down later to the correct length. We germans like to say: cut twice.. still too short
 
-The red line displays where the cut should me bade
+The red line displays where the cut should be made
 
 It's recommended to clamp the beams down or use a vice.
 Use the Makerbeam L-Brackets as guides so that you only have to cut along the bracket. You will have more guidance when you screw the bracket onto both sides.
