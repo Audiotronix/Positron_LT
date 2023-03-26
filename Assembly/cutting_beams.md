@@ -59,3 +59,4 @@ Use the Makerbeam L-Brackets as guides so that you only have to cut along the br
 
 ## Photos:
 ![IMG_20220913_202254](https://user-images.githubusercontent.com/35639879/227737888-9dea04ea-6cc5-4a98-b6cb-d24dba62af21.jpg)
+![photo_2023-03-26_16-03-27](https://user-images.githubusercontent.com/35639879/227781069-a8b43721-4126-4d0c-b6d9-0373e316d6b6.jpg)
