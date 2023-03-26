@@ -84,6 +84,8 @@
   <img src="https://user-images.githubusercontent.com/35639879/227796448-f7ed5343-596a-4e8e-a09c-6c150ed677fd.png" height="400">
 </div>
 
+### Cube
+
 - Now use a M6 Drill & Tap to drill trough a Makerbeam-Cube
 
 <div align="center">
@@ -112,7 +114,21 @@
 
 > If the two spare cubes below the cross-bar are stuck, then you might have to use [.2mm washers](https://aliexpress.com/item/1005002046188859.html) between the cross-beam and the L-Brackets. If that doesn't improve anything, then you might have to use them also between the L-Brackets and the main-beam
 
-
-
-
 ## Z-Tower
+
+### Layout
+
+- Take the 2 250mm beams and the 230mm beam and place them next to eachother.
+- Just like with the main beam, use some L-Brackets to hold them together (you might have to remove some from the main-beam)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227799618-0c233b28-84bc-4700-b2c5-2423f761dd2d.png" width="800">
+  
+  [The blue side should be the side with pre cut threads by makerbeam]
+</div>
+
+
+### Drilling
+
+- Place two L-Brackets on each Side at the back of the main-beam.
+- Screw them tight with 2 screws leaving the hole in the back.
