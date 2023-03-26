@@ -32,6 +32,12 @@
 - Place two L-Brackets on each Side at the back of the main-beam.
 - Screw them tight with 2 screws leaving the hole in the back.
 
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/35639879/227793810-d42f6eea-ec58-4032-a626-c07d724a7548.jpg" height="400">
+
+</div>
+  
 1. Drill on one side trough the first beam with a 3mm drill. Do the same on the other side but with a 2.5mm drill.
 2. Drill trough the side where you just drilled the 3mm hole a 2.5mm hole into the beam in the middle. Tap the 2.5mm hole on the other side.
 3. Tap the 2.5mm hole in the middle beam trough the 3mm hole.
