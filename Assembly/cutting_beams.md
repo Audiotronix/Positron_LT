@@ -7,6 +7,7 @@
 - Clamps/Vice
 - Makerbeam L-Bracket
 - Makerbeam T-Nuts
+- M3 Tap
 
 ### Required Materials:
 - Makerbeam 900mm x2
@@ -54,6 +55,10 @@ Use the Makerbeam L-Brackets as guides so that you only have to cut along the br
 ### 30mm Beam:
 
 ![image](https://user-images.githubusercontent.com/35639879/227737350-acfd15d9-7693-4aee-a3b6-636e4ea5d1c0.png)
+
+For the 30mm beam, threads must be cut on both sides.
+
+---
 
 ## Photos:
 ![IMG_20220913_202254](https://user-images.githubusercontent.com/35639879/227737888-9dea04ea-6cc5-4a98-b6cb-d24dba62af21.jpg)
