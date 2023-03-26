@@ -130,5 +130,42 @@
 
 ### Drilling
 
-- Place two L-Brackets on each Side at the back of the main-beam.
-- Screw them tight with 2 screws leaving the hole in the back.
+- Place two L-Brackets on each Side at the top of the Z-Tower.
+- Screw them tight with 2 screws
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227801208-3e36f5cd-c378-49e1-88fe-bc55a675ace8.jpg" width="800">
+</div>
+
+1. Use a 3mm drill and drill trough the center hole on one side an on the other side trough the top hole.
+2. Take a 2.5mm drill and drill trough the just drilled holes into the center beam.
+3. Use the m3 tap and cut the threads into the center beam from both sides.
+4. Fasten the beams together with 2 20mm m3 screws. Remove the top screw on the side where you previously used the hole in the middle of the L-Bracket.
+5. Use the 2.5mm drill and drill a hole trough the top hole of the L-Bracket.
+6. Take the m3 tap and cut the threads into the outer beam in the previous cut hole.
+
+<div align="center">
+  
+  ![image](https://user-images.githubusercontent.com/35639879/227802792-b1fde394-3137-4cfa-a0a5-a14a4ce28a33.png)
+  
+  This should result in holes that allow screws to be placed like this:
+  
+ ![image](https://user-images.githubusercontent.com/35639879/227802947-9a27e393-6543-4244-90c1-18e060572047.png)
+
+</div>
+
+### Top-Cover
+
+- Now unscrew the L-Bracket at the side of the T-Tower
+- Place the first printed part `Z-AXIS-ENDSTOP` on the top trough
+- Fasten it with 1 m3x14mm and 2 m3x25mm screws
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/35639879/227803101-463a8bfc-4736-4820-93a4-f604ccf5f8a6.jpg" width="800">
+</div>
+
+- Now Remove all L-Brackets that are holding the Z-Tower together and only place one on the back of the tower near the bottom
+
+### Cubes
+
+- Take a 6mm drill and drill trough the whole cube (red circle)
