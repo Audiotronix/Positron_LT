@@ -32,16 +32,30 @@ BASEPART_BACK
 
 <img src="https://user-images.githubusercontent.com/35639879/227780293-9502d3bd-48ba-49a2-89d9-971f7417da00.png" width="400">
 
+[Insert x5]
+  
+---
+
 BASEPART_LEFT
 
 <img src="https://user-images.githubusercontent.com/35639879/227780306-8dc072fe-a397-4d97-86d0-ee4b4e80ca5c.png" width="400">
 
+[Insert x3]
+  
+---
+  
 BASEPART_RIGHT
 
 <img src="https://user-images.githubusercontent.com/35639879/227780316-a13d2618-565f-482b-85fa-6512f8062ba8.png" width="400">
 
+[Insert x2]
+  
+---
+  
 BASEPART_FRONT
 
 <img src="https://user-images.githubusercontent.com/35639879/227780331-ca0f50c9-c110-4afe-a897-f37427a6b926.png" width="400">
 
+[Insert x4]
+  
 </div>
