@@ -43,6 +43,11 @@
 <div align="center">
   
   ![image](https://user-images.githubusercontent.com/35639879/227791827-af6a194f-8a2f-4948-8d72-b1c9efeb8f90.png)
+  
+  This should result in holes that allow screws to be placed like this:
+  
+  ![image](https://user-images.githubusercontent.com/35639879/227791961-e77d8270-78fa-4dc6-83da-2ee20b7706f5.png)
+
 </div>
 
 > You can use a T-Nut if you messed the tap up. The nut needs to be placed in the middle beam. This technique is not recommended but might save your day.
