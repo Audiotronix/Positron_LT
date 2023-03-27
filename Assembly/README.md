@@ -29,7 +29,7 @@ Required lengths:
 #### Linear rails:
 MGN9_RAIL (250mm): 227mm
 MGW9_RAIL (250mm): 227mm
-MGN12_RAIL (250mm): 225mm
+MGN12_RAIL (250mm): 235mm
 
 ### Inserting inserts into the printed parts:
 
