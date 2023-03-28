@@ -157,7 +157,7 @@
 8. On the opposite side, remove the screw (and T-Nut) that sits on the same heigh as the just inserted 10mm screw and drill a 2.5mm wide hole into the outer and center beam.
 9. Cut M3 threads into the just drilled hole.
 10. Drill the just cut threads in the outer beam to a 3mm whide hole.
-11. Inser a 20mm M3 flathead screw.
+11. Insert a 20mm M3 flathead screw.
 
 <div align="center">
   
