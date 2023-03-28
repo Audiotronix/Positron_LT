@@ -36,29 +36,40 @@
 ### Drilling
 
 - Place two L-Brackets on each Side at the back of the main-beam.
-- Screw them tight with 2 screws leaving the hole in the back.
+- Screw them tight with 2 screws.
 
 <div align="center">
-
-  <img src="https://user-images.githubusercontent.com/35639879/227793810-d42f6eea-ec58-4032-a626-c07d724a7548.jpg" height="400">
+  
+  <img src="https://user-images.githubusercontent.com/35639879/228196916-5ccaad61-ac23-4f15-adf6-5eeeca03801a.png" height="400">
 
 </div>
   
-1. Drill on one side trough the first beam with a 3mm drill. Do the same on the other side but with a 2.5mm drill.
-2. Drill trough the side where you just drilled the 3mm hole a 2.5mm hole into the beam in the middle. Tap the 2.5mm hole on the other side.
-3. Tap the 2.5mm hole in the middle beam trough the 3mm hole.
-4. Fasten a 20mm m3 screw in the long hole and a 10mm m3 screw in the short hole.
-5. Unscrew on both sides the middle screw holding the L-Bracket (move the T-Nut tot he side). Drill a 2.5mm hole on the side of the long m3 screw. And a 3mm hole on the other side.
-6. Tap the 2.5mm hole and drill a 2.5mm hole trough the hole on the other side into the middle beam.
-7. Tap the 2.5mm hole in the middle beam trough the 3mm hole.
+1. On the first side remove the screw that's on the right side and drill a 2.5mm wide hole trough the outer and the center beam.
+2. Now cut a M3 Thread trough the just drilled hole with a tap into both beams.
+3. Drill the just cut thread in the outer beam to a 3mm wide hole.
+4. Insert a 20mm M3 flathead screw.
+5. Remove the left screw and drill a 2.5mm wide hole into the outer beam only.
+6. Cut a M3 Thread into the just drilled hole.
+7. Insert a 10mm M3 flathead screw.
+8. On the other side, remove the screw that sits at the same height as the 20mm screw on the opposite site and drill a 2.5mm wide hole into the outer beam.
+9. Now cut a M3 thread into the previous drilled hole.
+10. Insert a 10mm M3 flathead screw
+11. Remove the screw that sit's next to the just inserted screw and drill a 2.5mm wide hole into the outer and center beamm.
+12. Cut a M3 thread into the just drilled hole all the way trough the center beam.
+13. Drill the just cut thread in the outer beam to a 3mm wide hole.
+14. Insert a 20mm M3 flathead screw.
+
 
 <div align="center">
   
-  ![image](https://user-images.githubusercontent.com/35639879/227796811-fa0de517-8a40-4b5a-91ac-5f5694ad2d5d.png)
+  ![image](https://user-images.githubusercontent.com/35639879/228196608-2cfff654-1c65-4525-ba32-5ce591a71040.png)
 
   This should result in holes that allow screws to be placed like this:
   
-  ![image](https://user-images.githubusercontent.com/35639879/227796844-10cc051e-9c46-48c7-bfb7-7416d8ca10dd.png)
+  ![image](https://user-images.githubusercontent.com/35639879/228195504-eedc8fc1-e2fb-4c04-9b34-787bf4f47943.png)
+  
+  | <img src="https://user-images.githubusercontent.com/35639879/228199235-0fe4743c-5770-49ec-9f60-13e80ee46373.png" height="150"><br>[Step: 1 - 3] | <img src="https://user-images.githubusercontent.com/35639879/228199293-fef2cd27-e0eb-4b1e-ae3b-2af55fec97da.png" height="150"><br>[Step: 5-6] | <img src="https://user-images.githubusercontent.com/35639879/228199313-e92bffe6-51a5-47e5-970a-2fff631fdebe.png" height="150"><br>[Final] |
+| --- | --- | --- |
 
 </div>
 
