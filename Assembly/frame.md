@@ -44,17 +44,17 @@
 
 </div>
   
-1. On the first side remove the screw that's on the right side and drill a 2.5mm wide hole trough the outer and the center beam.
+1. On the first side remove the screw (and T-Nut) that's on the right side and drill a 2.5mm wide hole trough the outer and the center beam.
 2. Now cut a M3 Thread trough the just drilled hole with a tap into both beams.
 3. Drill the just cut thread in the outer beam to a 3mm wide hole.
 4. Insert a 20mm M3 flathead screw.
-5. Remove the left screw and drill a 2.5mm wide hole into the outer beam only.
+5. Remove the left screw (and T-Nut) and drill a 2.5mm wide hole into the outer beam only.
 6. Cut a M3 Thread into the just drilled hole.
 7. Insert a 10mm M3 flathead screw.
-8. On the other side, remove the screw that sits at the same height as the 20mm screw on the opposite site and drill a 2.5mm wide hole into the outer beam.
+8. On the other side, remove the screw (and T-Nut) that sits at the same height as the 20mm screw on the opposite site and drill a 2.5mm wide hole into the outer beam.
 9. Now cut a M3 thread into the previous drilled hole.
 10. Insert a 10mm M3 flathead screw
-11. Remove the screw that sit's next to the just inserted screw and drill a 2.5mm wide hole into the outer and center beamm.
+11. Remove the screw (and T-Nut) that sit's next to the just inserted screw and drill a 2.5mm wide hole into the outer and center beamm.
 12. Cut a M3 thread into the just drilled hole all the way trough the center beam.
 13. Drill the just cut thread in the outer beam to a 3mm wide hole.
 14. Insert a 20mm M3 flathead screw.
