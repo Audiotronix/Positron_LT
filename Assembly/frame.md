@@ -161,11 +161,11 @@
 
 <div align="center">
   
-  ![image](https://user-images.githubusercontent.com/35639879/228209398-5bc1c312-6870-4924-9733-48ad268b335c.png)
+  ![image](https://user-images.githubusercontent.com/35639879/228211087-881a5694-af85-4935-bda9-940a6e185bac.png)
   
   This should result in holes that allow screws to be placed like this:
   
- ![image](https://user-images.githubusercontent.com/35639879/227802947-9a27e393-6543-4244-90c1-18e060572047.png)
+ ![image](https://user-images.githubusercontent.com/35639879/228211151-1e32868f-2f54-440e-89c6-88c083dc1c1f.png)
 
 </div>
 
