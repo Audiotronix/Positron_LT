@@ -147,16 +147,21 @@
   <img src="https://user-images.githubusercontent.com/35639879/227801208-3e36f5cd-c378-49e1-88fe-bc55a675ace8.jpg" width="800">
 </div>
 
-1. Use a 3mm drill and drill trough the center hole on one side an on the other side trough the top hole.
-2. Take a 2.5mm drill and drill trough the just drilled holes into the center beam.
-3. Use the m3 tap and cut the threads into the center beam from both sides.
-4. Fasten the beams together with 2 20mm m3 screws. Remove the top screw on the side where you previously used the hole in the middle of the L-Bracket.
-5. Use the 2.5mm drill and drill a hole trough the top hole of the L-Bracket.
-6. Take the m3 tap and cut the threads into the outer beam in the previous cut hole.
+1. Remove the middle screw (and T-Nut) on the first side and drill a 2.5mm wide hole trough the outer and center beam
+2. Use a M3 Tap and cut the threads trough the just drilled hole into both beams.
+3. Drill a 3mm wide hole in the outer beam trough the previous cut thread.
+4. Insert a 20mm M3 flathead screw
+5. Remove the screw (and T-Nut) to the right of the just inserted screw and drill a 2.5mm wide hole into the outer beam.
+6. Cut M3 threads into the just thrilled hole.
+7. Inser a 10mm M3 flathead screw.
+8. On the opposite side, remove the screw (and T-Nut) that sits on the same heigh as the just inserted 10mm screw and drill a 2.5mm wide hole into the outer and center beam.
+9. Cut M3 threads into the just drilled hole.
+10. Drill the just cut threads in the outer beam to a 3mm whide hole.
+11. Inser a 20mm M3 flathead screw.
 
 <div align="center">
   
-  ![image](https://user-images.githubusercontent.com/35639879/227802792-b1fde394-3137-4cfa-a0a5-a14a4ce28a33.png)
+  ![image](https://user-images.githubusercontent.com/35639879/228209398-5bc1c312-6870-4924-9733-48ad268b335c.png)
   
   This should result in holes that allow screws to be placed like this:
   
