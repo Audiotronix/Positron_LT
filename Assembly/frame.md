@@ -3,10 +3,13 @@
 ### Required Tools:
 - M3 Hex Key driver
 - Drill
-- M2.5 Drill bit (2mm might also work)
-- M3 Drill bit
+- ⌀2.5 Drill bit (2mm might also work)
+- ⌀3 Drill bit
 - M3 Tap
 - M6 Tap
+
+Recommended:
+- [Drill press](https://www.printables.com/de/search/all?q=drill%20press)
 
 > A tap is recommended, threading with a screw might also work, but the screw can easily break off!
 
