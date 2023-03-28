@@ -88,7 +88,6 @@
   <img src="https://user-images.githubusercontent.com/35639879/227794954-92cb48e3-475a-4265-85bb-c55a068f45c8.png" height="400">
 </div>
 
-- Now use two L-Brackets and fasten them to the back of the main-beam using the 4 holes drilled earlier and 2 m3 10mm and 20mm screws.
 - Place the 30mm beam between the two L-Brackets and fasten it with 2 screws that came with the brackets.
 
 <div align="center">
