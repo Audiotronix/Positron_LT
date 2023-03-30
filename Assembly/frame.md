@@ -13,6 +13,8 @@ Recommended:
 
 > A tap is recommended, threading with a screw might also work, but the screw can easily break off!
 
+> If you don't have all the tools and don't want to buy new ones, then contact us on discord, we might know some workarounds
+
 ### Required Materials:
 - 240mm Makerbeam x2
 - 250mm Makerbeam x3
