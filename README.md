@@ -82,7 +82,7 @@ Positron LT is a 3D printer design that is fully open source, which means anyone
 
 - **For personal, educational, and non-commercial use**: The design is available under the GNU General Public License v3.0 (GPLv3). This means you can use, modify, and share the design freely, as long as you also share any changes you make under the same dual-licensing model. This ensures that the open-source nature of the project is maintained. See the [GNU General Public License v3.0 (GPLv3)](LICENSE) file for the full text of the GPLv3.
 
-- **For commercial use or financial gain**: We offer a custom commercial license for companies or individuals who want to use the design for commercial purposes or financial gain. This separate license includes a small royalty fee, which helps support the project. See the [Custom Commercial License](LICENCE-COMMERCIAL) file for details.
+- **For commercial use or financial gain**: We offer a custom commercial license for companies or individuals who want to use the design for commercial purposes or financial gain. This separate license includes a small royalty fee, which helps support the project. See the [Commercial License](LICENCE-COMMERCIAL) file for details.
 
 ### Contributing
 
@@ -93,5 +93,5 @@ We welcome and appreciate contributions to Positron LT! By contributing to this 
 Positron LT uses a dual-licensing model:
 
 - The GNU General Public License v3.0 (GPLv3) for personal, educational, and non-commercial use and contributions. See the [GNU General Public License v3.0 (GPLv3)](LICENSE) file.
-- A commercial license for commercial use or financial gain. See the [Custom Commercial License](LICENCE-COMMERCIAL) file.
+- A commercial license for commercial use or financial gain. See the [Commercial License](LICENCE-COMMERCIAL) file.
 
