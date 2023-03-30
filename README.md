@@ -76,8 +76,24 @@ RepRap means that most parts of the printer can be printed and nothing needs to 
 
 ## License
 
-License usage: CC-BY
+# Positron LT
 
-All hardware materials and designs provided here are licensed under the CC-BY-SA-4.0 hardware license. All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.0 license.
+Positron LT is a 3D printer design that is fully open source, which means anyone can use, modify, and share the design. We use a dual-licensing model to ensure that the project remains open source while providing a separate license for entities who want to use the design for financial gain.
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+## Licensing Explained
+
+- **For personal, educational, and non-commercial use**: The design is available under the GNU General Public License v3.0 (GPLv3). This means you can use, modify, and share the design freely, as long as you also share any changes you make under the same dual-licensing model. This ensures that the open-source nature of the project is maintained. See the `LICENSE` file for the full text of the GPLv3.
+
+- **For commercial use or financial gain**: We offer a custom commercial license for companies or individuals who want to use the design for commercial purposes or financial gain. This separate license includes a small royalty fee, which helps support the project. See the `LICENSE-COMMERCIAL` file for details.
+
+## Contributing
+
+We welcome and appreciate contributions to Positron LT! By contributing to this project, you agree that your contributions will be licensed under the dual-licensing model, with the GPLv3 applying to non-commercial use and contributions, and the custom commercial license applying for commercial use or financial gain.
+
+## License Summary
+
+Positron LT uses a dual-licensing model:
+
+- The GNU General Public License v3.0 (GPLv3) for personal, educational, and non-commercial use and contributions. See the `LICENSE` file.
+- A custom commercial license for commercial use or financial gain. See the `LICENSE-COMMERCIAL` file.
+
