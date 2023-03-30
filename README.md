@@ -8,6 +8,11 @@
 
 | [All Parts (BOM)](/Parts) | [Assembly](/Assembly) | [Software](/Software) | [Gallery](/Gallery) | [Download Repo](../../archive/refs/heads/main.zip)
 | --- | --- | --- | --- | --- |
+
+<br>
+
+[<img src="https://discordapp.com/api/guilds/1067472931246047323/widget.png?style=banner2">](https://discord.gg/HJ44ZeGG2F)
+
 </div>
 
 <br>
