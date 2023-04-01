@@ -9,7 +9,7 @@
 - M6 Tap
 
 Recommended:
-- [Drill press](https://www.printables.com/de/search/all?q=drill%20press)
+- [Drill press](https://www.printables.com/de/search/all?q=drill%20press) (regular handheld drill should also work when used carefully)
 
 > A tap is recommended, threading with a screw might also work, but the screw can easily break off!
 
@@ -127,7 +127,7 @@ Recommended:
 
 > You can now check all screws that hold the L-Brackets and the cube and retighten them.
 
-> If the two spare cubes below the cross-bar are stuck, then you might have to use [.2mm washers](https://aliexpress.com/item/1005002046188859.html) between the cross-beam and the L-Brackets. If that doesn't improve anything, then you might have to use them also between the L-Brackets and the main-beam
+> You might have to use .2mm washers when the cubes below the cross-bar are stuck. Place them between the cross-bar and the L-Brackets. If they are still stuck then also use them between the L-Brackets and the main beam. You should already have bought some .2mm washers from the bom, they might be visible when used, that's why you might want to buy some [smaller ones](https://aliexpress.com/item/1005002046188859.html)
 
 ## Z-Tower
 
@@ -211,7 +211,7 @@ Recommended:
 
 - Take the main-beam and the Z-Tower and put them together.
 - The two cubes of the Z-Tower should slot below the 30mm cross-bar.
-- If they do not fit, then you might have to use [.2mm washers](https://aliexpress.com/item/1005002046188859.html) between the cross-beam and the L-Brackets. If that doesn't improve anything, then you might have to use them also between the L-Brackets and the main-beam
+- You might have to use .2mm washers when the cubes below the cross-bar are stuck. Place them between the cross-bar and the L-Brackets. If they are still stuck then also use them between the L-Brackets and the main beam. You should already have bought some .2mm washers from the bom, they might be visible when used, that's why you might want to buy some [smaller ones](https://aliexpress.com/item/1005002046188859.html)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/35639879/227805372-79ac1fa6-708c-4717-acdb-6ad6997c0e22.jpg" width="800">
