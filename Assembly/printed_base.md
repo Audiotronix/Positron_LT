@@ -106,20 +106,20 @@ Recommended:
 - Loosely fasten the beam to the printed part using 4 14mm m3 screws
 - Turn the whole assembly upside down
 
+#### Drilling & fully fasten
+
 <div align="center">
   
-  | <img src="https://user-images.githubusercontent.com/35639879/229316280-21349226-ef39-4ca4-ba0a-015058f89314.png" width="1000"> |  1. Yellow: Pull the L-Brackets to the outside, make sure that they afterwards still sit square on the beams. <br> 2. Blue: Fully tighten the makerbeam screws <br> 3. Red: Drill 4x 2.5mm hole trough the whole beam and cut m3 threads in the just drilled holes. |
+  | <img src="https://user-images.githubusercontent.com/35639879/229355428-71cc24d1-192a-4e8d-aed5-d157a7c69f62.png" width="1000"> |  1. Yellow: Pull the L-Brackets to the outside, make sure that they afterwards still sit square on the beams. <br> 2. Blue: Fully tighten the makerbeam screws <br> 3. Red: Drill 4x 2.5mm hole trough the whole beam and cut m3 threads in the just drilled holes. |
   | --- | :--- |
 
 </div>
 
 - Turn the whole assembly upside down one more time
 
-#### Drilling & fully fasten
-
 <div align="center">
 
-  | <img src="https://user-images.githubusercontent.com/35639879/229355428-71cc24d1-192a-4e8d-aed5-d157a7c69f62.png" width="1000"> |  1. Yellow: Push the left & right assembly to the printed front <br> 2. Blue: Fully tighten the 4 screws holding the left & right assembly |
+  | <img src="https://user-images.githubusercontent.com/35639879/229355686-cbed1834-1ce3-40d4-bb72-b9e388e54607.png" width="1000"> |  1. Yellow: Push the left & right assembly to the printed front <br> 2. Blue: Fully tighten the 4 screws holding the left & right assembly |
   | --- | :--- |
 
 </div>
