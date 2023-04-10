@@ -38,14 +38,14 @@ mechanical,Extruder,HOTEND_COMPLETE,1,"35,77€",1,https://aliexpress.com/item/1
 category_info,electronics,,,---,---,---,---,
 mechanical,electronics,10PIN_EXP_FEMALE,1,"0,88€",10,https://aliexpress.com/item/1005002431897617.html,---,Select 10P
 mechanical,electronics,10PIN_MALE_CONNECTOR,1,"1,12€",1,https://aliexpress.com/item/33029492417.html,https://amzn.to/3XzUQMl,Select 2x5 10pin
-mechanical,electronics,6_PIN_MAGNETIC_POGO,1,"3,30€",1,https://aliexpress.com/item/1005002669709542.html,---,Select 6pin Straight
+mechanical,electronics,6_PIN_MAGNETIC_POGO,1,"3,30€",1,https://aliexpress.com/item/1005002669709542.html,---,Select 6pin Straight !! Note from Muon3D: Included with the Muon3D heated bed.
 mechanical,electronics,C7_PLUG-IN,1,"0,23€",1,https://aliexpress.com/item/4001252791878.html,---,
 mechanical,electronics,CABLE_C7_SWITCH,1,"9,99€",1,https://amzn.to/3w4nDgk,https://amzn.to/3XzU6qx,We recommend using a cable with a switch or an adapter like this: https://aliexpress.com/item/1005002301827800.html / https://amzn.to/3XzSGfH
 mechanical,electronics,EPP-200-24,1,"52,30€",1,https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-24?qs=C9r8PV%2F%252BoWOh4U0pNOxnkQ%3D%3D,https://amzn.to/3WfsBS9,"Meanwell EPP-200-24 !! Note from Muon3D: If theMuon3D heated bed is being used, the EPP-200-27 improves its performance by 30-40%. (70-80w at 24v, 90-100w at 27v). https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-27?qs=C9r8PV%2F%252BoWPXQf6mJFm6HA%3D%3D"
 mechanical,electronics,FAN_2510,2,"10,69€",2,https://aliexpress.com/item/32807610078.html,https://amzn.to/3iCEaVR,"24V Dual Ball XH2,54"
 mechanical,electronics,FAN_3010,1,"3,59€",1,https://aliexpress.com/item/1005002568592831.html?,---,Select 24V xh2.54 2pin
 mechanical,electronics,FAN_5015,1,"8,67€",1,https://aliexpress.com/item/1005002517858129.html,https://aliexpress.com/item/32844339310.html,Select 24V model
-mechanical,electronics,HEATED_GLASSBED_MUON-3D,1,"45,95€",1,https://muon3d.com/products/positron-v3-transparent-heated-bed,---,"Highly recomended !! Note from Muon3D: If theMuon3D heated bed is being used, the EPP-200-27 improves its performance by 30-40%. (70-80w at 24v, 90-100w at 27v). https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-27?qs=C9r8PV%2F%252BoWPXQf6mJFm6HA%3D%3D"
+mechanical,electronics,HEATED_GLASSBED_MUON-3D,1,"45,95€",1,https://muon3d.com/products/positron-v3-transparent-heated-bed,---,"Highly recomended !! Note from Muon3D: If the Muon3D heated bed is being used, the EPP-200-27 improves its performance by 30-40%. (70-80w at 24v, 90-100w at 27v). https://www.mouser.de/ProductDetail/MEAN-WELL/EPP-200-27?qs=C9r8PV%2F%252BoWPXQf6mJFm6HA%3D%3D"
 mechanical,electronics,HEATER_CARTRIGE_1,1,"1,27€",1,https://aliexpress.com/item/32843289523.html,---,Select 24V 50W 1M
 mechanical,electronics,HEAT_SINK_RPI_2MM,1,"5,72€",1,https://aliexpress.com/item/1005004772727034.html,,2mm height
 mechanical,electronics,LED_4X_15X15,1,"0,45€",1,https://aliexpress.com/item/1005002674028098.html,---,Select 4Bit Rectangular
