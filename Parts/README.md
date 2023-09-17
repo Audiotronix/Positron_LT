@@ -56,14 +56,14 @@
 ## [Mechanical Parts](./Mechanical%20Parts)
 
 ### EXTRUDER:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
+|                    Part Name                    |CAD|                              Link                             |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [ANGLED_EXTRUDER_MOD](./Mechanical%20Parts/ANGLED_EXTRUDER_MOD.stl) | 1 | [link](https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp) | --- | --- | Designed by HarryLoud: [link](https://github.com/FramingApp/PositronV3B-High-Speed-Edition/blob/10x10makerbeams_w_screw_z_axis/CAD%20%20files/Angled%20Extruder%20Mod.stp) |
 | [CAPRICORN_PTFE_TUBE_1](./Mechanical%20Parts/CAPRICORN_PTFE_TUBE_1.stl) | 1 | [link](https://aliexpress.com/item/1005003433217588.html) / [link](https://amzn.to/3jBuaMN) | 1 | 8,25€ | About 60cm required |
 | [HOTEND_COMPLETE](./Mechanical%20Parts/HOTEND_COMPLETE.stl) | 1 | [link](https://aliexpress.com/item/1005004802238357.html) | 1 | 35,77€ | Funssor hotend complete / will be replaced with Phaetus hotend when available  |
 
 ### ELECTRONICS:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
+|                    Part Name                    |CAD|                              Link                             |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [10PIN_EXP_FEMALE](./Mechanical%20Parts/10PIN_EXP_FEMALE.stl) | 1 | [link](https://aliexpress.com/item/1005002431897617.html) | 10 | 0,88€ | Select 10P |
 | [10PIN_MALE_CONNECTOR](./Mechanical%20Parts/10PIN_MALE_CONNECTOR.stl) | 1 | [link](https://aliexpress.com/item/33029492417.html) / [link](https://amzn.to/3XzUQMl) | 1 | 1,12€ | Select 2x5 10pin |
@@ -86,7 +86,7 @@
 | [THERMISTOR_1](./Mechanical%20Parts/THERMISTOR_1.stl) | 1 | [link](https://aliexpress.com/item/32812361274.html) / [link](https://amzn.to/3Y2qRxg) | 5 | 2,17€ | 1000K |
 
 ### FASTENERS:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
+|                    Part Name                    |CAD|                              Link                             |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_7979_M3X4X12](./Mechanical%20Parts/DIN_7979_M3X4X12.stl) | 2 | [link](https://aliexpress.com/item/1005003200850626.html) | 5 | 4,30€ | Select M3 (OD 4mm), 12mm (5pcs) |
 | [DIN_7991_M3X12](./Mechanical%20Parts/DIN_7991_M3X12.stl) | 4 | [link](https://aliexpress.com/item/1005003107985358.html) / [link](https://amzn.to/3lbRscQ) | 50 | 2,06€ |  |
@@ -107,7 +107,7 @@
 
 ### MAKERBEAM:
 Since Makerbeam does not sell beams with the needed length, they can either be cut by makerbeam or yourself. A cut by makerbeam costs 3.50€ you can find that service here:  [link](https://www.makerbeam.com/cut-and-tap-for-10x10mm.html) . Either way, you need to buy beams that are able to be cut in the desired lengths for which we created a cutting plan that can be found here: [link](https://github.com/Audiotronix/Positron_LT/blob/main/Parts/makerbeam_cuttingplan.pdf)
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
+|                    Part Name                    |CAD|                              Link                             |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_34805_M3X4](./Mechanical%20Parts/DIN_34805_M3X4.stl) | 7 |  | 25 | --- | Included with T-slot nut |
 | [DIN_7991_M3X4](./Mechanical%20Parts/DIN_7991_M3X4.stl) | 3 |  | 25 | --- | Included with T-slot nut |
@@ -123,10 +123,10 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [MAKERBEAM_T-NUT_101619-1](./Mechanical%20Parts/MAKERBEAM_T-NUT_101619-1.stl) | 33 | [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) / [link](https://amzn.to/3DGxXPI) | 25 | 14,98€ | Order the big pack: [link](https://www.makerbeam.com/makerbeam-t-slot-nuts-for-makerbeam-25p.html) and a small one: [link](https://www.makerbeam.com/linear-slide-kit-t-slot-nuts-5p-and-5mm-bolts-m3-1.html) / [link](https://amzn.to/3DGxXPI) |
 
 ### MOTION:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
+|                    Part Name                    |CAD|                              Link                             |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [F5-10_BEARING](./Mechanical%20Parts/F5-10_BEARING.stl) | 2 | [link](https://aliexpress.com/item/4000211452548.html) / [link](https://amzn.to/3l24CZH) | 1 | 0,27€ |  |
-| [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](https://aliexpress.com/i/32966483895.html) | 10 | 4,89€ | F683zz 3x7x2.5mm (3 times) |
+| [F683_OPEN_BEARING-H25-](./Mechanical%20Parts/F683_OPEN_BEARING-H25-.stl) | 28 | [link](aliexpress.com/item/1005004282333265.html) | 10 | 2,95€ | Select 3 times |
 | [GT2_16T_IDLER_SMOOTH](./Mechanical%20Parts/GT2_16T_IDLER_SMOOTH.stl) | 1 | [link](https://aliexpress.com/item/32971394035.html) / [link](https://amzn.to/3DF3bad) | 1 | 0,55€ | Select 16T W6 B3 Without T |
 | [GT2_BELT-3MM_L1650MM](./Mechanical%20Parts/GT2_BELT-3MM_L1650MM.stl) | 1 | [link](https://www.ebay.de/itm/283457733982?var=585183190920) / [link](https://amzn.to/3wUc9MT) | 1 | 5,00€ | Select x 2m (Y32) (You also can cut an 6mm belt in 2pieces. recommented cut at~2,8mm) |
 | [GT2_BELT-6MM_L178MM](./Mechanical%20Parts/GT2_BELT-6MM_L178MM.stl) | 1 | [link](https://aliexpress.com/item/1005004100120790.html) / [link](https://amzn.to/3DIaihV) | 1 | 1,07€ | Select 2GT-178, Belt Width 6mm 1pcs |
@@ -144,14 +144,14 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | [PULLEY_T20_LOWPROFILE](./Mechanical%20Parts/PULLEY_T20_LOWPROFILE.stl) | 4 | [link](https://aliexpress.com/item/32913757229.html) | 1 | 0,99€ | Select 20T Bore 5mm |
 
 ### SHIMS:
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
+|                    Part Name                    |CAD|                              Link                             |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [DIN_125_M5](./Mechanical%20Parts/DIN_125_M5.stl) | 2 | [link](https://aliexpress.com/item/1005002148389665.html) | 25 | 1,48€ | Select M5(25PCS) |
 | [DIN_433_M3](./Mechanical%20Parts/DIN_433_M3.stl) | 12 | [link](https://aliexpress.com/item/4001213983709.html) | 100 | 2,21€ | Select 3x6x0.5 |
 | [DIN_988_7X13X02](./Mechanical%20Parts/DIN_988_7X13X02.stl) | 40 | [link](https://aliexpress.com/item/1005002046188859.html) / [link](https://amzn.to/3DF8rdF) | 50 | 1,91€ | Select 50pcs M7x13xThick, Thick 0.2mm |
 | [DIN_988_M3X02](./Mechanical%20Parts/DIN_988_M3X02.stl) | 8 | [link](https://aliexpress.com/item/1005001878233881.html) / [link](https://amzn.to/3X3Y1LN) | 50 | 1,26€ | Select M3x6xThick 50pcs, 0.2mm thick |
 
-|                    Part Name                    |CAD|      Link     |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
+|                    Part Name                    |CAD|                              Link                             |PCS | Price |                                                                                                                                 Note                                                                                                                                 |
 | --- | --- | :---: | :---: | :---: | :--- |
 | [BUFFER_BOTTOM](./Mechanical%20Parts/BUFFER_BOTTOM.stl) | 4 | [link](https://aliexpress.com/item/1005001559607723.html) | 100 | 1,06€ |  |
 | [DUST_COVER_85X52](./Mechanical%20Parts/DUST_COVER_85X52.stl) | 2 | [link](https://aliexpress.com/item/4001283014835.html) | --- | --- | Highly recommended!  need to be cutted in 85x52mm and clued under the air shrout left and right |
@@ -171,10 +171,10 @@ Since Makerbeam does not sell beams with the needed length, they can either be c
 | ELECTRONICS | 259,2€ | 256,67€ |
 | FASTENERS | 36,13€ | 11,67€ |
 | MAKERBEAM | 54,86€<br>+29,35€ | 28,31€<br>+29,35€ |
-| MOTION | 104,61€ | 102,78€ |
+| MOTION | 98,79€ | 97,35€ |
 | SHIMS | 6,86€ | 2,12€ |
 | OTHER | 1,06€ | 0,04€ |
 | | | |
-| Total | 536,09€ | 474,96€ |
+| Total | 530,27€ | 469,53€ |
 
 > Note: Prices were calculated 20.01.2023, so might no longer be accurate
