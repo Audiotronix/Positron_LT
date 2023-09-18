@@ -54,7 +54,7 @@ mechanical,electronics,MOTOR_17HS08-1004S,3,"8,28€",1,https://www.omc-steppero
 mechanical,electronics,RPI_ZERO_2W,1,"22,50€",1,https://www.reichelt.de/raspberry-pi-zero-2-w-4x-1-ghz-512-mb-ram-wlan-bt-rasp-pi-zero2-w-p313902.html,https://amzn.to/3IR9ASM,You can also use an Bananapi Pi M2 Zero as substituion: https://github.com/FramingApp/BananaPi_Positron_Klipper_Moonraker_Fluidd
 mechanical,electronics,SKR-PICO,1,"29,99€",1,https://biqu.equipment/en-au/products/btt-skr-pico-v1-0?gclid=CjwKCAiAwomeBhBWEiwAM43YIOvnWHL1d_gL9JZOJv0NXWEOn_D7bIm7ABq6lV0AC8m1ZX9RPwaezRoCCXAQAvD_BwE,https://amzn.to/3QKw7Tj,
 mechanical,electronics,TFT_35,1,"17,34€",1,https://aliexpress.com/item/1005004864671870.html,https://amzn.to/3l8vAPt,
-mechanical,electronics,THERMISTOR_1,1,"2,17€",5,https://aliexpress.com/item/32812361274.html,https://amzn.to/3Y2qRxg,1000K
+mechanical,electronics,THERMISTOR_1,1,"2,17€",5,aliexpress.com/item/32812361274.html,https://amzn.to/3Y2qRxg,Select with XH2.54 terminal
 category_info,fasteners,,,---,---,---,---,
 mechanical,fasteners,DIN_7979_M3X4X12,2,"4,30€",5,https://aliexpress.com/item/1005003200850626.html,---,"Select M3 (OD 4mm), 12mm (5pcs)"
 mechanical,fasteners,DIN_7991_M3X12,4,"2,06€",50,https://aliexpress.com/item/1005003107985358.html,https://amzn.to/3lbRscQ,
