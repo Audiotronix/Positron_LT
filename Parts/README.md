@@ -11,6 +11,12 @@
 
 :exclamation: **These parts are not complete. Printhead and Extruder assemblies may be missing or are currently being developed.** :exclamation:
 
+
+| You can also install [this extension](https://share-a-cart.com/) and fill your AliExpress cart with just one click.<br>Be aware that this shared cart includes every part besides the makerbeam parts.<br>Things like a raspberry or the psu are also included and might be cheaper when sourced elsewhere.<br><br>Cart id: [J39TS](https://share-a-cart.com/get/J39TS)<br><br> We don't know what happens when a store changes it's goods and the shared cart tries to add the product. So please check after importing the cart for completeness.|
+| :--- |
+
+</diV>
+
 ## [Printed Parts](./Printed%20Parts)
 
 |                   Part Name                   | STL | STEP |Amount| Print Time | Used filament (g)|
